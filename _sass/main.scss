@@ -1,0 +1,11 @@
+//	Bootstrap css-styles
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+//	Custom styles
+@import "1-base/variables";
+@import "1-base/typography";
+
+@import "2-elements/buttons";
+@import "2-elements/navbar";
+
+@import "3-sections/home-hero";

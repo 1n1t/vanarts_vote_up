@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title></title>
+
+    <!-- ### meta attributes ###-->
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <h1>hello there</h1>
+    <div class="test"></div>
+
+    <script>
+        var request = new XMLHttpRequest();
+        request.open("GET", "data.json", false);
+        request.send(null)
+        var my_JSON_object = JSON.parse(request.responseText);
+        document.getElementsByClassName('test')[0].innerHTML = my_JSON_object.message;
+        console.log(my_JSON_object.message);
+
+//        $.getJSON('../../data/file.json', function(data) {
+//            alert(data);
+//        });
+    </script>
+</body>
+</html>
