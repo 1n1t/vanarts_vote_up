@@ -1,8 +1,30 @@
+//	Our variables
+@import "1-base/variables";
+
 //	Bootstrap css-styles
+
+//  	bootstrap variables
+
+$enable-rounded: false;
+
+//		redefining generic bootstrap styles
+$theme-colors: (
+		primary: $primary-color,
+		secondary: $secondary-color,
+		success: white,
+		info: white,
+		warning: white,
+		danger: white,
+		light: white,
+		dark: white
+);
+
+//		import bootstrap stylesheet
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+
+
 //	Custom styles
-@import "1-base/variables";
 @import "1-base/typography";
 
 @import "2-elements/buttons";
