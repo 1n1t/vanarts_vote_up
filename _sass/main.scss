@@ -5,7 +5,7 @@
 
 //  	bootstrap variables
 
-$enable-rounded: false;
+$enable-rounded: true;
 
 //		redefining generic bootstrap styles
 $theme-colors: (
@@ -26,12 +26,9 @@ $theme-colors: (
 
 //	Custom styles
 @import "1-base/typography";
+@import "1-base/layout";
 
 @import "2-elements/buttons";
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
-
-body {
-	background-color: $secondary-color;
-}
