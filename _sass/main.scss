@@ -11,7 +11,7 @@ $enable-rounded: false;
 $theme-colors: (
 	primary: $primary-color,
 	secondary: $secondary-color,
-	success: green,
+	success: #a30000,
 	info: white,
 	warning: white,
 	danger: white,
@@ -33,5 +33,5 @@ $theme-colors: (
 @import "3-sections/home-hero";
 
 body {
-	background-color: $secondary-color;
+	background-color: info;
 }
