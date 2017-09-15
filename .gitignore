@@ -1,3 +1,4 @@
 node_modules
 .idea
 .sass_cache
+.eslintrc.json
