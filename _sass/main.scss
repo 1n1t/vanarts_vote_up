@@ -31,6 +31,7 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
+@import "3-sections/home-statistics";
 
 body {
 	background-color: $secondary-color;

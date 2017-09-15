@@ -6241,6 +6241,19 @@ a.text-dark:focus, a.text-dark:hover {
 h1 {
   font-size: 5rem; }
 
+.card-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%; }
+
+.card-title {
+  font-weight: bold;
+  color: #aa301a; }
+
+.card {
+  background: #EBEBEB;
+  padding: 10px; }
+
 body {
   background-color: #a34000; }
 
