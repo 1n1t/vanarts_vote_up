@@ -2,7 +2,9 @@
   "name": "vote_up",
   "description": "",
   "main": "gulpfile.js",
-  "scripts": {},
+  "scripts": {
+    "gulp": "gulp"
+  },
   "author": "tom",
   "devDependencies": {
     "autoprefixer": "^7.1.4",

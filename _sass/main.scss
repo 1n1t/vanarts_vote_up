@@ -9,14 +9,14 @@ $enable-rounded: false;
 
 //		redefining generic bootstrap styles
 $theme-colors: (
-		primary: $primary-color,
-		secondary: $secondary-color,
-		success: white,
-		info: white,
-		warning: white,
-		danger: white,
-		light: white,
-		dark: white
+	primary: $primary-color,
+	secondary: $secondary-color,
+	success: green,
+	info: white,
+	warning: white,
+	danger: white,
+	light: white,
+	dark: white
 );
 
 //		import bootstrap stylesheet
@@ -31,3 +31,7 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
+
+body {
+	background-color: $secondary-color;
+}
