@@ -6402,4 +6402,21 @@ h1 {
 img {
   width: 100%; }
 
+.card-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%; }
+
+.card-title {
+  font-weight: bold;
+  color: #aa301a; }
+
+.card {
+  background: #EBEBEB;
+  padding: 10px; }
+
+body {
+  background-color: #a34000; }
+
+
 /*# sourceMappingURL=main.css.map */
