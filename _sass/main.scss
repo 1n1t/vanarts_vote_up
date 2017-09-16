@@ -10,8 +10,13 @@ $enable-rounded: false;
 //		redefining generic bootstrap styles
 $theme-colors: (
 	primary: $primary-color,
+<<<<<<< HEAD
 	secondary: $secondary-color,
 	success: #a30000,
+=======
+	secondary: white,
+	success: green,
+>>>>>>> 02b70435c56b1403e3c65cc4d3361cdf57159564
 	info: white,
 	warning: white,
 	danger: white,
@@ -26,12 +31,17 @@ $theme-colors: (
 
 //	Custom styles
 @import "1-base/typography";
+@import "1-base/layout";
 
 @import "2-elements/buttons";
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
 
+<<<<<<< HEAD
 body {
 	background-color: info;
 }
+=======
+@import "3-sections/home-statistics";
+>>>>>>> 02b70435c56b1403e3c65cc4d3361cdf57159564

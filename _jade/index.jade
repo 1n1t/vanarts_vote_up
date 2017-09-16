@@ -1,21 +1,26 @@
 doctype html
 html(lang="en")
-  head
-    title I need a title
-    include partials/shared/head
+	head
+		title I need a title
+		include partials/shared/head
 
-  body
+	body
 
-    include partials/shared/header
+	include partials/shared/header
 
-    include partials/home/hero
-    
-    h1 Index page
-    button.btn.btn-primary Primary button
-    button.btn.btn-secondary Secondary button
+	include partials/home/hero
 
-    include partials/shared/footer
+	main.container
+		h1 Index pag
+		button.btn.btn-primary Primary button
+		button.btn.btn-secondary Secondary button
 
-    include partials/shared/footer-scripts
+		include partials/home/mps
+
+		include partials/home/statistics
+
+	include partials/shared/footer
+
+	include partials/shared/footer-scripts
 
 
