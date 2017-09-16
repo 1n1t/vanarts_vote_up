@@ -6262,4 +6262,17 @@ img {
   padding: 0 70px;
   margin: 0; }
 
+.card-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%; }
+
+.card-title {
+  font-weight: bold;
+  color: #D0021B; }
+
+.card {
+  background: grey;
+  padding: 10px; }
+
 /*# sourceMappingURL=main.css.map */
