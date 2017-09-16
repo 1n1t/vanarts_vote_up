@@ -5,12 +5,12 @@
 
 //  	bootstrap variables
 
-$enable-rounded: true;
+$enable-rounded: false;
 
 //		redefining generic bootstrap styles
 $theme-colors: (
 	primary: $primary-color,
-	secondary: $secondary-color,
+	secondary: white,
 	success: green,
 	info: white,
 	warning: white,
@@ -32,8 +32,5 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
-@import "3-sections/home-statistics";
 
-body {
-	background-color: $secondary-color;
-}
+@import "3-sections/home-statistics";
