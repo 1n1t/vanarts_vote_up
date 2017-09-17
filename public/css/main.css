@@ -6353,7 +6353,13 @@ img {
   transition: all 0.5s;
   font-size: 1.125rem;
   padding: 10px 30px;
-  cursor: pointer; }
+  cursor: pointer;
+  text-transform: uppercase; }
+  .btn.disabled, .btn.disabled:hover {
+    border-color: #4b4b4b;
+    color: #4b4b4b;
+    background-color: white;
+    cursor: not-allowed; }
 
 .btn-primary {
   background-color: #D0021B;
@@ -6368,6 +6374,10 @@ img {
   .btn-secondary:hover {
     background-color: #D0021B;
     color: white; }
+
+.btn-sm, .btn-group-sm > .btn {
+  font-size: 0.875rem;
+  padding: 5px 10px; }
 
 .navbar-css {
   margin-top: 60px;
@@ -6695,7 +6705,9 @@ img {
 
 .multiselect.dropdown-toggle {
   background-color: white;
-  border: 1px solid #D0021B; }
+  border: 1px solid #D0021B;
+  font-size: 1rem;
+  padding: 8px 12px; }
   .multiselect.dropdown-toggle::after {
     color: #D0021B; }
 
@@ -6732,5 +6744,24 @@ img {
   .btn-vote.active {
     background-color: #D0021B;
     color: white; }
+
+.progress-icon {
+  position: fixed;
+  width: 28px;
+  right: calc(70px / 2 - 28px / 2);
+  top: calc(50% - 24px / 2); }
+
+.progress-box {
+  width: 240px;
+  position: fixed;
+  right: 70px;
+  top: 50%;
+  border: #D0021B solid 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  padding: 15px 25px; }
+  .progress-box img {
+    width: 65%;
+    margin-bottom: 20px; }
 
 /*# sourceMappingURL=main.css.map */
