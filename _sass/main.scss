@@ -10,7 +10,7 @@ $enable-rounded: false;
 //		redefining generic bootstrap styles
 $theme-colors: (
 	primary: $primary-color,
-	secondary: $secondary-color,
+	secondary: white,
 	success: green,
 	info: white,
 	warning: white,
@@ -23,10 +23,20 @@ $theme-colors: (
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 //	Custom styles
+@import "0-libraries/bootstrap-multiselect";
+
 @import "1-base/typography";
+@import "1-base/layout";
 
 @import "2-elements/buttons";
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
 @import "3-sections/home-parties"
+@import "3-sections/home-statistics";
+
+@import "3-sections/parties-main";
+
+@import "3-sections/compare-filters";
+@import "3-sections/compare-table";
+

@@ -1,3 +1,10 @@
 node_modules
 .idea
 .sass_cache
+.eslintrc.json
+public/css/main.css
+public/css/main.css.map
+public/index.html
+public/compare.html
+public/mps.html
+public/parties.html
