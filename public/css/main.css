@@ -6315,6 +6315,16 @@ h1 {
   color: #D0021B;
   font-weight: 700; }
 
+h2 {
+  font-size: 2rem;
+  color: #D0021B;
+  font-weight: 700; }
+
+h3 {
+  font-size: 1.7rem;
+  color: #D0021B;
+  font-weight: 700; }
+
 p {
   font-size: 1rem;
   color: #4A4A4A;
@@ -6338,72 +6348,53 @@ img {
   color: #D0021B; }
 
 .card {
-  background: grey;
+  background: white;
   padding: 10px; }
 
-.filters {
+.title {
+  margin-top: 60px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
 
-.filters__parties {
-  -ms-flex-preferred-size: 65%;
-      flex-basis: 65%; }
+.thin-line {
+  border: #D0021B solid 1px;
+  margin: 40px; }
 
-.filters__toggle {
-  display: inline-block;
-  padding: 8px 12px;
-  margin-right: 30px;
-  cursor: pointer;
-  line-height: 1.25rem;
-  min-height: 20px;
-  border: 1px solid #D0021B;
-  background-color: white;
+.leader-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-line-pack: start;
+      align-content: flex-start; }
+
+.deputy-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
+
+.leader-img {
+  border: #D0021B solid 5px;
+  max-width: 300px;
+  margin-bottom: 15px; }
+
+.deputy-img {
+  max-width: 180px;
+  margin-bottom: 15px;
+  border: #D0021B solid 5px; }
+
+.red {
   color: #D0021B; }
-  .filters__toggle.active {
-    background-color: #D0021B;
-    color: white; }
-
-.multiselect-selected-text {
-  color: #D0021B; }
-
-.multiselect.dropdown-toggle {
-  background-color: white;
-  border: 1px solid #D0021B; }
-  .multiselect.dropdown-toggle::after {
-    color: #D0021B; }
-
-.multiselect-container > li > a > label {
-  padding: 5px 10px; }
-
-.policies {
-  margin-top: 100px;
-  display: grid;
-  grid-template-columns: 120px repeat(4, 1fr);
-  grid-template-rows: auto;
-  grid-column-gap: 30px;
-  grid-row-gap: 30px; }
-
-.compare-table__col-header {
-  color: #D0021B;
-  margin-bottom: 35px;
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: 700; }
-
-.compare-table__cell {
-  font-size: 0.875rem; }
-  .compare-table__cell p {
-    margin-bottom: 20px; }
-
-.btn-vote {
-  text-transform: uppercase;
-  font-size: 0.65rem;
-  border: 1px solid #D0021B;
-  color: #D0021B;
-  padding: 3px 10px; }
-  .btn-vote.active {
-    background-color: #D0021B;
-    color: white; }
-
 /*# sourceMappingURL=main.css.map */
