@@ -1,5 +1,6 @@
-mixin party-option(value, name)
-	option(value="#{value}" selected) #{name}
+mixin party-option(name)
+	option(value="#{name}" selected) #{name}
+
 
 
 section.filters
@@ -13,8 +14,9 @@ section.filters
 	.filters__policies
 		p Filter policies
 		select#select-policies(multiple="multiple")
-			+party-option("economy", "Economy")
-			+party-option("environment", "Environment")
-			+party-option("education", "Education")
-			+party-option("foreign-affairs", "Foreign Affairs")
+			+party-option("Economy")
+			+party-option("Environment")
+			+party-option("Education")
+			+party-option("Foreign Affairs")
+
 

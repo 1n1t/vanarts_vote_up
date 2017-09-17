@@ -3,6 +3,7 @@ node_modules
 .sass_cache
 .eslintrc.json
 public/main.css
+public/main.css.map
 public/index.html
 public/compare.html
 public/mps.html
