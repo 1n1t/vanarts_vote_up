@@ -22,8 +22,6 @@ $theme-colors: (
 //		import bootstrap stylesheet
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-
-
 //	Custom styles
 @import "1-base/typography";
 
@@ -31,7 +29,4 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
-
-body {
-	background-color: $secondary-color;
-}
+@import "3-sections/home-parties"
