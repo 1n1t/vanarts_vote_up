@@ -14,7 +14,7 @@
 .center-hero-text
 	text-align: left
 	font-size: 1.3rem
-	font-weight: bold
+	font-weight: 400
 	margin-bottom: 40px
 
 .form-group
@@ -30,10 +30,6 @@
 	position: absolute
 	margin-bottom: 200px
 
-.btn-success
-	margin-top: 35px 
-	padding: 12px 75px
-	font-weight: bold
 
 .leaf
 	width: 92%
@@ -41,13 +37,14 @@
 	margin-bottom: 50px
 
 .hero-container
-	width: 95%
-	padding-left: 150px
+	position: relative
+	&::after
+		@include line-divider
 
 .hero-video
 	margin-top: 100px
 	margin-bottom: 100px
-	outline: 5px solid $primary-color
+	border: $border-thick
 
 
 .vote-matters-body
@@ -66,15 +63,17 @@
 	bottom: 222px
 	color: $primary-color
 
-.input-wrapper 
+.input-wrapper
 	position: relative
 
 .social
 	list-style-type: none
 	margin-bottom: 10px
-	font-size: 1.5rem
+	font-size: 1.125rem
 	color: $primary-color
 
 .social-list
-	margin-top: 250px
 	position: fixed
+	padding: 0
+	left: calc(35px - 8px)
+	top: calc(50% - 111px / 2)

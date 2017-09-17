@@ -1,0 +1,34 @@
+.btn
+	border-radius: 0
+	border: $border-thin
+	transition: all 0.5s
+	font-size: 1.125rem
+	padding: 10px 30px
+	cursor: pointer
+	text-transform: uppercase
+
+	&.disabled
+		&, &:hover
+			border-color: $text-color-grey
+			color: $text-color-grey
+			background-color: $text-color-white
+			cursor: not-allowed
+
+.btn-primary
+	background-color: $primary-color
+	color: $text-color-white
+	&:hover
+		background-color: $text-color-white
+		color: $primary-color
+
+
+.btn-secondary
+	background-color: $text-color-white
+	color: $primary-color
+	&:hover
+		background-color: $primary-color
+		color: $text-color-white
+
+.btn-sm
+	font-size: 0.875rem
+	padding: 5px 10px

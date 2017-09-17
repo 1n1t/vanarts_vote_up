@@ -27,6 +27,7 @@ $theme-colors: (
 
 @import "1-base/typography";
 @import "1-base/layout";
+@import "1-base/mixins";
 
 @import "2-elements/buttons";
 @import "2-elements/navbar";
@@ -34,8 +35,10 @@ $theme-colors: (
 @import "3-sections/home-hero";
 @import "3-sections/home-parties";
 @import "3-sections/home-statistics";
+@import "3-sections/home-mps";
 
 @import "3-sections/parties-main";
 
 @import "3-sections/compare-filters";
 @import "3-sections/compare-table";
+@import "3-sections/compare-progress";

@@ -1,4 +1,4 @@
-@mixin centered-container($width) 
+@mixin centered-container($width)
 	display: block
 	margin: auto
 	width: $width
@@ -9,6 +9,7 @@
 	@include centered-container(90%)
 	margin-top: 50px
 	margin-bottom: 50px
+
 
 .parties-bottom-container
 	@include centered-container(80%)
@@ -31,32 +32,21 @@
 	text-transform: uppercase
 	font-weight: 700
 
-.btn-home-parties-compare
-	height: 50px
-	width: 80%
-	font-size: 1.5rem
-	position: absolute
-	bottom: 20px
-
-.btn-primary
-	background-color: white
-	color: $primary-color
-
 /* Card Classes */
 .home-parties
 	width: 20%
 
-.card 
+.card
 	border: none
 
-.card-body 
+.card-body
 	padding: 0
 
 .home-party-logo-container
 	width: 100%
 	margin: auto
 
-.card-img-top 
+.card-img-top
 	max-width: 100%
 	display: block
 	margin: auto
@@ -84,7 +74,7 @@
 
 
 /* Phone Responsiveness */
-@media screen and (max-width: 770px) 
+@media screen and (max-width: 770px)
 	/* Container */
 	.parties-bottom-container
 		width: 80%
@@ -114,8 +104,15 @@
 	.btn-home-parties-compare
 		margin-top: 15px
 		width: 60%
-	
+
+.parties-line-divider
+	width: 100%
+	position: relative
+	&::after
+		@include line-divider
+
 /* Phone Responsiveness */
-@media screen and (max-width: 400px) 
+@media screen and (max-width: 400px)
 	.btn-home-parties-compare
 		width: 100%
+

@@ -1,0 +1,26 @@
+@mixin line-divider()
+	content: ''
+	display: block
+	position: absolute
+	height: 1px
+	bottom: 0
+	background-color: $primary-color
+
+	width: 55%
+	max-width: 780px
+	left: calc(50% - 55% / 2)
+	@media screen and (min-width: 1440px)
+		left: calc(50% - 780px / 2)
+
+@mixin line-divider-sm()
+	content: ''
+	display: block
+	position: absolute
+	height: 1px
+	bottom: 0
+
+	width: 20%
+	max-width: 290px
+	left: calc(50% - 20% / 2)
+	@media screen and (min-width: 1440px)
+		left: calc(50% - 290px / 2)
