@@ -22,9 +22,9 @@ $theme-colors: (
 //		import bootstrap stylesheet
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-
-
 //	Custom styles
+@import "0-libraries/bootstrap-multiselect";
+
 @import "1-base/typography";
 @import "1-base/layout";
 
@@ -32,10 +32,10 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
-
-body {
-	background-color: info;
-}
-
+@import "3-sections/home-parties"
 @import "3-sections/home-statistics";
 
+@import "3-sections/parties-main";
+
+@import "3-sections/compare-filters";
+@import "3-sections/compare-table";
