@@ -22,8 +22,6 @@ $theme-colors: (
 //		import bootstrap stylesheet
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-
-
 //	Custom styles
 @import "0-libraries/bootstrap-multiselect";
 
@@ -34,6 +32,7 @@ $theme-colors: (
 @import "2-elements/navbar";
 
 @import "3-sections/home-hero";
+@import "3-sections/home-parties"
 @import "3-sections/home-statistics";
 
 @import "3-sections/parties-main";

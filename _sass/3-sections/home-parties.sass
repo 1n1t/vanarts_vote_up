@@ -1,0 +1,121 @@
+@mixin centered-container($width) 
+	display: block
+	margin: auto
+	width: $width
+	position: relative
+
+/* Containers */
+.parties-container
+	@include centered-container(90%)
+	margin-top: 50px
+	margin-bottom: 50px
+
+.parties-bottom-container
+	@include centered-container(80%)
+	margin-bottom: 50px
+	padding: 50px
+
+/* Text */
+.home-party-title
+	text-align: center
+	font-size: 3rem
+
+.home-party-para
+	font-size: 1.2rem
+
+/* Buttons & Links */
+.link-home-party
+	text-align: left
+	color: $primary-color
+	background-color: white
+	text-transform: uppercase
+	font-weight: 700
+
+.btn-home-parties-compare
+	height: 50px
+	width: 80%
+	font-size: 1.5rem
+	position: absolute
+	bottom: 20px
+
+.btn-primary
+	background-color: white
+	color: $primary-color
+
+/* Card Classes */
+.home-parties
+	width: 20%
+
+.card 
+	border: none
+
+.card-body 
+	padding: 0
+
+.home-party-logo-container
+	width: 100%
+	margin: auto
+
+.card-img-top 
+	max-width: 100%
+	display: block
+	margin: auto
+
+/* Tablet Responsiveness */
+@media screen and (min-width: 770px) and (max-width: 992px)
+	/* Buttons */
+	.btn-home-parties-compare
+		font-size: 1.2rem
+
+	/* Text */
+	.home-party-title
+		font-size: 2.5rem
+
+	.home-party-para
+		font-size: 1rem
+
+	.home-party-logo-container
+		width: 80%
+
+	.parties-bottom-container
+		padding: 0
+	.tablet-margin
+		margin-top: 20px
+
+
+/* Phone Responsiveness */
+@media screen and (max-width: 770px) 
+	/* Container */
+	.parties-bottom-container
+		width: 80%
+
+	/* Buttons */
+	.btn-home-parties-compare
+		font-size: 1rem
+		position: relative
+		display: block
+		margin-top: 10px
+		width: 80%
+		margin: auto
+
+	.card-img-top
+		width: 60%
+
+	/* Text */
+	.home-party-title
+		font-size: 2rem
+
+	.home-party-para
+		font-size: 1rem
+
+	.home-parties
+		margin-top: 20px
+
+	.btn-home-parties-compare
+		margin-top: 15px
+		width: 60%
+	
+/* Phone Responsiveness */
+@media screen and (max-width: 400px) 
+	.btn-home-parties-compare
+		width: 100%
