@@ -10,8 +10,8 @@ $enable-rounded: false;
 //		redefining generic bootstrap styles
 $theme-colors: (
 	primary: $primary-color,
+	success: #a30000,
 	secondary: white,
-	success: green,
 	info: white,
 	warning: white,
 	danger: white,
@@ -39,4 +39,3 @@ $theme-colors: (
 
 @import "3-sections/compare-filters";
 @import "3-sections/compare-table";
-

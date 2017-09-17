@@ -1,7 +1,24 @@
-p This is hero section
+ul.social-list
+	li.social
+		i.fa.fa-facebook
+	li.social
+		i.fa.fa-twitter
+	li.social
+		i.fa.fa-google-plus
 
-form
-	.form-group
-		label Email address
-		input.form-control(type="email" placeholder="Enter email")
-		button.btn.btn-success Submit
+
+.hero-container
+	.row
+		.col-md-6
+			iframe.hero-video(type='text/html' width='700' height='450' src='http://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&origin=http://example.com' frameborder='0')
+		.col-md-5.vote-matters-body
+			h2.center-hero Your Vote Matters!
+			p.center-hero-text Sign up now for the latest on election updates<br> and more!
+
+			form
+				div.input-wrapper
+				input.form-control(type="name" placeholder="Enter your fulls name")
+				label.i.fa.fa-user.input-icon-user
+				input.form-control(type="email" placeholder="Enter your email")
+				label.i.fa.fa-envelope.input-icon-envelope
+				button.btn.btn-success TAKE ACTION
