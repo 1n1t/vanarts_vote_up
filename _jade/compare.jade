@@ -1,17 +1,22 @@
 doctype html
 html(lang="en")
-  head
-    title I need a title
-    include partials/shared/head
+	head
+		title I need a title
+		include partials/shared/head
 
-  body
+	body
 
-    include partials/shared/header
+	include partials/shared/header
 
-    h1 Compare page
+	main.container
+		include partials/compare/filters
+		include partials/compare/table
 
-    include partials/shared/footer
+	include partials/shared/footer
 
-    include partials/shared/footer-scripts
+	include partials/shared/footer-scripts
+
+	script(src="js/libraries/bootstrap-multiselect.js")
+	script(src="js/compare.js")
 
 

@@ -1,0 +1,22 @@
+mixin party-option(name)
+	option(value="#{name}" selected) #{name}
+
+
+
+section.filters
+	.filters__parties
+		p Choose parties to compare
+		.filters__toggles
+			span.filters__toggle.active Liberal
+			span.filters__toggle Conservative
+			span.filters__toggle New Democratic
+			span.filters__toggle.active Green
+	.filters__policies
+		p Filter policies
+		select#select-policies(multiple="multiple")
+			+party-option("Economy")
+			+party-option("Environment")
+			+party-option("Education")
+			+party-option("Foreign Affairs")
+
+
