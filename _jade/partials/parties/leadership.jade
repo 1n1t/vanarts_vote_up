@@ -1,14 +1,15 @@
+mixin party-leaders(leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, deputyName2)
 .row
 	.col-md-4.col-sm-6.col-xs-12.leader-container
-		img(src="img/liberal-leader.jpg", alt="Party leader").float-left.img-fluid.leader-img
-		p.text-justify.font-weight-bold Justin Trudeau
+		img(src="#{leaderImg}", alt="Party leader").float-left.img-fluid.leader-img
+		p.text-justify.font-weight-bold #{leaderName}
 	.col-md-4.col-sm-6.col-xs-12
 		h3 Party Leadership
 		p OVER THE PAST 10 YEARS it has become harder for millions of Canadians to get ahead. Some people think the solution is to continue on the course we’re on, giving benefits to the wealthy and making cuts to everything else. I have a different plan, to invest immediately in jobs and growth and lower taxes for the middle-class.
 	.col-md-4.col-sm-6.col-xs-12.deputy-container
 		.leader-container
-			img(src="img/deputy-1.jpg", alt="Party leader").float-right.img-fluid.deputy-img
-			p.text-justify.font-weight-bold Deputy Minister
+			img(src="#{deputyImg1}", alt="Party leader").float-right.img-fluid.deputy-img
+			p.text-justify.font-weight-bold #{deputyName1}
 		.leader-container
-			img(src="img/deputy-2.jpg", alt="Party leader").float-right.img-fluid.deputy-img
-			p.text-justify.font-weight-bold Deputy Minister
+			img(src="#{deputyImg2}", alt="Party leader").float-right.img-fluid.deputy-img
+			p.text-justify.font-weight-bold #{deputyName2}

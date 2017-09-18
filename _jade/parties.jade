@@ -7,10 +7,29 @@ html(lang="en")
 	body
 
 		include partials/shared/header
-		.container
-			include partials/parties/title
-			include partials/parties/leadership
-			include partials/parties/policies-history-seats
+		include partials/parties/title
+		include partials/parties/leadership
+		include partials/parties/policies-history-seats
+
+		section.container.party-1
+            +party-title("img/logo-liberals.png", "The Liberal Party")
+            +party-leaders("img/liberal-leader.jpg", "Justin Trudeau", "img/deputy-1.jpg", "img/deputy-2.jpg", "Liberal Minister 1", "Liberal Minister 2")
+            +party-policies("234", "100", "img/voting-results.png")
+
+        section.container.party-2
+            +party-title("img/logo-conservatives.png", "The Conservative Party")
+            +party-leaders("img/conservative-leader.jpg", "Stephen Harper", "img/deputy-1.jpg", "img/deputy-2.jpg", "Conservative Minister 1", "Conservative Minister 2")
+            +party-policies("214", "100", "img/voting-results.png")
+
+        section.container.party-3
+            +party-title("img/logo-ndp.png", "The National Democratic Party")
+            +party-leaders("img/ndp-leader.jpg", "Thomas Mulcair", "img/deputy-1.jpg", "img/deputy-2.jpg", "NDP Minister 1", "NDP Minister 2")
+            +party-policies("114", "80", "img/voting-results.png")
+
+		section.container.party-4
+            +party-title("img/logo-green.png", "The Green Party")
+            +party-leaders("img/quebec-leader.jpg", "Gilles Duceppe", "img/deputy-1.jpg", "img/deputy-2.jpg", "Q Minister 1", "Q Minister 2")
+            +party-policies("32", "45", "img/voting-results.png")
 
 		include partials/shared/footer
 

@@ -1,3 +1,4 @@
+mixin party-policies(numSeats, numMps, graphImg)
 .row
 	.col-md-4.col-sm-6.col-xs-12
 		h3 Our Policies
@@ -14,5 +15,5 @@
 	.col-md-4.col-sm-6.col-xs-12
 		h3 Our Representation
 		p.font-weight-bold Majority Representation
-		p We have 234 seats in the House of Representatives and 124 MPs in the House of Commons.
-		img(src="img/voting-results.png" alt="graph of representation").img-rounded.img-fluid.float-right
+		p We have #{numSeats} seats in the House of Representatives and #{numMps} MPs in the House of Commons.
+		img(src="#{graphImg}" alt="graph of representation").img-rounded.img-fluid.float-right
