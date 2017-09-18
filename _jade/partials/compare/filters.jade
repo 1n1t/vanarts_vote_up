@@ -7,10 +7,10 @@ section.filters
 	.filters__parties
 		p Choose parties to compare
 		.filters__toggles
-			span.filters__toggle.active Liberal
-			span.filters__toggle Conservative
-			span.filters__toggle New Democratic
-			span.filters__toggle.active Green
+			span.filters__toggle.active(data-party="Liberal") Liberal
+			span.filters__toggle.active(data-party="Conservative") Conservative
+			span.filters__toggle.active(data-party="New Democratic") New Democratic
+			span.filters__toggle.active(data-party="Green") Green
 	.filters__policies
 		p Filter policies
 		select#select-policies(multiple="multiple")
