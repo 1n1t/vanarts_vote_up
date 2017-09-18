@@ -1,7 +1,19 @@
 $(function () {
 	
 	//	initialize multiselect element
-	$('#select-policies').multiselect();
+	$('#select-policies').multiselect({
+		includeSelectAllOption: true,
+		onChange: function (option) {
+			var policy = $(option).val();
+			$('.policies [data-policy="' + policy + '"]').toggleClass('hidden');
+		},
+		onSelectAll: function () {
+			$('.compare-table__row-header, .compare-table__cell').removeClass('hidden');
+		},
+		onDeselectAll: function () {
+			$('.compare-table__row-header, .compare-table__cell').addClass('hidden');
+		}
+	});
 	
 	$('.filters__toggle').click(function () {
 		var $this = $(this);
