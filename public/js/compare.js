@@ -146,6 +146,9 @@ $(function () {
 
 		//	update cookie
 		createCookie('voting', JSON.stringify(votes), 14);
+		
+		//	update list of logos in progress box
+		showVotingProgress();
 	});
 
 
@@ -178,6 +181,61 @@ $(function () {
 
 	function createCookie(name, value, days) {
 		document.cookie = name + '=' + value + '; expires=' + makeDate(days);
+	}
+
+
+	// -------------------
+	//	*** PROGRESS ***
+	// -------------------
+
+	var partiesLogos = {
+		"Liberal": 'logo-liberals.png',
+		"Conservative": 'logo-conservatives.png',
+		"New Democratic": 'logo-ndp.png',
+		"Green": 'logo-green.png'
+	};
+
+	//	click event on the leaf icon
+	$('.progress-icon').click(function () {
+		$('.progress-box').toggleClass('hidden');
+	});
+	
+	showVotingProgress();
+	
+	function showVotingProgress() {
+		
+		//	calculated maximum amount of votes
+		var maxVotes = Math.max(
+			votes["Liberal"].length,
+			votes["Conservative"].length,
+			votes["New Democratic"].length,
+			votes["Green"].length
+		);
+
+		//	populate array with image paths of logos of most favourable parties
+		var maxImages = [];
+
+		for (var key in votes) {
+			if (votes[key].length === maxVotes) {
+				maxImages.push(partiesLogos[key]);
+			}
+		}
+
+		//	render the logos
+		renderPartiesLogos(maxImages);
+	}
+	
+	function renderPartiesLogos(maxImages) {
+		var box = $('.progress-box .logos');
+		
+		//	empty the logos container
+		box.empty();
+
+		//	add img tag for every element in logos array
+		for (var i = 0; i < maxImages.length; i++) {
+			var img = $('<img src="img/' + maxImages[i] + '" alt="' + maxImages[i] + '"></img>');
+			box.append(img);
+		}
 	}
 });
 
