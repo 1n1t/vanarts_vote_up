@@ -1,9 +1,23 @@
 img.progress-icon(src="img/leaf-icon.svg" alt="maple leaf icon")
 
-.progress-box
+.progress-box.hidden
 	p It looks like you are leaning towards
 	.logos
 		img(src="img/logo-liberals.png" alt="liberal party logo")
 		img(src="img/logo-conservatives.png" alt="conservative party logo")
 	p Click the button below and see your final result
-	span.btn.btn-secondary.btn-sm Show me my result
+	span.btn.btn-secondary.btn-sm(data-toggle="modal" data-target="#modal") Show me my result
+
+
+.modal.fade#modal(tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true")
+	.modal-dialog(role="document")
+		.modal-content
+			button.close(type="button" data-dismiss="modal" aria-label="Close")
+				span(aria-hidden="true") &times;
+			.modal-header
+				h2.modal-title#modalLabel We’ve calculated your votes
+			.modal-body
+				p.lead-paragraph Sed pulvinar, ex nec imperdiet porta, neque erat tristique augue, nec volutpat leo sapien a tortor. In accumsan interdum faucibus. Vestibulum non odio nibh.
+				.chart
+				h4 Do you know...
+				p Quisque fermentum mattis justo non blandit. Suspendisse malesuada, turpis eget feugiat hendrerit, dui libero viverra nisl, in ornare urna nibh non elit. Vestibulum at varius elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
