@@ -1,6 +1,4 @@
-mixin party-title(logo, name)
-.row.title
-    .col-md-4.col-sm-6.col-xs-12.center
-        img(src="#{logo}", alt="Party Logo").img-fluid.party-logo
-    .col-md-6.col-sm-6.col-xs-12
-        h1.text-center #{name}
+mixin party-title(name)
+	.row.title
+		.col-md-6.col-sm-6.col-xs-12
+			h1.text-center.party-title #{name}

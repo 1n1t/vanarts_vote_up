@@ -6,27 +6,59 @@
 	justify-content: center
 	position: relative
 	color: red
+	@include line-margin
 	&::after
 		@include line-divider-sm
+	// &::after
+	// 	margin-top: 70px
 
+.party-title
+	margin-bottom: $p-container
 //leadership section
+.leadership-row
+	position: relative
+	@include line-margin
+	&::after
+		@include line-divider-sm
+	padding-bottom: $p-container
 .leader-container
 	display: flex
 	flex-direction: column
 	align-content: flex-start
 .deputy-container
 	display: flex
+	flex-direction: column
 	justify-content: space-around
 .leader-img
 	border: $border-thick
-	max-width: 300px
+	max-width: 280px
 	margin-bottom: 15px
+	margin-top: 70px
 
 .deputy-img
-	max-width: 180px
-	margin-bottom: 15px
+	max-width: 120px
+	margin-bottom: 20px
 	border: $border-thick
+	border-radius: 50%
+.logo
+	width: 280px
+    margin-left: auto
+    margin-right: auto
+    display: flex
+    justify-content: center
 .red
 	color: $primary-color
+.leadership-para
+	margin-top: 40px
+.end-para
+	margin-bottom: 40px
+//policies-history-seats section
+.policies-row
+	position: relative
+	@include line-margin
+	&::after
+		@include line-divider
+	padding-bottom: $p-container
+
 
 
