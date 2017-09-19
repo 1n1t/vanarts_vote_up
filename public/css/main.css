@@ -6643,7 +6643,22 @@ img {
           align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center; }
+          justify-content: center;
+  position: relative;
+  color: red; }
+  .title::after {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 1px;
+    bottom: 0;
+    background-color: #D0021B;
+    width: 20%;
+    max-width: 290px;
+    left: calc(50% - 20% / 2); }
+    @media screen and (min-width: 1440px) {
+      .title::after {
+        left: calc(50% - 290px / 2); } }
 
 .leader-container {
   display: -webkit-box;
