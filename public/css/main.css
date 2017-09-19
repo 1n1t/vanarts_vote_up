@@ -6753,6 +6753,9 @@ img {
       .policies-row::after {
         left: calc(50% - 780px / 2); } }
 
+.3-section {
+  margin-bottom: 40px !important; }
+
 .filters {
   display: -webkit-box;
   display: -ms-flexbox;
