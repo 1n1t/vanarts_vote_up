@@ -4,6 +4,7 @@
 	right: calc(70px / 2 - 28px / 2)
 	top: calc(50% - 24px / 2)
 	cursor: pointer
+	z-index: 2
 
 .progress-box
 	width: 240px
@@ -19,6 +20,15 @@
 	img
 		width: 65%
 		margin-bottom: 20px
+
+	transform-origin: right top
+	transform: rotate3d(0, 0, 1, -90deg)
+	opacity: 0
+
+	&.show
+		animation: rotateInUpRight 0.7s forwards
+
+
 
 #modal
 	&.fade

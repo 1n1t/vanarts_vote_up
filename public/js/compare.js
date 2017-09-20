@@ -135,6 +135,11 @@ $(function () {
 			$this.text('Unvote');
 			//		add element to votes object
 			votes[voteData.party].push(voteData.policy);
+
+			//		animate leaf icon
+			$('.progress-icon').addClass('tada', setTimeout(function () {
+				$('.progress-icon').removeClass('tada');
+			}, 300));
 		} else {
 			//	if user unvote for the policy:
 			//		change button text
@@ -197,7 +202,15 @@ $(function () {
 
 	//	click event on the leaf icon
 	$('.progress-icon').click(function () {
-		$('.progress-box').toggleClass('hidden');
+		var prBox = $('.progress-box');
+		
+		if (!prBox.hasClass('open')) {
+			prBox.toggleClass('open');
+			prBox.addClass('show');
+		} else {
+			prBox.toggleClass('open');
+			prBox.removeClass('show');
+		}
 	});
 	
 	showVotingProgress();
