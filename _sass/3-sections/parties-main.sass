@@ -9,8 +9,6 @@
 	@include line-margin
 	&::after
 		@include line-divider-sm
-	// &::after
-	// 	margin-top: 70px
 
 .party-title
 	margin-bottom: $p-container
@@ -27,7 +25,7 @@
 	align-content: flex-start
 .deputy-container
 	display: flex
-	flex-direction: column
+	flex-direction: row
 	justify-content: space-around
 .leader-img
 	border: $border-thick
@@ -42,16 +40,14 @@
 	border-radius: 50%
 .logo
 	width: 280px
-    margin-left: auto
-    margin-right: auto
-    display: flex
-    justify-content: center
+	margin-left: 80px
+	margin-bottom: $parties-margin
 .red
 	color: $primary-color
 .leadership-para
-	margin-top: 40px
+	margin-top: $parties-margin
 .end-para
-	margin-bottom: 40px
+	margin-bottom: $parties-margin
 //policies-history-seats section
 .policies-row
 	position: relative
@@ -60,8 +56,19 @@
 		@include line-divider
 	padding-bottom: $p-container
 
-.3-section
-	margin-bottom: 40px !important
+//mobile media queries
+@media screen and (max-width: 550px)
+	.deputy-container
+		display: flex
+		flex-direction: column
+		align-items: center
+	.section
+		margin-bottom: $parties-margin
+	.logo
+		margin-left: 0
+
+
+
 
 
 
