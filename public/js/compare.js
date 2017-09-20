@@ -237,6 +237,20 @@ $(function () {
 			box.append(img);
 		}
 	}
+
+	// ----------------------------------
+	//	*** TABLE POLICIES POPULATING ***
+	// ----------------------------------
+	
+	var policies = parseJSON('/db/policies.json');
+	
+	for (var party in policies) {
+		for (var policy in policies[party]) {
+			$('.compare-table__cell[data-party="' + party + '"][data-policy="' + policy + '"]')
+				.children('p')
+				.text(policies[party][policy]);
+		}
+	}
 });
 
 
