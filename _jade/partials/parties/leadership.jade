@@ -1,4 +1,4 @@
-mixin party-leaders(leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, deputyName2, deputyJob, logo)
+mixin party-leaders(leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, deputyName2, deputyJob1, deputyJob2, logo)
 	.row.leadership-row
 		.col-md-4.col-sm-6.col-xs-12.leader-container
 			img(src="#{leaderImg}", alt="Party leader").img-fluid.leader-img
@@ -15,8 +15,8 @@ mixin party-leaders(leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, 
 				.div
 					img(src="#{deputyImg1}", alt="Party leader").img-fluid.deputy-img
 					p.font-weight-bold #{deputyName1}
-					p.text-justify.text-muted #{deputyJob}
+					p.text-justify.text-muted #{deputyJob1}
 				.div
 					img(src="#{deputyImg2}", alt="Party leader").img-fluid.deputy-img
 					p.font-weight-bold #{deputyName2}
-					p.text-justify.text-muted #{deputyJob}
+					p.text-justify.text-muted #{deputyJob2}
