@@ -6346,6 +6346,9 @@ img {
   padding: 0 70px;
   margin: 0; }
 
+.hidden {
+  display: none; }
+
 .btn {
   border-radius: 0;
   border: #D0021B solid 1px;
@@ -6787,7 +6790,9 @@ img {
   min-height: 20px;
   border: 1px solid #D0021B;
   background-color: white;
-  color: #D0021B; }
+  color: #D0021B;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s; }
   .filters__toggle.active {
     background-color: #D0021B;
     color: white; }
@@ -6816,10 +6821,11 @@ img {
 
 .compare-table__col-header {
   color: #D0021B;
-  margin-bottom: 35px;
   text-align: center;
   font-size: 1.5rem;
-  font-weight: 700; }
+  font-weight: 700;
+  border-bottom: #D0021B solid 1px;
+  padding-bottom: 20px; }
 
 .compare-table__cell {
   font-size: 0.875rem; }
@@ -6841,7 +6847,8 @@ img {
   position: fixed;
   width: 28px;
   right: calc(70px / 2 - 28px / 2);
-  top: calc(50% - 24px / 2); }
+  top: calc(50% - 24px / 2);
+  cursor: pointer; }
 
 .progress-box {
   width: 240px;
