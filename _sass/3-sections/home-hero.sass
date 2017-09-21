@@ -1,24 +1,33 @@
+.slogan
+	background-image: url("/img/header-slogan.jpg")
+	background-repeat: no-repeat
+	background-position-x: 150px 
+
 .vote-up-title
 	text-align: center
-	color: white
-	margin-top: -135px
+	color: $text-color-white
+	font-size: 3rem
+	text-transform: uppercase
 
 .center-hero
-	margin-top: 70px
+	//margin-top: 70px
 	text-align: left
 	font-size: 3rem
 	color: $primary-color
 	font-weight: bold
-	margin-bottom: 40px
+	//margin-bottom: 40px
 
 .center-hero-text
 	text-align: left
-	font-size: 1.3rem
+	font-size: 1.3remf
 	font-weight: 400
 	margin-bottom: 40px
 
 .form-group
 	position: relative
+
+.btn-primary
+	margin-top: 20px
 
 .form-control
 	width: 300px
@@ -30,12 +39,6 @@
 	position: absolute
 	margin-bottom: 200px
 
-
-.leaf
-	width: 92%
-	margin-left: 130px
-	margin-bottom: 50px
-
 .hero-container
 	position: relative
 	&::after
@@ -46,21 +49,16 @@
 	margin-bottom: 100px
 	border: $border-thick
 
-
-.vote-matters-body
-	padding-top: 100px
-	margin-left: 90px
-
 .input-icon-user
 	position: absolute
-	left: 25px
-	bottom: 275px
+	left: 9px
+	top: 9px
 	color: $primary-color
 
 .input-icon-envelope
 	position: absolute
-	margin-left: 9px
-	bottom: 222px
+	left: 9px
+	top: 9px
 	color: $primary-color
 
 .input-wrapper
@@ -77,3 +75,13 @@
 	padding: 0
 	left: calc(35px - 8px)
 	top: calc(50% - 111px / 2)
+
+.hero-flex-container
+	display: flex;
+	justify-content: space-around
+	align-items: center
+
+@media screen and (max-width: 1200px)
+	.hero-flex-container
+		flex-direction: column
+		align-items: center
