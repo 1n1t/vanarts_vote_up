@@ -1,4 +1,4 @@
-mixin party-leaders(party, leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, deputyName2, deputyJob1, deputyJob2, logo)
+mixin party-leaders(party,leadership, leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, deputyName2, deputyJob1, deputyJob2, logo)
 	.row.leadership-row
 		.col-md-4.col-sm-6.col-xs-12.leader-container
 			img(src="#{leaderImg}", alt="Party leader").img-fluid.leader-img
@@ -6,7 +6,7 @@ mixin party-leaders(party, leaderImg, leaderName, deputyImg1, deputyImg2, deputy
 			p.text-muted.text-justify Current party leader
 		.col-md-4.col-sm-6.col-xs-12
 			h3 Party Leadership
-			p.leadership-para(data-party="#{party}")
+			p.leadership-para(data-party="#{party}" data-leadership="#{leadership}")
 		.col-md-4.col-sm-6.col-xs-12
 			img(src="#{logo}", alt="Party logo").img-fluid.logo
 			.deputy-container

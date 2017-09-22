@@ -1,16 +1,14 @@
-mixin party-policies(numSenators, numMps, graphImg)
+mixin party-policies(party, policy, history, numSenators, numMps, graphImg)
 	.row.policies-row
 		.col-md-4.col-sm-6.col-xs-12.section
 			h3 Our Policies
 			p.font-weight-bold.leadership-para Our approach to issues
-			p.policies-para(data-party="#{party}" data-info="#{partyObjKey}")
-			p.end-para With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
+			p.policies-para(data-party="#{party}" data-policy="#{policy}").end-para
 			button.btn.btn-primary View Policies
 		.col-md-4.col-sm-6.col-xs-12.section
 			h3 Our History
 			p.font-weight-bold.leadership-para Since 1892...
-			p.history-para(data-party="#{party}" data-info="#{partyObjKey}")
-			p.end-para With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
+			p.history-para(data-party="#{party}" data-history="#{history}").end-para
 			p.font-weight-bold.text-uppercase.red Read More
 		.col-md-4.col-sm-6.col-xs-12.section
 			h3 Our Representation

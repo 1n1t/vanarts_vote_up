@@ -12,15 +12,15 @@ $(function(){
 			console.log(party ,':', partyObjKey, );
 			console.log(parties[party][partyObjKey]);
 			//1. append leadership info to leadership p tag
-			$('.leadership-para[data-party="' + party + '"]')
+			$('.leadership-para[data-party="' + party + '"][data-leadership="' + partyObjKey + '"]')
 				.text(parties[party][partyObjKey]);
 
 			//2. append policy info to policy p tag
-			$('.policies-para[data-leadership="' + party + '"])
+			$('.policies-para[data-party="' + party + '"][data-policy="' + partyObjKey + '"]')
 				.text(parties[party][partyObjKey]);
 
 			//3. append history info to history p tag
-			$('.history-para[data-leadership="' + party + '"][data-info="' + partyObjKey + '"]')
+			$('.history-para[data-party="' + party + '"][data-history="' + partyObjKey + '"]')
 				.text(parties[party][partyObjKey]);
 		}
 	}
