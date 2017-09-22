@@ -12,11 +12,11 @@ $(function(){
 			console.log(party ,':', partyObjKey, );
 			console.log(parties[party][partyObjKey]);
 			//1. append leadership info to leadership p tag
-			$('.leadership-para[data-leadership="' + party + '"][data-info="' + partyObjKey + '"]')
+			$('.leadership-para[data-party="' + party + '"]')
 				.text(parties[party][partyObjKey]);
 
 			//2. append policy info to policy p tag
-			$('.policies-para[data-leadership="' + party + '"][data-info="' + partyObjKey + '"]')
+			$('.policies-para[data-leadership="' + party + '"])
 				.text(parties[party][partyObjKey]);
 
 			//3. append history info to history p tag
