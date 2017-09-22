@@ -1,32 +1,26 @@
 
-const partiesArray = Object.keys(votes);
-console.log('Parties', partiesArray);
+$(function(){
 
-const votesArray = [];
-for (var key in votes) {
-	if (votes.hasOwnProperty(key)) {
-		console.log('key', key);
-		console.log('votes[key]', votes[key]);
-		votesArray.push(votes[key].length);
-		console.log('array', votesArray);
+	console.log(votes);
+	const partiesArray = Object.keys(votes);
+	console.log('Parties', partiesArray);
+
+	var votesArray = [];
+	for (var key in votes) {
+		if (votes.hasOwnProperty(key)) {
+			console.log('key', key);
+			console.log('votes[key]', votes[key]);
+			votesArray.push(votes[key].length);
+		}
 	}
-}
-// const votesArray = [];
-// Object.keys(votes).forEach(function (key) {
-// 	console.log(votes[key].length);
-// 	votesArray.push(votes[key].length);
-// 	console.log(votesArray);
-// });
-// const votesArray = Object.values(votes);
-// console.log(votesArray);
+	console.log('array', votesArray);
 
-
-var ctx = document.getElementById("myChart").getContext('2d');
-var myChart = new Chart(ctx, {
-	type: 'doughnut',
-	data : {
-		labels: partiesArray,
-		datasets: [{
+	var ctx = document.getElementById("myChart").getContext('2d');
+	var myChart = new Chart(ctx, {
+		type: 'doughnut',
+		data: {
+			labels: partiesArray,
+			datasets: [{
 				label: "Number of Votes",
 				data: votesArray,
 				backgroundColor: [
@@ -41,12 +35,13 @@ var myChart = new Chart(ctx, {
 					"#5AD3D1",
 					"rgb(255, 153, 51)"
 				]
-		}]
-	},
-	options : {
-		maintainAspectRatio: false,
-		legend: {
-			position: 'bottom'
+			}]
+		},
+		options: {
+			maintainAspectRatio: false,
+			legend: {
+				position: 'bottom'
+			}
 		}
-	}
+	});
 });
