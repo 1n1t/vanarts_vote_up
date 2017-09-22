@@ -6,9 +6,7 @@ mixin party-leaders(leaderImg, leaderName, deputyImg1, deputyImg2, deputyName1, 
 			p.text-muted.text-justify Current party leader
 		.col-md-4.col-sm-6.col-xs-12
 			h3 Party Leadership
-			p.leadership-para(data-leadership="#{leadershipPara}")
-			p.leadership-para(data-leadership="#{leadershipPara}")
-			p.leadership-para(data-leadership="#{leadershipPara}")
+			p.leadership-para(data-party="#{party}" data-info="#{partyObjKey}")
 		.col-md-4.col-sm-6.col-xs-12
 			img(src="#{logo}", alt="Party logo").img-fluid.logo
 			.deputy-container
