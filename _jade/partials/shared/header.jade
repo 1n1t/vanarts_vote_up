@@ -1,8 +1,8 @@
-img.leaf(src="/img/header-slogan.jpg" alt="This is the background image for the top section of the Vote Up website")
-h1.vote-up-title VOTE UP!
+.slogan
+	.vote-up-title Vote Up!
 
-//Navbar
-ul.nav.navbar-css
+//Desktop Navbar
+ul.nav.navbar-desktop-container
 	li.nav-item
 		a.nav-link.active(href="/") Home
 	li.nav-item
@@ -12,6 +12,20 @@ ul.nav.navbar-css
 	li.nav-item
 		a.nav-link(href="/compare.html") Compare
 
+//Mobile Navbar
+ul.nav.navbar-mobile-container
+	li.nav-item
+		a.nav-link.active(href="/") Home
+	li.nav-item
+		a.nav-link(href="/parties.html") Parties
+	li.nav-item
+		a.nav-link(href="/mps.html") My MPs
+	li.nav-item
+		a.nav-link(href="/compare.html") Compare
+
+.navbar-mobile-toggle.is-open
+	span
+
 ul.social-list
 	li.social
 		i.fa.fa-facebook
@@ -19,3 +33,5 @@ ul.social-list
 		i.fa.fa-twitter
 	li.social
 		i.fa.fa-rss
+
+.bg
