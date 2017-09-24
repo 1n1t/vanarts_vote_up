@@ -6727,8 +6727,7 @@ img {
   border-radius: 50%; }
 
 .logo {
-  width: 280px;
-  margin-left: 80px;
+  width: 100%;
   margin-bottom: 40px; }
 
 .red {
@@ -6759,7 +6758,23 @@ img {
       .policies-row::after {
         left: calc(50% - 780px / 2); } }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 768px) {
+  .deputy-container .div {
+    padding: 10px; }
+  .logo {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .section {
+    margin-bottom: 40px; } }
+
+@media screen and (max-width: 580px) {
   .deputy-container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -6774,7 +6789,9 @@ img {
   .section {
     margin-bottom: 40px; }
   .logo {
-    margin-left: 0; } }
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 30px; } }
 
 .filters {
   display: -webkit-box;

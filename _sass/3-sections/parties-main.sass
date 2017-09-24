@@ -39,8 +39,7 @@
 	border: $border-thick
 	border-radius: 50%
 .logo
-	width: 280px
-	margin-left: 80px
+	width: 100%
 	margin-bottom: $parties-margin
 .red
 	color: $primary-color
@@ -56,8 +55,22 @@
 		@include line-divider
 	padding-bottom: $p-container
 
+//768 media query
+@media screen and (max-width: 768px)
+	.deputy-container
+		.div
+			padding: 10px
+	.logo
+		width: 50%
+		margin: auto
+		margin-bottom: 40px
+		display: flex
+		justify-content: center
+	.section
+		margin-bottom: $parties-margin
+
 //mobile media queries
-@media screen and (max-width: 550px)
+@media screen and (max-width: 580px)
 	.deputy-container
 		display: flex
 		flex-direction: column
@@ -65,7 +78,9 @@
 	.section
 		margin-bottom: $parties-margin
 	.logo
-		margin-left: 0
+		width: 100%
+		margin-top: 15px
+		margin-bottom: 30px
 
 
 
