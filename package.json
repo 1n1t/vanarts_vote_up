@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tom-aglow/vanarts_vote_up.git"
+  },
+  "dependencies": {
+    "chart.js": "^2.7.0"
   }
 }
