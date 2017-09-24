@@ -22,11 +22,12 @@
 .leader-container
 	display: flex
 	flex-direction: column
-	align-content: flex-start
+	align-items: center
+	padding-right: 0
 .deputy-container
 	display: flex
 	flex-direction: row
-	justify-content: space-around
+	justify-content: space-evenly
 .leader-img
 	border: $border-thick
 	max-width: 280px
@@ -39,8 +40,7 @@
 	border: $border-thick
 	border-radius: 50%
 .logo
-	width: 280px
-	margin-left: 80px
+	width: 100%
 	margin-bottom: $parties-margin
 .red
 	color: $primary-color
@@ -56,8 +56,43 @@
 		@include line-divider
 	padding-bottom: $p-container
 
+//950 media query
+@media screen and (max-width: 980px) and (min-width: 576px)
+	.col-sm-6
+		-webkit-box-flex: 0
+		-ms-flex: 0 0 50%
+		flex: 0 0 50%
+		max-width: 50%
+		position: relative
+		width: 100%
+		min-height: 1px
+		padding-right: 15px
+		padding-left: 15px
+	.col-sm-12
+		-webkit-box-flex: 0
+		-ms-flex: 0 0 100%
+		flex: 0 0 100%
+		max-width: 100%
+		position: relative
+		width: 100%
+		min-height: 1px
+		padding-right: 15px
+		padding-left: 15px
+	.deputy-container
+		.div
+			padding: 10px
+	.logo
+		width: 40%
+		margin: auto
+		margin-top: 40px
+		margin-bottom: 40px
+		display: flex
+		justify-content: center
+	.section
+		margin-bottom: $parties-margin
+
 //mobile media queries
-@media screen and (max-width: 550px)
+@media screen and (max-width: 576px)
 	.deputy-container
 		display: flex
 		flex-direction: column
@@ -65,7 +100,9 @@
 	.section
 		margin-bottom: $parties-margin
 	.logo
-		margin-left: 0
+		width: 100%
+		margin-top: 15px
+		margin-bottom: 30px
 
 
 
