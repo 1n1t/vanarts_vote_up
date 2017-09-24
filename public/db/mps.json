@@ -4,7 +4,7 @@
 		"PersonOfficialLastName": "Aboultaif",
 		"ConstituencyName": "Edmonton Manning",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -13,7 +13,7 @@
 		"PersonOfficialLastName": "Albas",
 		"ConstituencyName": "Central Okanagan—Similkameen—Nicola",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -22,7 +22,7 @@
 		"PersonOfficialLastName": "Albrecht",
 		"ConstituencyName": "Kitchener—Conestoga",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -31,7 +31,7 @@
 		"PersonOfficialLastName": "Aldag",
 		"ConstituencyName": "Cloverdale—Langley City",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -40,7 +40,7 @@
 		"PersonOfficialLastName": "Alghabra",
 		"ConstituencyName": "Mississauga Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -49,7 +49,7 @@
 		"PersonOfficialLastName": "Alleslev",
 		"ConstituencyName": "Aurora—Oak Ridges—Richmond Hill",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -58,7 +58,7 @@
 		"PersonOfficialLastName": "Allison",
 		"ConstituencyName": "Niagara West",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -67,7 +67,7 @@
 		"PersonOfficialLastName": "Amos",
 		"ConstituencyName": "Pontiac",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -76,7 +76,7 @@
 		"PersonOfficialLastName": "Anandasangaree",
 		"ConstituencyName": "Scarborough—Rouge Park",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -85,7 +85,7 @@
 		"PersonOfficialLastName": "Anderson",
 		"ConstituencyName": "Cypress Hills—Grasslands",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -94,7 +94,7 @@
 		"PersonOfficialLastName": "Angus",
 		"ConstituencyName": "Timmins—James Bay",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -103,7 +103,7 @@
 		"PersonOfficialLastName": "Arnold",
 		"ConstituencyName": "North Okanagan—Shuswap",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -112,7 +112,7 @@
 		"PersonOfficialLastName": "Arseneault",
 		"ConstituencyName": "Madawaska—Restigouche",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -121,7 +121,7 @@
 		"PersonOfficialLastName": "Arya",
 		"ConstituencyName": "Nepean",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -130,7 +130,7 @@
 		"PersonOfficialLastName": "Ashton",
 		"ConstituencyName": "Churchill—Keewatinook Aski",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -139,7 +139,7 @@
 		"PersonOfficialLastName": "Aubin",
 		"ConstituencyName": "Trois-Rivières",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -148,7 +148,7 @@
 		"PersonOfficialLastName": "Ayoub",
 		"ConstituencyName": "Thérèse-De Blainville",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -157,7 +157,7 @@
 		"PersonOfficialLastName": "Badawey",
 		"ConstituencyName": "Niagara Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -167,7 +167,7 @@
 		"PersonOfficialLastName": "Bagnell",
 		"ConstituencyName": "Yukon",
 		"ConstituencyProvinceTerritoryName": "Yukon",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -177,7 +177,7 @@
 		"PersonOfficialLastName": "Bains",
 		"ConstituencyName": "Mississauga—Malton",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -186,7 +186,7 @@
 		"PersonOfficialLastName": "Barlow",
 		"ConstituencyName": "Foothills",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -204,7 +204,7 @@
 		"PersonOfficialLastName": "Baylis",
 		"ConstituencyName": "Pierrefonds—Dollard",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -222,7 +222,7 @@
 		"PersonOfficialLastName": "Beech",
 		"ConstituencyName": "Burnaby North—Seymour",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -232,7 +232,7 @@
 		"PersonOfficialLastName": "Bennett",
 		"ConstituencyName": "Toronto—St. Paul's",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -241,7 +241,7 @@
 		"PersonOfficialLastName": "Benson",
 		"ConstituencyName": "Saskatoon West",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -250,7 +250,7 @@
 		"PersonOfficialLastName": "Benzen",
 		"ConstituencyName": "Calgary Heritage",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2017-04-03T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -260,7 +260,7 @@
 		"PersonOfficialLastName": "Bergen",
 		"ConstituencyName": "Portage—Lisgar",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -270,7 +270,7 @@
 		"PersonOfficialLastName": "Bernier",
 		"ConstituencyName": "Beauce",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -279,7 +279,7 @@
 		"PersonOfficialLastName": "Berthold",
 		"ConstituencyName": "Mégantic—L'Érable",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -288,7 +288,7 @@
 		"PersonOfficialLastName": "Bezan",
 		"ConstituencyName": "Selkirk—Interlake—Eastman",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -298,7 +298,7 @@
 		"PersonOfficialLastName": "Bibeau",
 		"ConstituencyName": "Compton—Stanstead",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -307,7 +307,7 @@
 		"PersonOfficialLastName": "Bittle",
 		"ConstituencyName": "St. Catharines",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -316,7 +316,7 @@
 		"PersonOfficialLastName": "Blaikie",
 		"ConstituencyName": "Elmwood—Transcona",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -325,7 +325,7 @@
 		"PersonOfficialLastName": "Blair",
 		"ConstituencyName": "Scarborough Southwest",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -334,7 +334,7 @@
 		"PersonOfficialLastName": "Blaney",
 		"ConstituencyName": "North Island—Powell River",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -344,7 +344,7 @@
 		"PersonOfficialLastName": "Blaney",
 		"ConstituencyName": "Bellechasse—Les Etchemins—Lévis",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -353,7 +353,7 @@
 		"PersonOfficialLastName": "Block",
 		"ConstituencyName": "Carlton Trail—Eagle Creek",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -362,7 +362,7 @@
 		"PersonOfficialLastName": "Boissonnault",
 		"ConstituencyName": "Edmonton Centre",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -371,7 +371,7 @@
 		"PersonOfficialLastName": "Bossio",
 		"ConstituencyName": "Hastings—Lennox and Addington",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -380,7 +380,7 @@
 		"PersonOfficialLastName": "Boucher",
 		"ConstituencyName": "Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -398,7 +398,7 @@
 		"PersonOfficialLastName": "Boulerice",
 		"ConstituencyName": "Rosemont—La Petite-Patrie",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -407,7 +407,7 @@
 		"PersonOfficialLastName": "Boutin-Sweet",
 		"ConstituencyName": "Hochelaga",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -416,7 +416,7 @@
 		"PersonOfficialLastName": "Brassard",
 		"ConstituencyName": "Barrie—Innisfil",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -425,7 +425,7 @@
 		"PersonOfficialLastName": "Bratina",
 		"ConstituencyName": "Hamilton East—Stoney Creek",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -434,7 +434,7 @@
 		"PersonOfficialLastName": "Breton",
 		"ConstituencyName": "Shefford",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -444,7 +444,7 @@
 		"PersonOfficialLastName": "Brison",
 		"ConstituencyName": "Kings—Hants",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -453,7 +453,7 @@
 		"PersonOfficialLastName": "Brosseau",
 		"ConstituencyName": "Berthier—Maskinongé",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -462,7 +462,7 @@
 		"PersonOfficialLastName": "Brown",
 		"ConstituencyName": "Leeds—Grenville—Thousand Islands and Rideau Lakes",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -471,7 +471,7 @@
 		"PersonOfficialLastName": "Caesar-Chavannes",
 		"ConstituencyName": "Whitby",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -480,7 +480,7 @@
 		"PersonOfficialLastName": "Calkins",
 		"ConstituencyName": "Red Deer—Lacombe",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -489,7 +489,7 @@
 		"PersonOfficialLastName": "Cannings",
 		"ConstituencyName": "South Okanagan—West Kootenay",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -498,7 +498,7 @@
 		"PersonOfficialLastName": "Caron",
 		"ConstituencyName": "Rimouski-Neigette—Témiscouata—Les Basques",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -508,7 +508,7 @@
 		"PersonOfficialLastName": "Carr",
 		"ConstituencyName": "Winnipeg South Centre",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -517,7 +517,7 @@
 		"PersonOfficialLastName": "Carrie",
 		"ConstituencyName": "Oshawa",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -526,7 +526,7 @@
 		"PersonOfficialLastName": "Casey",
 		"ConstituencyName": "Cumberland—Colchester",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -535,7 +535,7 @@
 		"PersonOfficialLastName": "Casey",
 		"ConstituencyName": "Charlottetown",
 		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -545,7 +545,7 @@
 		"PersonOfficialLastName": "Chagger",
 		"ConstituencyName": "Waterloo",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -555,7 +555,7 @@
 		"PersonOfficialLastName": "Champagne",
 		"ConstituencyName": "Saint-Maurice—Champlain",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -564,7 +564,7 @@
 		"PersonOfficialLastName": "Chen",
 		"ConstituencyName": "Scarborough North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -574,7 +574,7 @@
 		"PersonOfficialLastName": "Chong",
 		"ConstituencyName": "Wellington—Halton Hills",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -583,7 +583,7 @@
 		"PersonOfficialLastName": "Choquette",
 		"ConstituencyName": "Drummond",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -592,7 +592,7 @@
 		"PersonOfficialLastName": "Christopherson",
 		"ConstituencyName": "Hamilton Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -601,7 +601,7 @@
 		"PersonOfficialLastName": "Clarke",
 		"ConstituencyName": "Beauport—Limoilou",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -611,7 +611,7 @@
 		"PersonOfficialLastName": "Clement",
 		"ConstituencyName": "Parry Sound—Muskoka",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -620,7 +620,7 @@
 		"PersonOfficialLastName": "Cooper",
 		"ConstituencyName": "St. Albert—Edmonton",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -629,7 +629,7 @@
 		"PersonOfficialLastName": "Cormier",
 		"ConstituencyName": "Acadie—Bathurst",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -638,7 +638,7 @@
 		"PersonOfficialLastName": "Cullen",
 		"ConstituencyName": "Skeena—Bulkley Valley",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -647,7 +647,7 @@
 		"PersonOfficialLastName": "Cuzner",
 		"ConstituencyName": "Cape Breton—Canso",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -656,7 +656,7 @@
 		"PersonOfficialLastName": "Dabrusin",
 		"ConstituencyName": "Toronto—Danforth",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -665,7 +665,7 @@
 		"PersonOfficialLastName": "Damoff",
 		"ConstituencyName": "Oakville North—Burlington",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -674,7 +674,7 @@
 		"PersonOfficialLastName": "Davies",
 		"ConstituencyName": "Vancouver Kingsway",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -683,7 +683,7 @@
 		"PersonOfficialLastName": "DeCourcey",
 		"ConstituencyName": "Fredericton",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -692,7 +692,7 @@
 		"PersonOfficialLastName": "Deltell",
 		"ConstituencyName": "Louis-Saint-Laurent",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -701,7 +701,7 @@
 		"PersonOfficialLastName": "Dhaliwal",
 		"ConstituencyName": "Surrey—Newton",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -710,7 +710,7 @@
 		"PersonOfficialLastName": "Dhillon",
 		"ConstituencyName": "Dorval—Lachine—LaSalle",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -719,7 +719,7 @@
 		"PersonOfficialLastName": "Di Iorio",
 		"ConstituencyName": "Saint-Léonard—Saint-Michel",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -728,7 +728,7 @@
 		"PersonOfficialLastName": "Diotte",
 		"ConstituencyName": "Edmonton Griesbach",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -737,7 +737,7 @@
 		"PersonOfficialLastName": "Doherty",
 		"ConstituencyName": "Cariboo—Prince George",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -746,7 +746,7 @@
 		"PersonOfficialLastName": "Donnelly",
 		"ConstituencyName": "Port Moody—Coquitlam",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -755,7 +755,7 @@
 		"PersonOfficialLastName": "Dreeshen",
 		"ConstituencyName": "Red Deer—Mountain View",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -764,7 +764,7 @@
 		"PersonOfficialLastName": "Drouin",
 		"ConstituencyName": "Glengarry—Prescott—Russell",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -773,7 +773,7 @@
 		"PersonOfficialLastName": "Dubé",
 		"ConstituencyName": "Beloeil—Chambly",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -782,7 +782,7 @@
 		"PersonOfficialLastName": "Dubourg",
 		"ConstituencyName": "Bourassa",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -792,7 +792,7 @@
 		"PersonOfficialLastName": "Duclos",
 		"ConstituencyName": "Québec",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -801,7 +801,7 @@
 		"PersonOfficialLastName": "Duguid",
 		"ConstituencyName": "Winnipeg South",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -811,7 +811,7 @@
 		"PersonOfficialLastName": "Duncan",
 		"ConstituencyName": "Etobicoke North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -820,7 +820,7 @@
 		"PersonOfficialLastName": "Duncan",
 		"ConstituencyName": "Edmonton Strathcona",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -829,7 +829,7 @@
 		"PersonOfficialLastName": "Dusseault",
 		"ConstituencyName": "Sherbrooke",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -838,7 +838,7 @@
 		"PersonOfficialLastName": "Duvall",
 		"ConstituencyName": "Hamilton Mountain",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -847,7 +847,7 @@
 		"PersonOfficialLastName": "Dzerowicz",
 		"ConstituencyName": "Davenport",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -857,7 +857,7 @@
 		"PersonOfficialLastName": "Easter",
 		"ConstituencyName": "Malpeque",
 		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -866,7 +866,7 @@
 		"PersonOfficialLastName": "Eglinski",
 		"ConstituencyName": "Yellowhead",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -875,7 +875,7 @@
 		"PersonOfficialLastName": "Ehsassi",
 		"ConstituencyName": "Willowdale",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -884,7 +884,7 @@
 		"PersonOfficialLastName": "El-Khoury",
 		"ConstituencyName": "Laval—Les Îles",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -893,7 +893,7 @@
 		"PersonOfficialLastName": "Ellis",
 		"ConstituencyName": "Bay of Quinte",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -902,7 +902,7 @@
 		"PersonOfficialLastName": "Erskine-Smith",
 		"ConstituencyName": "Beaches—East York",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -912,7 +912,7 @@
 		"PersonOfficialLastName": "Eyking",
 		"ConstituencyName": "Sydney—Victoria",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -921,7 +921,7 @@
 		"PersonOfficialLastName": "Eyolfson",
 		"ConstituencyName": "Charleswood—St. James—Assiniboia—Headingley",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -930,7 +930,7 @@
 		"PersonOfficialLastName": "Falk",
 		"ConstituencyName": "Provencher",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -940,7 +940,7 @@
 		"PersonOfficialLastName": "Fast",
 		"ConstituencyName": "Abbotsford",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -949,7 +949,7 @@
 		"PersonOfficialLastName": "Fergus",
 		"ConstituencyName": "Hull—Aylmer",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -958,7 +958,7 @@
 		"PersonOfficialLastName": "Fillmore",
 		"ConstituencyName": "Halifax",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -968,7 +968,7 @@
 		"PersonOfficialLastName": "Finley",
 		"ConstituencyName": "Haldimand—Norfolk",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -977,7 +977,7 @@
 		"PersonOfficialLastName": "Finnigan",
 		"ConstituencyName": "Miramichi—Grand Lake",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -986,7 +986,7 @@
 		"PersonOfficialLastName": "Fisher",
 		"ConstituencyName": "Dartmouth—Cole Harbour",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -995,7 +995,7 @@
 		"PersonOfficialLastName": "Fonseca",
 		"ConstituencyName": "Mississauga East—Cooksville",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1005,7 +1005,7 @@
 		"PersonOfficialLastName": "Foote",
 		"ConstituencyName": "Bonavista—Burin—Trinity",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1014,7 +1014,7 @@
 		"PersonOfficialLastName": "Fortier",
 		"ConstituencyName": "Ottawa—Vanier",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2017-04-03T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1032,7 +1032,7 @@
 		"PersonOfficialLastName": "Fragiskatos",
 		"ConstituencyName": "London North Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1041,7 +1041,7 @@
 		"PersonOfficialLastName": "Fraser",
 		"ConstituencyName": "West Nova",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1050,7 +1050,7 @@
 		"PersonOfficialLastName": "Fraser",
 		"ConstituencyName": "Central Nova",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1060,7 +1060,7 @@
 		"PersonOfficialLastName": "Freeland",
 		"ConstituencyName": "University—Rosedale",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1070,7 +1070,7 @@
 		"PersonOfficialLastName": "Fry",
 		"ConstituencyName": "Vancouver Centre",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1079,7 +1079,7 @@
 		"PersonOfficialLastName": "Fuhr",
 		"ConstituencyName": "Kelowna—Lake Country",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1088,7 +1088,7 @@
 		"PersonOfficialLastName": "Gallant",
 		"ConstituencyName": "Renfrew—Nipissing—Pembroke",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1098,7 +1098,7 @@
 		"PersonOfficialLastName": "Garneau",
 		"ConstituencyName": "Notre-Dame-de-Grâce—Westmount",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1107,7 +1107,7 @@
 		"PersonOfficialLastName": "Garrison",
 		"ConstituencyName": "Esquimalt—Saanich—Sooke",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1116,7 +1116,7 @@
 		"PersonOfficialLastName": "Généreux",
 		"ConstituencyName": "Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1125,7 +1125,7 @@
 		"PersonOfficialLastName": "Genuis",
 		"ConstituencyName": "Sherwood Park—Fort Saskatchewan",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1134,7 +1134,7 @@
 		"PersonOfficialLastName": "Gerretsen",
 		"ConstituencyName": "Kingston and the Islands",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1152,7 +1152,7 @@
 		"PersonOfficialLastName": "Gladu",
 		"ConstituencyName": "Sarnia—Lambton",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1161,7 +1161,7 @@
 		"PersonOfficialLastName": "Godin",
 		"ConstituencyName": "Portneuf—Jacques-Cartier",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1170,7 +1170,7 @@
 		"PersonOfficialLastName": "Goldsmith-Jones",
 		"ConstituencyName": "West Vancouver—Sunshine Coast—Sea to Sky Country",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1180,7 +1180,7 @@
 		"PersonOfficialLastName": "Goodale",
 		"ConstituencyName": "Regina—Wascana",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1190,7 +1190,7 @@
 		"PersonOfficialLastName": "Gould",
 		"ConstituencyName": "Burlington",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1199,7 +1199,7 @@
 		"PersonOfficialLastName": "Gourde",
 		"ConstituencyName": "Lévis—Lotbinière",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1208,7 +1208,7 @@
 		"PersonOfficialLastName": "Graham",
 		"ConstituencyName": "Laurentides—Labelle",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1217,7 +1217,7 @@
 		"PersonOfficialLastName": "Grewal",
 		"ConstituencyName": "Brampton East",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1227,7 +1227,7 @@
 		"PersonOfficialLastName": "Hajdu",
 		"ConstituencyName": "Thunder Bay—Superior North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1236,7 +1236,7 @@
 		"PersonOfficialLastName": "Hardcastle",
 		"ConstituencyName": "Windsor—Tecumseh",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1245,7 +1245,7 @@
 		"PersonOfficialLastName": "Harder",
 		"ConstituencyName": "Lethbridge",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1254,7 +1254,7 @@
 		"PersonOfficialLastName": "Hardie",
 		"ConstituencyName": "Fleetwood—Port Kells",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1263,7 +1263,7 @@
 		"PersonOfficialLastName": "Harvey",
 		"ConstituencyName": "Tobique—Mactaquac",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1273,7 +1273,7 @@
 		"PersonOfficialLastName": "Hehr",
 		"ConstituencyName": "Calgary Centre",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1282,7 +1282,7 @@
 		"PersonOfficialLastName": "Hoback",
 		"ConstituencyName": "Prince Albert",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1291,7 +1291,7 @@
 		"PersonOfficialLastName": "Holland",
 		"ConstituencyName": "Ajax",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1300,7 +1300,7 @@
 		"PersonOfficialLastName": "Housefather",
 		"ConstituencyName": "Mount Royal",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1309,7 +1309,7 @@
 		"PersonOfficialLastName": "Hughes",
 		"ConstituencyName": "Algoma—Manitoulin—Kapuskasing",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1319,7 +1319,7 @@
 		"PersonOfficialLastName": "Hussen",
 		"ConstituencyName": "York South—Weston",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1328,7 +1328,7 @@
 		"PersonOfficialLastName": "Hutchings",
 		"ConstituencyName": "Long Range Mountains",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1337,7 +1337,7 @@
 		"PersonOfficialLastName": "Iacono",
 		"ConstituencyName": "Alfred-Pellan",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1346,7 +1346,7 @@
 		"PersonOfficialLastName": "Jeneroux",
 		"ConstituencyName": "Edmonton Riverbend",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1355,7 +1355,7 @@
 		"PersonOfficialLastName": "Johns",
 		"ConstituencyName": "Courtenay—Alberni",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1364,7 +1364,7 @@
 		"PersonOfficialLastName": "Jolibois",
 		"ConstituencyName": "Desnethé—Missinippi—Churchill River",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1374,7 +1374,7 @@
 		"PersonOfficialLastName": "Joly",
 		"ConstituencyName": "Ahuntsic-Cartierville",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1383,7 +1383,7 @@
 		"PersonOfficialLastName": "Jones",
 		"ConstituencyName": "Labrador",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1392,7 +1392,7 @@
 		"PersonOfficialLastName": "Jordan",
 		"ConstituencyName": "South Shore—St. Margarets",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1401,7 +1401,7 @@
 		"PersonOfficialLastName": "Jowhari",
 		"ConstituencyName": "Richmond Hill",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1410,7 +1410,7 @@
 		"PersonOfficialLastName": "Julian",
 		"ConstituencyName": "New Westminster—Burnaby",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1419,7 +1419,7 @@
 		"PersonOfficialLastName": "Kang",
 		"ConstituencyName": "Calgary Skyview",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Independent",
+		"CaucusShortName": "Independent Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1428,7 +1428,7 @@
 		"PersonOfficialLastName": "Kelly",
 		"ConstituencyName": "Calgary Rocky Ridge",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1438,7 +1438,7 @@
 		"PersonOfficialLastName": "Kent",
 		"ConstituencyName": "Thornhill",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1447,7 +1447,7 @@
 		"PersonOfficialLastName": "Khalid",
 		"ConstituencyName": "Mississauga—Erin Mills",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1456,7 +1456,7 @@
 		"PersonOfficialLastName": "Khera",
 		"ConstituencyName": "Brampton West",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1465,7 +1465,7 @@
 		"PersonOfficialLastName": "Kitchen",
 		"ConstituencyName": "Souris—Moose Mountain",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1474,7 +1474,7 @@
 		"PersonOfficialLastName": "Kmiec",
 		"ConstituencyName": "Calgary Shepard",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1483,7 +1483,7 @@
 		"PersonOfficialLastName": "Kusie",
 		"ConstituencyName": "Calgary Midnapore",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2017-04-03T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1492,7 +1492,7 @@
 		"PersonOfficialLastName": "Kwan",
 		"ConstituencyName": "Vancouver East",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1502,7 +1502,7 @@
 		"PersonOfficialLastName": "Lake",
 		"ConstituencyName": "Edmonton—Wetaskiwin",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1511,7 +1511,7 @@
 		"PersonOfficialLastName": "Lambropoulos",
 		"ConstituencyName": "Saint-Laurent",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2017-04-03T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1520,7 +1520,7 @@
 		"PersonOfficialLastName": "Lametti",
 		"ConstituencyName": "LaSalle—Émard—Verdun",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1529,7 +1529,7 @@
 		"PersonOfficialLastName": "Lamoureux",
 		"ConstituencyName": "Winnipeg North",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1538,7 +1538,7 @@
 		"PersonOfficialLastName": "Lapointe",
 		"ConstituencyName": "Rivière-des-Mille-Îles",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1547,7 +1547,7 @@
 		"PersonOfficialLastName": "Lauzon",
 		"ConstituencyName": "Stormont—Dundas—South Glengarry",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1556,7 +1556,7 @@
 		"PersonOfficialLastName": "Lauzon",
 		"ConstituencyName": "Argenteuil—La Petite-Nation",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1565,7 +1565,7 @@
 		"PersonOfficialLastName": "Laverdière",
 		"ConstituencyName": "Laurier—Sainte-Marie",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1575,7 +1575,7 @@
 		"PersonOfficialLastName": "LeBlanc",
 		"ConstituencyName": "Beauséjour",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1585,7 +1585,7 @@
 		"PersonOfficialLastName": "Lebouthillier",
 		"ConstituencyName": "Gaspésie—Les Îles-de-la-Madeleine",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1594,7 +1594,7 @@
 		"PersonOfficialLastName": "Lefebvre",
 		"ConstituencyName": "Sudbury",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1604,7 +1604,7 @@
 		"PersonOfficialLastName": "Leitch",
 		"ConstituencyName": "Simcoe—Grey",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1613,7 +1613,7 @@
 		"PersonOfficialLastName": "Lemieux",
 		"ConstituencyName": "Chicoutimi—Le Fjord",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1623,7 +1623,7 @@
 		"PersonOfficialLastName": "Leslie",
 		"ConstituencyName": "Orléans",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1632,7 +1632,7 @@
 		"PersonOfficialLastName": "Levitt",
 		"ConstituencyName": "York Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1641,7 +1641,7 @@
 		"PersonOfficialLastName": "Liepert",
 		"ConstituencyName": "Calgary Signal Hill",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1650,7 +1650,7 @@
 		"PersonOfficialLastName": "Lightbound",
 		"ConstituencyName": "Louis-Hébert",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1659,7 +1659,7 @@
 		"PersonOfficialLastName": "Lobb",
 		"ConstituencyName": "Huron—Bruce",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1668,7 +1668,7 @@
 		"PersonOfficialLastName": "Lockhart",
 		"ConstituencyName": "Fundy Royal",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1677,7 +1677,7 @@
 		"PersonOfficialLastName": "Long",
 		"ConstituencyName": "Saint John—Rothesay",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1686,7 +1686,7 @@
 		"PersonOfficialLastName": "Longfield",
 		"ConstituencyName": "Guelph",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1695,7 +1695,7 @@
 		"PersonOfficialLastName": "Ludwig",
 		"ConstituencyName": "New Brunswick Southwest",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1704,7 +1704,7 @@
 		"PersonOfficialLastName": "Lukiwski",
 		"ConstituencyName": "Moose Jaw—Lake Centre—Lanigan",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1714,7 +1714,7 @@
 		"PersonOfficialLastName": "MacAulay",
 		"ConstituencyName": "Cardigan",
 		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1723,7 +1723,7 @@
 		"PersonOfficialLastName": "MacGregor",
 		"ConstituencyName": "Cowichan—Malahat—Langford",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1732,7 +1732,7 @@
 		"PersonOfficialLastName": "MacKenzie",
 		"ConstituencyName": "Oxford",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1741,7 +1741,7 @@
 		"PersonOfficialLastName": "MacKinnon",
 		"ConstituencyName": "Gatineau",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1750,7 +1750,7 @@
 		"PersonOfficialLastName": "Maguire",
 		"ConstituencyName": "Brandon—Souris",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1759,7 +1759,7 @@
 		"PersonOfficialLastName": "Malcolmson",
 		"ConstituencyName": "Nanaimo—Ladysmith",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1768,7 +1768,7 @@
 		"PersonOfficialLastName": "Maloney",
 		"ConstituencyName": "Etobicoke—Lakeshore",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1786,7 +1786,7 @@
 		"PersonOfficialLastName": "Masse",
 		"ConstituencyName": "Windsor West",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1795,7 +1795,7 @@
 		"PersonOfficialLastName": "Massé",
 		"ConstituencyName": "Avignon—La Mitis—Matane—Matapédia",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1804,7 +1804,7 @@
 		"PersonOfficialLastName": "Mathyssen",
 		"ConstituencyName": "London—Fanshawe",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1813,7 +1813,7 @@
 		"PersonOfficialLastName": "May",
 		"ConstituencyName": "Cambridge",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1831,7 +1831,7 @@
 		"PersonOfficialLastName": "McCauley",
 		"ConstituencyName": "Edmonton West",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1840,7 +1840,7 @@
 		"PersonOfficialLastName": "McColeman",
 		"ConstituencyName": "Brantford—Brant",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1849,7 +1849,7 @@
 		"PersonOfficialLastName": "McCrimmon",
 		"ConstituencyName": "Kanata—Carleton",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1858,7 +1858,7 @@
 		"PersonOfficialLastName": "McDonald",
 		"ConstituencyName": "Avalon",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1867,7 +1867,7 @@
 		"PersonOfficialLastName": "McGuinty",
 		"ConstituencyName": "Ottawa South",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1877,7 +1877,7 @@
 		"PersonOfficialLastName": "McKay",
 		"ConstituencyName": "Scarborough—Guildwood",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1887,7 +1887,7 @@
 		"PersonOfficialLastName": "McKenna",
 		"ConstituencyName": "Ottawa Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1896,7 +1896,7 @@
 		"PersonOfficialLastName": "McKinnon",
 		"ConstituencyName": "Coquitlam—Port Coquitlam",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1905,7 +1905,7 @@
 		"PersonOfficialLastName": "McLeod",
 		"ConstituencyName": "Kamloops—Thompson—Cariboo",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1914,7 +1914,7 @@
 		"PersonOfficialLastName": "McLeod",
 		"ConstituencyName": "Northwest Territories",
 		"ConstituencyProvinceTerritoryName": "Northwest Territories",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1923,7 +1923,7 @@
 		"PersonOfficialLastName": "Mendès",
 		"ConstituencyName": "Brossard—Saint-Lambert",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1932,7 +1932,7 @@
 		"PersonOfficialLastName": "Mendicino",
 		"ConstituencyName": "Eglinton—Lawrence",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1942,7 +1942,7 @@
 		"PersonOfficialLastName": "Mihychuk",
 		"ConstituencyName": "Kildonan—St. Paul",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1951,7 +1951,7 @@
 		"PersonOfficialLastName": "Miller",
 		"ConstituencyName": "Bruce—Grey—Owen Sound",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1960,7 +1960,7 @@
 		"PersonOfficialLastName": "Miller",
 		"ConstituencyName": "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1970,7 +1970,7 @@
 		"PersonOfficialLastName": "Monsef",
 		"ConstituencyName": "Peterborough—Kawartha",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1979,7 +1979,7 @@
 		"PersonOfficialLastName": "Moore",
 		"ConstituencyName": "Abitibi—Témiscamingue",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1989,7 +1989,7 @@
 		"PersonOfficialLastName": "Morneau",
 		"ConstituencyName": "Toronto Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -1998,7 +1998,7 @@
 		"PersonOfficialLastName": "Morrissey",
 		"ConstituencyName": "Egmont",
 		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2007,7 +2007,7 @@
 		"PersonOfficialLastName": "Motz",
 		"ConstituencyName": "Medicine Hat—Cardston—Warner",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2016-10-24T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2017,7 +2017,7 @@
 		"PersonOfficialLastName": "Mulcair",
 		"ConstituencyName": "Outremont",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2026,7 +2026,7 @@
 		"PersonOfficialLastName": "Murray",
 		"ConstituencyName": "Vancouver Quadra",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2035,7 +2035,7 @@
 		"PersonOfficialLastName": "Nantel",
 		"ConstituencyName": "Longueuil—Saint-Hubert",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2044,7 +2044,7 @@
 		"PersonOfficialLastName": "Nassif",
 		"ConstituencyName": "Vimy",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2053,7 +2053,7 @@
 		"PersonOfficialLastName": "Nater",
 		"ConstituencyName": "Perth—Wellington",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2063,7 +2063,7 @@
 		"PersonOfficialLastName": "Nault",
 		"ConstituencyName": "Kenora",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2072,7 +2072,7 @@
 		"PersonOfficialLastName": "Ng",
 		"ConstituencyName": "Markham—Thornhill",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2017-04-03T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2082,7 +2082,7 @@
 		"PersonOfficialLastName": "Nicholson",
 		"ConstituencyName": "Niagara Falls",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2091,7 +2091,7 @@
 		"PersonOfficialLastName": "Nuttall",
 		"ConstituencyName": "Barrie—Springwater—Oro-Medonte",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2101,7 +2101,7 @@
 		"PersonOfficialLastName": "Obhrai",
 		"ConstituencyName": "Calgary Forest Lawn",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2110,7 +2110,7 @@
 		"PersonOfficialLastName": "O'Connell",
 		"ConstituencyName": "Pickering—Uxbridge",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2119,7 +2119,7 @@
 		"PersonOfficialLastName": "Oliphant",
 		"ConstituencyName": "Don Valley West",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2128,7 +2128,7 @@
 		"PersonOfficialLastName": "Oliver",
 		"ConstituencyName": "Oakville",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2138,7 +2138,7 @@
 		"PersonOfficialLastName": "O'Regan",
 		"ConstituencyName": "St. John's South—Mount Pearl",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2148,7 +2148,7 @@
 		"PersonOfficialLastName": "O'Toole",
 		"ConstituencyName": "Durham",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2157,7 +2157,7 @@
 		"PersonOfficialLastName": "Ouellette",
 		"ConstituencyName": "Winnipeg Centre",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2167,7 +2167,7 @@
 		"PersonOfficialLastName": "Paradis",
 		"ConstituencyName": "Brome—Missisquoi",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2176,7 +2176,7 @@
 		"PersonOfficialLastName": "Paul-Hus",
 		"ConstituencyName": "Charlesbourg—Haute-Saint-Charles",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2194,7 +2194,7 @@
 		"PersonOfficialLastName": "Peschisolido",
 		"ConstituencyName": "Steveston—Richmond East",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2203,7 +2203,7 @@
 		"PersonOfficialLastName": "Peterson",
 		"ConstituencyName": "Newmarket—Aurora",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2213,7 +2213,7 @@
 		"PersonOfficialLastName": "Petitpas Taylor",
 		"ConstituencyName": "Moncton—Riverview—Dieppe",
 		"ConstituencyProvinceTerritoryName": "New Brunswick",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2223,7 +2223,7 @@
 		"PersonOfficialLastName": "Philpott",
 		"ConstituencyName": "Markham—Stouffville",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2232,7 +2232,7 @@
 		"PersonOfficialLastName": "Picard",
 		"ConstituencyName": "Montarville",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2251,7 +2251,7 @@
 		"PersonOfficialLastName": "Poilievre",
 		"ConstituencyName": "Carleton",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2260,7 +2260,7 @@
 		"PersonOfficialLastName": "Poissant",
 		"ConstituencyName": "La Prairie",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2269,7 +2269,7 @@
 		"PersonOfficialLastName": "Quach",
 		"ConstituencyName": "Salaberry—Suroît",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2279,7 +2279,7 @@
 		"PersonOfficialLastName": "Qualtrough",
 		"ConstituencyName": "Delta",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2289,7 +2289,7 @@
 		"PersonOfficialLastName": "Raitt",
 		"ConstituencyName": "Milton",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2298,7 +2298,7 @@
 		"PersonOfficialLastName": "Ramsey",
 		"ConstituencyName": "Essex",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2307,7 +2307,7 @@
 		"PersonOfficialLastName": "Rankin",
 		"ConstituencyName": "Victoria",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2316,7 +2316,7 @@
 		"PersonOfficialLastName": "Ratansi",
 		"ConstituencyName": "Don Valley East",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2325,7 +2325,7 @@
 		"PersonOfficialLastName": "Rayes",
 		"ConstituencyName": "Richmond—Arthabaska",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2335,7 +2335,7 @@
 		"PersonOfficialLastName": "Regan",
 		"ConstituencyName": "Halifax West",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2344,7 +2344,7 @@
 		"PersonOfficialLastName": "Reid",
 		"ConstituencyName": "Lanark—Frontenac—Kingston",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2354,7 +2354,7 @@
 		"PersonOfficialLastName": "Rempel",
 		"ConstituencyName": "Calgary Nose Hill",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2363,7 +2363,7 @@
 		"PersonOfficialLastName": "Richards",
 		"ConstituencyName": "Banff—Airdrie",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2372,7 +2372,7 @@
 		"PersonOfficialLastName": "Rioux",
 		"ConstituencyName": "Saint-Jean",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2382,7 +2382,7 @@
 		"PersonOfficialLastName": "Ritz",
 		"ConstituencyName": "Battlefords—Lloydminster",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2391,7 +2391,7 @@
 		"PersonOfficialLastName": "Robillard",
 		"ConstituencyName": "Marc-Aurèle-Fortin",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2401,7 +2401,7 @@
 		"PersonOfficialLastName": "Rodriguez",
 		"ConstituencyName": "Honoré-Mercier",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2410,7 +2410,7 @@
 		"PersonOfficialLastName": "Romanado",
 		"ConstituencyName": "Longueuil—Charles-LeMoyne",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2419,7 +2419,7 @@
 		"PersonOfficialLastName": "Rota",
 		"ConstituencyName": "Nipissing—Timiskaming",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2428,7 +2428,7 @@
 		"PersonOfficialLastName": "Rudd",
 		"ConstituencyName": "Northumberland—Peterborough South",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2437,7 +2437,7 @@
 		"PersonOfficialLastName": "Ruimy",
 		"ConstituencyName": "Pitt Meadows—Maple Ridge",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2446,7 +2446,7 @@
 		"PersonOfficialLastName": "Rusnak",
 		"ConstituencyName": "Thunder Bay—Rainy River",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2455,7 +2455,7 @@
 		"PersonOfficialLastName": "Saganash",
 		"ConstituencyName": "Abitibi—Baie-James—Nunavik—Eeyou",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2464,7 +2464,7 @@
 		"PersonOfficialLastName": "Sahota",
 		"ConstituencyName": "Brampton North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2473,7 +2473,7 @@
 		"PersonOfficialLastName": "Saini",
 		"ConstituencyName": "Kitchener Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2483,7 +2483,7 @@
 		"PersonOfficialLastName": "Sajjan",
 		"ConstituencyName": "Vancouver South",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2492,7 +2492,7 @@
 		"PersonOfficialLastName": "Samson",
 		"ConstituencyName": "Sackville—Preston—Chezzetcook",
 		"ConstituencyProvinceTerritoryName": "Nova Scotia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2501,7 +2501,7 @@
 		"PersonOfficialLastName": "Sangha",
 		"ConstituencyName": "Brampton Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2510,7 +2510,7 @@
 		"PersonOfficialLastName": "Sansoucy",
 		"ConstituencyName": "Saint-Hyacinthe—Bagot",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2519,7 +2519,7 @@
 		"PersonOfficialLastName": "Sarai",
 		"ConstituencyName": "Surrey Centre",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2528,7 +2528,7 @@
 		"PersonOfficialLastName": "Saroya",
 		"ConstituencyName": "Markham—Unionville",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2537,7 +2537,7 @@
 		"PersonOfficialLastName": "Scarpaleggia",
 		"ConstituencyName": "Lac-Saint-Louis",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2546,7 +2546,7 @@
 		"PersonOfficialLastName": "Scheer",
 		"ConstituencyName": "Regina—Qu'Appelle",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2555,7 +2555,7 @@
 		"PersonOfficialLastName": "Schiefke",
 		"ConstituencyName": "Vaudreuil—Soulanges",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2564,7 +2564,7 @@
 		"PersonOfficialLastName": "Schmale",
 		"ConstituencyName": "Haliburton—Kawartha Lakes—Brock",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2573,7 +2573,7 @@
 		"PersonOfficialLastName": "Schulte",
 		"ConstituencyName": "King—Vaughan",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2582,7 +2582,7 @@
 		"PersonOfficialLastName": "Serré",
 		"ConstituencyName": "Nickel Belt",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2592,7 +2592,7 @@
 		"PersonOfficialLastName": "Sgro",
 		"ConstituencyName": "Humber River—Black Creek",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2601,7 +2601,7 @@
 		"PersonOfficialLastName": "Shanahan",
 		"ConstituencyName": "Châteauguay—Lacolle",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2610,7 +2610,7 @@
 		"PersonOfficialLastName": "Sheehan",
 		"ConstituencyName": "Sault Ste. Marie",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2619,7 +2619,7 @@
 		"PersonOfficialLastName": "Shields",
 		"ConstituencyName": "Bow River",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2628,7 +2628,7 @@
 		"PersonOfficialLastName": "Shipley",
 		"ConstituencyName": "Lambton—Kent—Middlesex",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2637,7 +2637,7 @@
 		"PersonOfficialLastName": "Sidhu",
 		"ConstituencyName": "Mission—Matsqui—Fraser Canyon",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2646,7 +2646,7 @@
 		"PersonOfficialLastName": "Sidhu",
 		"ConstituencyName": "Brampton South",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2655,7 +2655,7 @@
 		"PersonOfficialLastName": "Sikand",
 		"ConstituencyName": "Mississauga—Streetsville",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2664,7 +2664,7 @@
 		"PersonOfficialLastName": "Simms",
 		"ConstituencyName": "Coast of Bays—Central—Notre Dame",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2674,7 +2674,7 @@
 		"PersonOfficialLastName": "Sohi",
 		"ConstituencyName": "Edmonton Mill Woods",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2683,7 +2683,7 @@
 		"PersonOfficialLastName": "Sopuck",
 		"ConstituencyName": "Dauphin—Swan River—Neepawa",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2692,7 +2692,7 @@
 		"PersonOfficialLastName": "Sorbara",
 		"ConstituencyName": "Vaughan—Woodbridge",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2702,7 +2702,7 @@
 		"PersonOfficialLastName": "Sorenson",
 		"ConstituencyName": "Battle River—Crowfoot",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2711,7 +2711,7 @@
 		"PersonOfficialLastName": "Spengemann",
 		"ConstituencyName": "Mississauga—Lakeshore",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2720,7 +2720,7 @@
 		"PersonOfficialLastName": "Stanton",
 		"ConstituencyName": "Simcoe North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2738,7 +2738,7 @@
 		"PersonOfficialLastName": "Stetski",
 		"ConstituencyName": "Kootenay—Columbia",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2747,7 +2747,7 @@
 		"PersonOfficialLastName": "Stewart",
 		"ConstituencyName": "Burnaby South",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2756,7 +2756,7 @@
 		"PersonOfficialLastName": "Strahl",
 		"ConstituencyName": "Chilliwack—Hope",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2765,7 +2765,7 @@
 		"PersonOfficialLastName": "Stubbs",
 		"ConstituencyName": "Lakeland",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2774,7 +2774,7 @@
 		"PersonOfficialLastName": "Sweet",
 		"ConstituencyName": "Flamborough—Glanbrook",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2783,7 +2783,7 @@
 		"PersonOfficialLastName": "Tabbara",
 		"ConstituencyName": "Kitchener South—Hespeler",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2792,7 +2792,7 @@
 		"PersonOfficialLastName": "Tan",
 		"ConstituencyName": "Don Valley North",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2801,7 +2801,7 @@
 		"PersonOfficialLastName": "Tassi",
 		"ConstituencyName": "Hamilton West—Ancaster—Dundas",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2819,7 +2819,7 @@
 		"PersonOfficialLastName": "Tilson",
 		"ConstituencyName": "Dufferin—Caledon",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2829,7 +2829,7 @@
 		"PersonOfficialLastName": "Tootoo",
 		"ConstituencyName": "Nunavut",
 		"ConstituencyProvinceTerritoryName": "Nunavut",
-		"CaucusShortName": "Independent",
+		"CaucusShortName": "Independent Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2838,7 +2838,7 @@
 		"PersonOfficialLastName": "Trost",
 		"ConstituencyName": "Saskatoon—University",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2848,7 +2848,7 @@
 		"PersonOfficialLastName": "Trudeau",
 		"ConstituencyName": "Papineau",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2857,7 +2857,7 @@
 		"PersonOfficialLastName": "Trudel",
 		"ConstituencyName": "Jonquière",
 		"ConstituencyProvinceTerritoryName": "Quebec",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2866,7 +2866,7 @@
 		"PersonOfficialLastName": "Van Kesteren",
 		"ConstituencyName": "Chatham-Kent—Leamington",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2876,7 +2876,7 @@
 		"PersonOfficialLastName": "Van Loan",
 		"ConstituencyName": "York—Simcoe",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2885,7 +2885,7 @@
 		"PersonOfficialLastName": "Vandal",
 		"ConstituencyName": "Saint Boniface—Saint Vital",
 		"ConstituencyProvinceTerritoryName": "Manitoba",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2894,7 +2894,7 @@
 		"PersonOfficialLastName": "Vandenbeld",
 		"ConstituencyName": "Ottawa West—Nepean",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2903,7 +2903,7 @@
 		"PersonOfficialLastName": "Vaughan",
 		"ConstituencyName": "Spadina—Fort York",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2912,7 +2912,7 @@
 		"PersonOfficialLastName": "Vecchio",
 		"ConstituencyName": "Elgin—Middlesex—London",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2921,7 +2921,7 @@
 		"PersonOfficialLastName": "Viersen",
 		"ConstituencyName": "Peace River—Westlock",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2930,7 +2930,7 @@
 		"PersonOfficialLastName": "Virani",
 		"ConstituencyName": "Parkdale—High Park",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2939,7 +2939,7 @@
 		"PersonOfficialLastName": "Wagantall",
 		"ConstituencyName": "Yorkton—Melville",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2948,7 +2948,7 @@
 		"PersonOfficialLastName": "Warawa",
 		"ConstituencyName": "Langley—Aldergrove",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2957,7 +2957,7 @@
 		"PersonOfficialLastName": "Warkentin",
 		"ConstituencyName": "Grande Prairie—Mackenzie",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2966,7 +2966,7 @@
 		"PersonOfficialLastName": "Watts",
 		"ConstituencyName": "South Surrey—White Rock",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2975,7 +2975,7 @@
 		"PersonOfficialLastName": "Waugh",
 		"ConstituencyName": "Saskatoon—Grasswood",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2984,7 +2984,7 @@
 		"PersonOfficialLastName": "Webber",
 		"ConstituencyName": "Calgary Confederation",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -2993,7 +2993,7 @@
 		"PersonOfficialLastName": "Weir",
 		"ConstituencyName": "Regina—Lewvan",
 		"ConstituencyProvinceTerritoryName": "Saskatchewan",
-		"CaucusShortName": "NDP",
+		"CaucusShortName": "New Democratic Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3002,7 +3002,7 @@
 		"PersonOfficialLastName": "Whalen",
 		"ConstituencyName": "St. John's East",
 		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3011,7 +3011,7 @@
 		"PersonOfficialLastName": "Wilkinson",
 		"ConstituencyName": "North Vancouver",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3021,7 +3021,7 @@
 		"PersonOfficialLastName": "Wilson-Raybould",
 		"ConstituencyName": "Vancouver Granville",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3031,7 +3031,7 @@
 		"PersonOfficialLastName": "Wong",
 		"ConstituencyName": "Richmond Centre",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3040,7 +3040,7 @@
 		"PersonOfficialLastName": "Wrzesnewskyj",
 		"ConstituencyName": "Etobicoke Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3049,7 +3049,7 @@
 		"PersonOfficialLastName": "Young",
 		"ConstituencyName": "London West",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3058,7 +3058,7 @@
 		"PersonOfficialLastName": "Yurdiga",
 		"ConstituencyName": "Fort McMurray—Cold Lake",
 		"ConstituencyProvinceTerritoryName": "Alberta",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3067,7 +3067,7 @@
 		"PersonOfficialLastName": "Zahid",
 		"ConstituencyName": "Scarborough Centre",
 		"ConstituencyProvinceTerritoryName": "Ontario",
-		"CaucusShortName": "Liberal",
+		"CaucusShortName": "Liberal Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	},
@@ -3076,7 +3076,7 @@
 		"PersonOfficialLastName": "Zimmer",
 		"ConstituencyName": "Prince George—Peace River—Northern Rockies",
 		"ConstituencyProvinceTerritoryName": "British Columbia",
-		"CaucusShortName": "Conservative",
+		"CaucusShortName": "Conservative Party",
 		"FromDateTime": "2015-10-19T00:00:00",
 		"ToDateTime": { "-xsi:nil": "true" }
 	}
