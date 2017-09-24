@@ -1,20 +1,17 @@
 
 $(function(){
-
-	console.log(votes);
+	//get parties from votes global object
 	const partiesArray = Object.keys(votes);
-	console.log('Parties', partiesArray);
-
+    //get votes from votes global object
 	var votesArray = [];
 	for (var key in votes) {
 		if (votes.hasOwnProperty(key)) {
-			console.log('key', key);
-			console.log('votes[key]', votes[key]);
+			//add length of each votes key array to votesArray
 			votesArray.push(votes[key].length);
 		}
 	}
-	console.log('array', votesArray);
 
+//populate doughnut chart with data
 	var ctx = document.getElementById("myChart").getContext('2d');
 	var myChart = new Chart(ctx, {
 		type: 'doughnut',
