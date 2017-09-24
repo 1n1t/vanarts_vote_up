@@ -1,3 +1,6 @@
+- var parties = ["Liberal", "Conservative", "New Democratic", "Green"]
+- var policies = ["Economy", "Environment", "Education", "Foreign Affairs", "Infrastructure and Transport", "Aboriginal Issues", "Justice", "Security and Terrorism", "Social Issues"]
+
 mixin party-option(name)
 	option(value="#{name}" selected) #{name}
 
@@ -14,9 +17,7 @@ section.filters
 	.filters__policies
 		p Filter policies
 		select#select-policies(multiple="multiple")
-			+party-option("Economy")
-			+party-option("Environment")
-			+party-option("Education")
-			+party-option("Foreign Affairs")
+			each policy in policies
+				+party-option(policy)
 
 

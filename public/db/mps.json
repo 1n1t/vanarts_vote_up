@@ -1,0 +1,3083 @@
+{ "MemberOfParliament": [
+	{
+		"PersonOfficialFirstName": "Ziad",
+		"PersonOfficialLastName": "Aboultaif",
+		"ConstituencyName": "Edmonton Manning",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dan",
+		"PersonOfficialLastName": "Albas",
+		"ConstituencyName": "Central Okanagan—Similkameen—Nicola",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Harold",
+		"PersonOfficialLastName": "Albrecht",
+		"ConstituencyName": "Kitchener—Conestoga",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "Aldag",
+		"ConstituencyName": "Cloverdale—Langley City",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Omar",
+		"PersonOfficialLastName": "Alghabra",
+		"ConstituencyName": "Mississauga Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Leona",
+		"PersonOfficialLastName": "Alleslev",
+		"ConstituencyName": "Aurora—Oak Ridges—Richmond Hill",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dean",
+		"PersonOfficialLastName": "Allison",
+		"ConstituencyName": "Niagara West",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "William",
+		"PersonOfficialLastName": "Amos",
+		"ConstituencyName": "Pontiac",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gary",
+		"PersonOfficialLastName": "Anandasangaree",
+		"ConstituencyName": "Scarborough—Rouge Park",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Anderson",
+		"ConstituencyName": "Cypress Hills—Grasslands",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Charlie",
+		"PersonOfficialLastName": "Angus",
+		"ConstituencyName": "Timmins—James Bay",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mel",
+		"PersonOfficialLastName": "Arnold",
+		"ConstituencyName": "North Okanagan—Shuswap",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "René",
+		"PersonOfficialLastName": "Arseneault",
+		"ConstituencyName": "Madawaska—Restigouche",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Chandra",
+		"PersonOfficialLastName": "Arya",
+		"ConstituencyName": "Nepean",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Niki",
+		"PersonOfficialLastName": "Ashton",
+		"ConstituencyName": "Churchill—Keewatinook Aski",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Aubin",
+		"ConstituencyName": "Trois-Rivières",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ramez",
+		"PersonOfficialLastName": "Ayoub",
+		"ConstituencyName": "Thérèse-De Blainville",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Vance",
+		"PersonOfficialLastName": "Badawey",
+		"ConstituencyName": "Niagara Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Larry",
+		"PersonOfficialLastName": "Bagnell",
+		"ConstituencyName": "Yukon",
+		"ConstituencyProvinceTerritoryName": "Yukon",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Navdeep",
+		"PersonOfficialLastName": "Bains",
+		"ConstituencyName": "Mississauga—Malton",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "Barlow",
+		"ConstituencyName": "Foothills",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Xavier",
+		"PersonOfficialLastName": "Barsalou-Duval",
+		"ConstituencyName": "Pierre-Boucher—Les Patriotes—Verchères",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Frank",
+		"PersonOfficialLastName": "Baylis",
+		"ConstituencyName": "Pierrefonds—Dollard",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mario",
+		"PersonOfficialLastName": "Beaulieu",
+		"ConstituencyName": "La Pointe-de-l'Île",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Terry",
+		"PersonOfficialLastName": "Beech",
+		"ConstituencyName": "Burnaby North—Seymour",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Carolyn",
+		"PersonOfficialLastName": "Bennett",
+		"ConstituencyName": "Toronto—St. Paul's",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sheri",
+		"PersonOfficialLastName": "Benson",
+		"ConstituencyName": "Saskatoon West",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bob",
+		"PersonOfficialLastName": "Benzen",
+		"ConstituencyName": "Calgary Heritage",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2017-04-03T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Candice",
+		"PersonOfficialLastName": "Bergen",
+		"ConstituencyName": "Portage—Lisgar",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Maxime",
+		"PersonOfficialLastName": "Bernier",
+		"ConstituencyName": "Beauce",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Luc",
+		"PersonOfficialLastName": "Berthold",
+		"ConstituencyName": "Mégantic—L'Érable",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "James",
+		"PersonOfficialLastName": "Bezan",
+		"ConstituencyName": "Selkirk—Interlake—Eastman",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Marie-Claude",
+		"PersonOfficialLastName": "Bibeau",
+		"ConstituencyName": "Compton—Stanstead",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Chris",
+		"PersonOfficialLastName": "Bittle",
+		"ConstituencyName": "St. Catharines",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Daniel",
+		"PersonOfficialLastName": "Blaikie",
+		"ConstituencyName": "Elmwood—Transcona",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bill",
+		"PersonOfficialLastName": "Blair",
+		"ConstituencyName": "Scarborough Southwest",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Rachel",
+		"PersonOfficialLastName": "Blaney",
+		"ConstituencyName": "North Island—Powell River",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Steven",
+		"PersonOfficialLastName": "Blaney",
+		"ConstituencyName": "Bellechasse—Les Etchemins—Lévis",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kelly",
+		"PersonOfficialLastName": "Block",
+		"ConstituencyName": "Carlton Trail—Eagle Creek",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Randy",
+		"PersonOfficialLastName": "Boissonnault",
+		"ConstituencyName": "Edmonton Centre",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mike",
+		"PersonOfficialLastName": "Bossio",
+		"ConstituencyName": "Hastings—Lennox and Addington",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sylvie",
+		"PersonOfficialLastName": "Boucher",
+		"ConstituencyName": "Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Michel",
+		"PersonOfficialLastName": "Boudrias",
+		"ConstituencyName": "Terrebonne",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alexandre",
+		"PersonOfficialLastName": "Boulerice",
+		"ConstituencyName": "Rosemont—La Petite-Patrie",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marjolaine",
+		"PersonOfficialLastName": "Boutin-Sweet",
+		"ConstituencyName": "Hochelaga",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "Brassard",
+		"ConstituencyName": "Barrie—Innisfil",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bob",
+		"PersonOfficialLastName": "Bratina",
+		"ConstituencyName": "Hamilton East—Stoney Creek",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pierre",
+		"PersonOfficialLastName": "Breton",
+		"ConstituencyName": "Shefford",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Scott",
+		"PersonOfficialLastName": "Brison",
+		"ConstituencyName": "Kings—Hants",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ruth Ellen",
+		"PersonOfficialLastName": "Brosseau",
+		"ConstituencyName": "Berthier—Maskinongé",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gordon",
+		"PersonOfficialLastName": "Brown",
+		"ConstituencyName": "Leeds—Grenville—Thousand Islands and Rideau Lakes",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Celina",
+		"PersonOfficialLastName": "Caesar-Chavannes",
+		"ConstituencyName": "Whitby",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Blaine",
+		"PersonOfficialLastName": "Calkins",
+		"ConstituencyName": "Red Deer—Lacombe",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Richard",
+		"PersonOfficialLastName": "Cannings",
+		"ConstituencyName": "South Okanagan—West Kootenay",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Guy",
+		"PersonOfficialLastName": "Caron",
+		"ConstituencyName": "Rimouski-Neigette—Témiscouata—Les Basques",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Jim",
+		"PersonOfficialLastName": "Carr",
+		"ConstituencyName": "Winnipeg South Centre",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Colin",
+		"PersonOfficialLastName": "Carrie",
+		"ConstituencyName": "Oshawa",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bill",
+		"PersonOfficialLastName": "Casey",
+		"ConstituencyName": "Cumberland—Colchester",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sean",
+		"PersonOfficialLastName": "Casey",
+		"ConstituencyName": "Charlottetown",
+		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Bardish",
+		"PersonOfficialLastName": "Chagger",
+		"ConstituencyName": "Waterloo",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "François-Philippe",
+		"PersonOfficialLastName": "Champagne",
+		"ConstituencyName": "Saint-Maurice—Champlain",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Shaun",
+		"PersonOfficialLastName": "Chen",
+		"ConstituencyName": "Scarborough North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Michael",
+		"PersonOfficialLastName": "Chong",
+		"ConstituencyName": "Wellington—Halton Hills",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "François",
+		"PersonOfficialLastName": "Choquette",
+		"ConstituencyName": "Drummond",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Christopherson",
+		"ConstituencyName": "Hamilton Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alupa",
+		"PersonOfficialLastName": "Clarke",
+		"ConstituencyName": "Beauport—Limoilou",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Tony",
+		"PersonOfficialLastName": "Clement",
+		"ConstituencyName": "Parry Sound—Muskoka",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Michael",
+		"PersonOfficialLastName": "Cooper",
+		"ConstituencyName": "St. Albert—Edmonton",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Serge",
+		"PersonOfficialLastName": "Cormier",
+		"ConstituencyName": "Acadie—Bathurst",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Nathan",
+		"PersonOfficialLastName": "Cullen",
+		"ConstituencyName": "Skeena—Bulkley Valley",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Rodger",
+		"PersonOfficialLastName": "Cuzner",
+		"ConstituencyName": "Cape Breton—Canso",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Julie",
+		"PersonOfficialLastName": "Dabrusin",
+		"ConstituencyName": "Toronto—Danforth",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pam",
+		"PersonOfficialLastName": "Damoff",
+		"ConstituencyName": "Oakville North—Burlington",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Don",
+		"PersonOfficialLastName": "Davies",
+		"ConstituencyName": "Vancouver Kingsway",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Matt",
+		"PersonOfficialLastName": "DeCourcey",
+		"ConstituencyName": "Fredericton",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gérard",
+		"PersonOfficialLastName": "Deltell",
+		"ConstituencyName": "Louis-Saint-Laurent",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sukh",
+		"PersonOfficialLastName": "Dhaliwal",
+		"ConstituencyName": "Surrey—Newton",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Anju",
+		"PersonOfficialLastName": "Dhillon",
+		"ConstituencyName": "Dorval—Lachine—LaSalle",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Nicola",
+		"PersonOfficialLastName": "Di Iorio",
+		"ConstituencyName": "Saint-Léonard—Saint-Michel",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kerry",
+		"PersonOfficialLastName": "Diotte",
+		"ConstituencyName": "Edmonton Griesbach",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Todd",
+		"PersonOfficialLastName": "Doherty",
+		"ConstituencyName": "Cariboo—Prince George",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Fin",
+		"PersonOfficialLastName": "Donnelly",
+		"ConstituencyName": "Port Moody—Coquitlam",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Earl",
+		"PersonOfficialLastName": "Dreeshen",
+		"ConstituencyName": "Red Deer—Mountain View",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Francis",
+		"PersonOfficialLastName": "Drouin",
+		"ConstituencyName": "Glengarry—Prescott—Russell",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Matthew",
+		"PersonOfficialLastName": "Dubé",
+		"ConstituencyName": "Beloeil—Chambly",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Emmanuel",
+		"PersonOfficialLastName": "Dubourg",
+		"ConstituencyName": "Bourassa",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Jean-Yves",
+		"PersonOfficialLastName": "Duclos",
+		"ConstituencyName": "Québec",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Terry",
+		"PersonOfficialLastName": "Duguid",
+		"ConstituencyName": "Winnipeg South",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Kirsty",
+		"PersonOfficialLastName": "Duncan",
+		"ConstituencyName": "Etobicoke North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Linda",
+		"PersonOfficialLastName": "Duncan",
+		"ConstituencyName": "Edmonton Strathcona",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pierre-Luc",
+		"PersonOfficialLastName": "Dusseault",
+		"ConstituencyName": "Sherbrooke",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Scott",
+		"PersonOfficialLastName": "Duvall",
+		"ConstituencyName": "Hamilton Mountain",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Julie",
+		"PersonOfficialLastName": "Dzerowicz",
+		"ConstituencyName": "Davenport",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Wayne",
+		"PersonOfficialLastName": "Easter",
+		"ConstituencyName": "Malpeque",
+		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jim",
+		"PersonOfficialLastName": "Eglinski",
+		"ConstituencyName": "Yellowhead",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ali",
+		"PersonOfficialLastName": "Ehsassi",
+		"ConstituencyName": "Willowdale",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Fayçal",
+		"PersonOfficialLastName": "El-Khoury",
+		"ConstituencyName": "Laval—Les Îles",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Neil",
+		"PersonOfficialLastName": "Ellis",
+		"ConstituencyName": "Bay of Quinte",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Nathaniel",
+		"PersonOfficialLastName": "Erskine-Smith",
+		"ConstituencyName": "Beaches—East York",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Mark",
+		"PersonOfficialLastName": "Eyking",
+		"ConstituencyName": "Sydney—Victoria",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Doug",
+		"PersonOfficialLastName": "Eyolfson",
+		"ConstituencyName": "Charleswood—St. James—Assiniboia—Headingley",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ted",
+		"PersonOfficialLastName": "Falk",
+		"ConstituencyName": "Provencher",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Ed",
+		"PersonOfficialLastName": "Fast",
+		"ConstituencyName": "Abbotsford",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Greg",
+		"PersonOfficialLastName": "Fergus",
+		"ConstituencyName": "Hull—Aylmer",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Andy",
+		"PersonOfficialLastName": "Fillmore",
+		"ConstituencyName": "Halifax",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Diane",
+		"PersonOfficialLastName": "Finley",
+		"ConstituencyName": "Haldimand—Norfolk",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pat",
+		"PersonOfficialLastName": "Finnigan",
+		"ConstituencyName": "Miramichi—Grand Lake",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Darren",
+		"PersonOfficialLastName": "Fisher",
+		"ConstituencyName": "Dartmouth—Cole Harbour",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Fonseca",
+		"ConstituencyName": "Mississauga East—Cooksville",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Judy",
+		"PersonOfficialLastName": "Foote",
+		"ConstituencyName": "Bonavista—Burin—Trinity",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mona",
+		"PersonOfficialLastName": "Fortier",
+		"ConstituencyName": "Ottawa—Vanier",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2017-04-03T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Rhéal",
+		"PersonOfficialLastName": "Fortin",
+		"ConstituencyName": "Rivière-du-Nord",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Fragiskatos",
+		"ConstituencyName": "London North Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Colin",
+		"PersonOfficialLastName": "Fraser",
+		"ConstituencyName": "West Nova",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sean",
+		"PersonOfficialLastName": "Fraser",
+		"ConstituencyName": "Central Nova",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Chrystia",
+		"PersonOfficialLastName": "Freeland",
+		"ConstituencyName": "University—Rosedale",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Hedy",
+		"PersonOfficialLastName": "Fry",
+		"ConstituencyName": "Vancouver Centre",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Stephen",
+		"PersonOfficialLastName": "Fuhr",
+		"ConstituencyName": "Kelowna—Lake Country",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Cheryl",
+		"PersonOfficialLastName": "Gallant",
+		"ConstituencyName": "Renfrew—Nipissing—Pembroke",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Marc",
+		"PersonOfficialLastName": "Garneau",
+		"ConstituencyName": "Notre-Dame-de-Grâce—Westmount",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Randall",
+		"PersonOfficialLastName": "Garrison",
+		"ConstituencyName": "Esquimalt—Saanich—Sooke",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bernard",
+		"PersonOfficialLastName": "Généreux",
+		"ConstituencyName": "Montmagny—L'Islet—Kamouraska—Rivière-du-Loup",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Garnett",
+		"PersonOfficialLastName": "Genuis",
+		"ConstituencyName": "Sherwood Park—Fort Saskatchewan",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mark",
+		"PersonOfficialLastName": "Gerretsen",
+		"ConstituencyName": "Kingston and the Islands",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marilène",
+		"PersonOfficialLastName": "Gill",
+		"ConstituencyName": "Manicouagan",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marilyn",
+		"PersonOfficialLastName": "Gladu",
+		"ConstituencyName": "Sarnia—Lambton",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Joël",
+		"PersonOfficialLastName": "Godin",
+		"ConstituencyName": "Portneuf—Jacques-Cartier",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pam",
+		"PersonOfficialLastName": "Goldsmith-Jones",
+		"ConstituencyName": "West Vancouver—Sunshine Coast—Sea to Sky Country",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Ralph",
+		"PersonOfficialLastName": "Goodale",
+		"ConstituencyName": "Regina—Wascana",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Karina",
+		"PersonOfficialLastName": "Gould",
+		"ConstituencyName": "Burlington",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jacques",
+		"PersonOfficialLastName": "Gourde",
+		"ConstituencyName": "Lévis—Lotbinière",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David de Burgh",
+		"PersonOfficialLastName": "Graham",
+		"ConstituencyName": "Laurentides—Labelle",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Raj",
+		"PersonOfficialLastName": "Grewal",
+		"ConstituencyName": "Brampton East",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Patty",
+		"PersonOfficialLastName": "Hajdu",
+		"ConstituencyName": "Thunder Bay—Superior North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Cheryl",
+		"PersonOfficialLastName": "Hardcastle",
+		"ConstituencyName": "Windsor—Tecumseh",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Rachael",
+		"PersonOfficialLastName": "Harder",
+		"ConstituencyName": "Lethbridge",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ken",
+		"PersonOfficialLastName": "Hardie",
+		"ConstituencyName": "Fleetwood—Port Kells",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "T.J.",
+		"PersonOfficialLastName": "Harvey",
+		"ConstituencyName": "Tobique—Mactaquac",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Kent",
+		"PersonOfficialLastName": "Hehr",
+		"ConstituencyName": "Calgary Centre",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Randy",
+		"PersonOfficialLastName": "Hoback",
+		"ConstituencyName": "Prince Albert",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mark",
+		"PersonOfficialLastName": "Holland",
+		"ConstituencyName": "Ajax",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Anthony",
+		"PersonOfficialLastName": "Housefather",
+		"ConstituencyName": "Mount Royal",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Carol",
+		"PersonOfficialLastName": "Hughes",
+		"ConstituencyName": "Algoma—Manitoulin—Kapuskasing",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Ahmed",
+		"PersonOfficialLastName": "Hussen",
+		"ConstituencyName": "York South—Weston",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gudie",
+		"PersonOfficialLastName": "Hutchings",
+		"ConstituencyName": "Long Range Mountains",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Angelo",
+		"PersonOfficialLastName": "Iacono",
+		"ConstituencyName": "Alfred-Pellan",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Matt",
+		"PersonOfficialLastName": "Jeneroux",
+		"ConstituencyName": "Edmonton Riverbend",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gord",
+		"PersonOfficialLastName": "Johns",
+		"ConstituencyName": "Courtenay—Alberni",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Georgina",
+		"PersonOfficialLastName": "Jolibois",
+		"ConstituencyName": "Desnethé—Missinippi—Churchill River",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Mélanie",
+		"PersonOfficialLastName": "Joly",
+		"ConstituencyName": "Ahuntsic-Cartierville",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Yvonne",
+		"PersonOfficialLastName": "Jones",
+		"ConstituencyName": "Labrador",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bernadette",
+		"PersonOfficialLastName": "Jordan",
+		"ConstituencyName": "South Shore—St. Margarets",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Majid",
+		"PersonOfficialLastName": "Jowhari",
+		"ConstituencyName": "Richmond Hill",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Julian",
+		"ConstituencyName": "New Westminster—Burnaby",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Darshan Singh",
+		"PersonOfficialLastName": "Kang",
+		"ConstituencyName": "Calgary Skyview",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Independent",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pat",
+		"PersonOfficialLastName": "Kelly",
+		"ConstituencyName": "Calgary Rocky Ridge",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Kent",
+		"ConstituencyName": "Thornhill",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Iqra",
+		"PersonOfficialLastName": "Khalid",
+		"ConstituencyName": "Mississauga—Erin Mills",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kamal",
+		"PersonOfficialLastName": "Khera",
+		"ConstituencyName": "Brampton West",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Kitchen",
+		"ConstituencyName": "Souris—Moose Mountain",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Tom",
+		"PersonOfficialLastName": "Kmiec",
+		"ConstituencyName": "Calgary Shepard",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Stephanie",
+		"PersonOfficialLastName": "Kusie",
+		"ConstituencyName": "Calgary Midnapore",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2017-04-03T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jenny",
+		"PersonOfficialLastName": "Kwan",
+		"ConstituencyName": "Vancouver East",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Mike",
+		"PersonOfficialLastName": "Lake",
+		"ConstituencyName": "Edmonton—Wetaskiwin",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Emmanuella",
+		"PersonOfficialLastName": "Lambropoulos",
+		"ConstituencyName": "Saint-Laurent",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2017-04-03T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Lametti",
+		"ConstituencyName": "LaSalle—Émard—Verdun",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kevin",
+		"PersonOfficialLastName": "Lamoureux",
+		"ConstituencyName": "Winnipeg North",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Linda",
+		"PersonOfficialLastName": "Lapointe",
+		"ConstituencyName": "Rivière-des-Mille-Îles",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Guy",
+		"PersonOfficialLastName": "Lauzon",
+		"ConstituencyName": "Stormont—Dundas—South Glengarry",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Stéphane",
+		"PersonOfficialLastName": "Lauzon",
+		"ConstituencyName": "Argenteuil—La Petite-Nation",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Hélène",
+		"PersonOfficialLastName": "Laverdière",
+		"ConstituencyName": "Laurier—Sainte-Marie",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Dominic",
+		"PersonOfficialLastName": "LeBlanc",
+		"ConstituencyName": "Beauséjour",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Diane",
+		"PersonOfficialLastName": "Lebouthillier",
+		"ConstituencyName": "Gaspésie—Les Îles-de-la-Madeleine",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Paul",
+		"PersonOfficialLastName": "Lefebvre",
+		"ConstituencyName": "Sudbury",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "K. Kellie",
+		"PersonOfficialLastName": "Leitch",
+		"ConstituencyName": "Simcoe—Grey",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Denis",
+		"PersonOfficialLastName": "Lemieux",
+		"ConstituencyName": "Chicoutimi—Le Fjord",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Andrew",
+		"PersonOfficialLastName": "Leslie",
+		"ConstituencyName": "Orléans",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Michael",
+		"PersonOfficialLastName": "Levitt",
+		"ConstituencyName": "York Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ron",
+		"PersonOfficialLastName": "Liepert",
+		"ConstituencyName": "Calgary Signal Hill",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Joël",
+		"PersonOfficialLastName": "Lightbound",
+		"ConstituencyName": "Louis-Hébert",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ben",
+		"PersonOfficialLastName": "Lobb",
+		"ConstituencyName": "Huron—Bruce",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alaina",
+		"PersonOfficialLastName": "Lockhart",
+		"ConstituencyName": "Fundy Royal",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Wayne",
+		"PersonOfficialLastName": "Long",
+		"ConstituencyName": "Saint John—Rothesay",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Lloyd",
+		"PersonOfficialLastName": "Longfield",
+		"ConstituencyName": "Guelph",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Karen",
+		"PersonOfficialLastName": "Ludwig",
+		"ConstituencyName": "New Brunswick Southwest",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Tom",
+		"PersonOfficialLastName": "Lukiwski",
+		"ConstituencyName": "Moose Jaw—Lake Centre—Lanigan",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Lawrence",
+		"PersonOfficialLastName": "MacAulay",
+		"ConstituencyName": "Cardigan",
+		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alistair",
+		"PersonOfficialLastName": "MacGregor",
+		"ConstituencyName": "Cowichan—Malahat—Langford",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dave",
+		"PersonOfficialLastName": "MacKenzie",
+		"ConstituencyName": "Oxford",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Steven",
+		"PersonOfficialLastName": "MacKinnon",
+		"ConstituencyName": "Gatineau",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Larry",
+		"PersonOfficialLastName": "Maguire",
+		"ConstituencyName": "Brandon—Souris",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sheila",
+		"PersonOfficialLastName": "Malcolmson",
+		"ConstituencyName": "Nanaimo—Ladysmith",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "James",
+		"PersonOfficialLastName": "Maloney",
+		"ConstituencyName": "Etobicoke—Lakeshore",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Simon",
+		"PersonOfficialLastName": "Marcil",
+		"ConstituencyName": "Mirabel",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Brian",
+		"PersonOfficialLastName": "Masse",
+		"ConstituencyName": "Windsor West",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Rémi",
+		"PersonOfficialLastName": "Massé",
+		"ConstituencyName": "Avignon—La Mitis—Matane—Matapédia",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Irene",
+		"PersonOfficialLastName": "Mathyssen",
+		"ConstituencyName": "London—Fanshawe",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bryan",
+		"PersonOfficialLastName": "May",
+		"ConstituencyName": "Cambridge",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Elizabeth",
+		"PersonOfficialLastName": "May",
+		"ConstituencyName": "Saanich—Gulf Islands",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Green Party",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kelly",
+		"PersonOfficialLastName": "McCauley",
+		"ConstituencyName": "Edmonton West",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Phil",
+		"PersonOfficialLastName": "McColeman",
+		"ConstituencyName": "Brantford—Brant",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Karen",
+		"PersonOfficialLastName": "McCrimmon",
+		"ConstituencyName": "Kanata—Carleton",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ken",
+		"PersonOfficialLastName": "McDonald",
+		"ConstituencyName": "Avalon",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "McGuinty",
+		"ConstituencyName": "Ottawa South",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "McKay",
+		"ConstituencyName": "Scarborough—Guildwood",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Catherine",
+		"PersonOfficialLastName": "McKenna",
+		"ConstituencyName": "Ottawa Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ron",
+		"PersonOfficialLastName": "McKinnon",
+		"ConstituencyName": "Coquitlam—Port Coquitlam",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Cathy",
+		"PersonOfficialLastName": "McLeod",
+		"ConstituencyName": "Kamloops—Thompson—Cariboo",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Michael",
+		"PersonOfficialLastName": "McLeod",
+		"ConstituencyName": "Northwest Territories",
+		"ConstituencyProvinceTerritoryName": "Northwest Territories",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alexandra",
+		"PersonOfficialLastName": "Mendès",
+		"ConstituencyName": "Brossard—Saint-Lambert",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marco",
+		"PersonOfficialLastName": "Mendicino",
+		"ConstituencyName": "Eglinton—Lawrence",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "MaryAnn",
+		"PersonOfficialLastName": "Mihychuk",
+		"ConstituencyName": "Kildonan—St. Paul",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Larry",
+		"PersonOfficialLastName": "Miller",
+		"ConstituencyName": "Bruce—Grey—Owen Sound",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marc",
+		"PersonOfficialLastName": "Miller",
+		"ConstituencyName": "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Maryam",
+		"PersonOfficialLastName": "Monsef",
+		"ConstituencyName": "Peterborough—Kawartha",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Christine",
+		"PersonOfficialLastName": "Moore",
+		"ConstituencyName": "Abitibi—Témiscamingue",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Bill",
+		"PersonOfficialLastName": "Morneau",
+		"ConstituencyName": "Toronto Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Morrissey",
+		"ConstituencyName": "Egmont",
+		"ConstituencyProvinceTerritoryName": "Prince Edward Island",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Glen",
+		"PersonOfficialLastName": "Motz",
+		"ConstituencyName": "Medicine Hat—Cardston—Warner",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2016-10-24T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Thomas",
+		"PersonOfficialLastName": "Mulcair",
+		"ConstituencyName": "Outremont",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Joyce",
+		"PersonOfficialLastName": "Murray",
+		"ConstituencyName": "Vancouver Quadra",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pierre",
+		"PersonOfficialLastName": "Nantel",
+		"ConstituencyName": "Longueuil—Saint-Hubert",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Eva",
+		"PersonOfficialLastName": "Nassif",
+		"ConstituencyName": "Vimy",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "Nater",
+		"ConstituencyName": "Perth—Wellington",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Nault",
+		"ConstituencyName": "Kenora",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mary",
+		"PersonOfficialLastName": "Ng",
+		"ConstituencyName": "Markham—Thornhill",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2017-04-03T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Rob",
+		"PersonOfficialLastName": "Nicholson",
+		"ConstituencyName": "Niagara Falls",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alexander",
+		"PersonOfficialLastName": "Nuttall",
+		"ConstituencyName": "Barrie—Springwater—Oro-Medonte",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Deepak",
+		"PersonOfficialLastName": "Obhrai",
+		"ConstituencyName": "Calgary Forest Lawn",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jennifer",
+		"PersonOfficialLastName": "O'Connell",
+		"ConstituencyName": "Pickering—Uxbridge",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Oliphant",
+		"ConstituencyName": "Don Valley West",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "John",
+		"PersonOfficialLastName": "Oliver",
+		"ConstituencyName": "Oakville",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Seamus",
+		"PersonOfficialLastName": "O'Regan",
+		"ConstituencyName": "St. John's South—Mount Pearl",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Erin",
+		"PersonOfficialLastName": "O'Toole",
+		"ConstituencyName": "Durham",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert-Falcon",
+		"PersonOfficialLastName": "Ouellette",
+		"ConstituencyName": "Winnipeg Centre",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Denis",
+		"PersonOfficialLastName": "Paradis",
+		"ConstituencyName": "Brome—Missisquoi",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Pierre",
+		"PersonOfficialLastName": "Paul-Hus",
+		"ConstituencyName": "Charlesbourg—Haute-Saint-Charles",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Monique",
+		"PersonOfficialLastName": "Pauzé",
+		"ConstituencyName": "Repentigny",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Joe",
+		"PersonOfficialLastName": "Peschisolido",
+		"ConstituencyName": "Steveston—Richmond East",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kyle",
+		"PersonOfficialLastName": "Peterson",
+		"ConstituencyName": "Newmarket—Aurora",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Ginette",
+		"PersonOfficialLastName": "Petitpas Taylor",
+		"ConstituencyName": "Moncton—Riverview—Dieppe",
+		"ConstituencyProvinceTerritoryName": "New Brunswick",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Jane",
+		"PersonOfficialLastName": "Philpott",
+		"ConstituencyName": "Markham—Stouffville",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Michel",
+		"PersonOfficialLastName": "Picard",
+		"ConstituencyName": "Montarville",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Louis",
+		"PersonOfficialLastName": "Plamondon",
+		"ConstituencyName": "Bécancour—Nicolet—Saurel",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Pierre",
+		"PersonOfficialLastName": "Poilievre",
+		"ConstituencyName": "Carleton",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jean-Claude",
+		"PersonOfficialLastName": "Poissant",
+		"ConstituencyName": "La Prairie",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Anne Minh-Thu",
+		"PersonOfficialLastName": "Quach",
+		"ConstituencyName": "Salaberry—Suroît",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Carla",
+		"PersonOfficialLastName": "Qualtrough",
+		"ConstituencyName": "Delta",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Lisa",
+		"PersonOfficialLastName": "Raitt",
+		"ConstituencyName": "Milton",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Tracey",
+		"PersonOfficialLastName": "Ramsey",
+		"ConstituencyName": "Essex",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Murray",
+		"PersonOfficialLastName": "Rankin",
+		"ConstituencyName": "Victoria",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Yasmin",
+		"PersonOfficialLastName": "Ratansi",
+		"ConstituencyName": "Don Valley East",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Alain",
+		"PersonOfficialLastName": "Rayes",
+		"ConstituencyName": "Richmond—Arthabaska",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Geoff",
+		"PersonOfficialLastName": "Regan",
+		"ConstituencyName": "Halifax West",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Scott",
+		"PersonOfficialLastName": "Reid",
+		"ConstituencyName": "Lanark—Frontenac—Kingston",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Michelle",
+		"PersonOfficialLastName": "Rempel",
+		"ConstituencyName": "Calgary Nose Hill",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Blake",
+		"PersonOfficialLastName": "Richards",
+		"ConstituencyName": "Banff—Airdrie",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jean",
+		"PersonOfficialLastName": "Rioux",
+		"ConstituencyName": "Saint-Jean",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Gerry",
+		"PersonOfficialLastName": "Ritz",
+		"ConstituencyName": "Battlefords—Lloydminster",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Yves",
+		"PersonOfficialLastName": "Robillard",
+		"ConstituencyName": "Marc-Aurèle-Fortin",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Pablo",
+		"PersonOfficialLastName": "Rodriguez",
+		"ConstituencyName": "Honoré-Mercier",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sherry",
+		"PersonOfficialLastName": "Romanado",
+		"ConstituencyName": "Longueuil—Charles-LeMoyne",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Anthony",
+		"PersonOfficialLastName": "Rota",
+		"ConstituencyName": "Nipissing—Timiskaming",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kim",
+		"PersonOfficialLastName": "Rudd",
+		"ConstituencyName": "Northumberland—Peterborough South",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dan",
+		"PersonOfficialLastName": "Ruimy",
+		"ConstituencyName": "Pitt Meadows—Maple Ridge",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Don",
+		"PersonOfficialLastName": "Rusnak",
+		"ConstituencyName": "Thunder Bay—Rainy River",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Romeo",
+		"PersonOfficialLastName": "Saganash",
+		"ConstituencyName": "Abitibi—Baie-James—Nunavik—Eeyou",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ruby",
+		"PersonOfficialLastName": "Sahota",
+		"ConstituencyName": "Brampton North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Raj",
+		"PersonOfficialLastName": "Saini",
+		"ConstituencyName": "Kitchener Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Harjit S.",
+		"PersonOfficialLastName": "Sajjan",
+		"ConstituencyName": "Vancouver South",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Darrell",
+		"PersonOfficialLastName": "Samson",
+		"ConstituencyName": "Sackville—Preston—Chezzetcook",
+		"ConstituencyProvinceTerritoryName": "Nova Scotia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Ramesh",
+		"PersonOfficialLastName": "Sangha",
+		"ConstituencyName": "Brampton Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Brigitte",
+		"PersonOfficialLastName": "Sansoucy",
+		"ConstituencyName": "Saint-Hyacinthe—Bagot",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Randeep",
+		"PersonOfficialLastName": "Sarai",
+		"ConstituencyName": "Surrey Centre",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bob",
+		"PersonOfficialLastName": "Saroya",
+		"ConstituencyName": "Markham—Unionville",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Francis",
+		"PersonOfficialLastName": "Scarpaleggia",
+		"ConstituencyName": "Lac-Saint-Louis",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Andrew",
+		"PersonOfficialLastName": "Scheer",
+		"ConstituencyName": "Regina—Qu'Appelle",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Schiefke",
+		"ConstituencyName": "Vaudreuil—Soulanges",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jamie",
+		"PersonOfficialLastName": "Schmale",
+		"ConstituencyName": "Haliburton—Kawartha Lakes—Brock",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Deborah",
+		"PersonOfficialLastName": "Schulte",
+		"ConstituencyName": "King—Vaughan",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marc",
+		"PersonOfficialLastName": "Serré",
+		"ConstituencyName": "Nickel Belt",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Judy A.",
+		"PersonOfficialLastName": "Sgro",
+		"ConstituencyName": "Humber River—Black Creek",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Brenda",
+		"PersonOfficialLastName": "Shanahan",
+		"ConstituencyName": "Châteauguay—Lacolle",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Terry",
+		"PersonOfficialLastName": "Sheehan",
+		"ConstituencyName": "Sault Ste. Marie",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Martin",
+		"PersonOfficialLastName": "Shields",
+		"ConstituencyName": "Bow River",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bev",
+		"PersonOfficialLastName": "Shipley",
+		"ConstituencyName": "Lambton—Kent—Middlesex",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jati",
+		"PersonOfficialLastName": "Sidhu",
+		"ConstituencyName": "Mission—Matsqui—Fraser Canyon",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sonia",
+		"PersonOfficialLastName": "Sidhu",
+		"ConstituencyName": "Brampton South",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gagan",
+		"PersonOfficialLastName": "Sikand",
+		"ConstituencyName": "Mississauga—Streetsville",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Scott",
+		"PersonOfficialLastName": "Simms",
+		"ConstituencyName": "Coast of Bays—Central—Notre Dame",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Amarjeet",
+		"PersonOfficialLastName": "Sohi",
+		"ConstituencyName": "Edmonton Mill Woods",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Robert",
+		"PersonOfficialLastName": "Sopuck",
+		"ConstituencyName": "Dauphin—Swan River—Neepawa",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Francesco",
+		"PersonOfficialLastName": "Sorbara",
+		"ConstituencyName": "Vaughan—Woodbridge",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Kevin",
+		"PersonOfficialLastName": "Sorenson",
+		"ConstituencyName": "Battle River—Crowfoot",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Sven",
+		"PersonOfficialLastName": "Spengemann",
+		"ConstituencyName": "Mississauga—Lakeshore",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bruce",
+		"PersonOfficialLastName": "Stanton",
+		"ConstituencyName": "Simcoe North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Gabriel",
+		"PersonOfficialLastName": "Ste-Marie",
+		"ConstituencyName": "Joliette",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Wayne",
+		"PersonOfficialLastName": "Stetski",
+		"ConstituencyName": "Kootenay—Columbia",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kennedy",
+		"PersonOfficialLastName": "Stewart",
+		"ConstituencyName": "Burnaby South",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mark",
+		"PersonOfficialLastName": "Strahl",
+		"ConstituencyName": "Chilliwack—Hope",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Shannon",
+		"PersonOfficialLastName": "Stubbs",
+		"ConstituencyName": "Lakeland",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Sweet",
+		"ConstituencyName": "Flamborough—Glanbrook",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Marwan",
+		"PersonOfficialLastName": "Tabbara",
+		"ConstituencyName": "Kitchener South—Hespeler",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Geng",
+		"PersonOfficialLastName": "Tan",
+		"ConstituencyName": "Don Valley North",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Filomena",
+		"PersonOfficialLastName": "Tassi",
+		"ConstituencyName": "Hamilton West—Ancaster—Dundas",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Luc",
+		"PersonOfficialLastName": "Thériault",
+		"ConstituencyName": "Montcalm",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Bloc Québécois",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Tilson",
+		"ConstituencyName": "Dufferin—Caledon",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Hunter",
+		"PersonOfficialLastName": "Tootoo",
+		"ConstituencyName": "Nunavut",
+		"ConstituencyProvinceTerritoryName": "Nunavut",
+		"CaucusShortName": "Independent",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Brad",
+		"PersonOfficialLastName": "Trost",
+		"ConstituencyName": "Saskatoon—University",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Right Hon.",
+		"PersonOfficialFirstName": "Justin",
+		"PersonOfficialLastName": "Trudeau",
+		"ConstituencyName": "Papineau",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Karine",
+		"PersonOfficialLastName": "Trudel",
+		"ConstituencyName": "Jonquière",
+		"ConstituencyProvinceTerritoryName": "Quebec",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dave",
+		"PersonOfficialLastName": "Van Kesteren",
+		"ConstituencyName": "Chatham-Kent—Leamington",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Peter",
+		"PersonOfficialLastName": "Van Loan",
+		"ConstituencyName": "York—Simcoe",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dan",
+		"PersonOfficialLastName": "Vandal",
+		"ConstituencyName": "Saint Boniface—Saint Vital",
+		"ConstituencyProvinceTerritoryName": "Manitoba",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Anita",
+		"PersonOfficialLastName": "Vandenbeld",
+		"ConstituencyName": "Ottawa West—Nepean",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Adam",
+		"PersonOfficialLastName": "Vaughan",
+		"ConstituencyName": "Spadina—Fort York",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Karen",
+		"PersonOfficialLastName": "Vecchio",
+		"ConstituencyName": "Elgin—Middlesex—London",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Arnold",
+		"PersonOfficialLastName": "Viersen",
+		"ConstituencyName": "Peace River—Westlock",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Arif",
+		"PersonOfficialLastName": "Virani",
+		"ConstituencyName": "Parkdale—High Park",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Cathay",
+		"PersonOfficialLastName": "Wagantall",
+		"ConstituencyName": "Yorkton—Melville",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Mark",
+		"PersonOfficialLastName": "Warawa",
+		"ConstituencyName": "Langley—Aldergrove",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Chris",
+		"PersonOfficialLastName": "Warkentin",
+		"ConstituencyName": "Grande Prairie—Mackenzie",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Dianne L.",
+		"PersonOfficialLastName": "Watts",
+		"ConstituencyName": "South Surrey—White Rock",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kevin",
+		"PersonOfficialLastName": "Waugh",
+		"ConstituencyName": "Saskatoon—Grasswood",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Len",
+		"PersonOfficialLastName": "Webber",
+		"ConstituencyName": "Calgary Confederation",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Erin",
+		"PersonOfficialLastName": "Weir",
+		"ConstituencyName": "Regina—Lewvan",
+		"ConstituencyProvinceTerritoryName": "Saskatchewan",
+		"CaucusShortName": "NDP",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Nick",
+		"PersonOfficialLastName": "Whalen",
+		"ConstituencyName": "St. John's East",
+		"ConstituencyProvinceTerritoryName": "Newfoundland and Labrador",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Jonathan",
+		"PersonOfficialLastName": "Wilkinson",
+		"ConstituencyName": "North Vancouver",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Jody",
+		"PersonOfficialLastName": "Wilson-Raybould",
+		"ConstituencyName": "Vancouver Granville",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonShortHonorific": "Hon.",
+		"PersonOfficialFirstName": "Alice",
+		"PersonOfficialLastName": "Wong",
+		"ConstituencyName": "Richmond Centre",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Borys",
+		"PersonOfficialLastName": "Wrzesnewskyj",
+		"ConstituencyName": "Etobicoke Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Kate",
+		"PersonOfficialLastName": "Young",
+		"ConstituencyName": "London West",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "David",
+		"PersonOfficialLastName": "Yurdiga",
+		"ConstituencyName": "Fort McMurray—Cold Lake",
+		"ConstituencyProvinceTerritoryName": "Alberta",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Salma",
+		"PersonOfficialLastName": "Zahid",
+		"ConstituencyName": "Scarborough Centre",
+		"ConstituencyProvinceTerritoryName": "Ontario",
+		"CaucusShortName": "Liberal",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	},
+	{
+		"PersonOfficialFirstName": "Bob",
+		"PersonOfficialLastName": "Zimmer",
+		"ConstituencyName": "Prince George—Peace River—Northern Rockies",
+		"ConstituencyProvinceTerritoryName": "British Columbia",
+		"CaucusShortName": "Conservative",
+		"FromDateTime": "2015-10-19T00:00:00",
+		"ToDateTime": { "-xsi:nil": "true" }
+	}
+]}
