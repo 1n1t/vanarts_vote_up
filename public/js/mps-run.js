@@ -1,3 +1,6 @@
+//	***************************
+//	MAP INITIALIZATION & EVENTS
+//	***************************
 var MAP_WIDTH  = 620;
 var MAP_HEIGHT = 600;
 
