@@ -24,6 +24,7 @@ $theme-colors: (
 
 //	Custom styles
 @import "0-libraries/bootstrap-multiselect";
+@import "0-libraries/animate";
 
 @import "1-base/typography";
 @import "1-base/layout";
@@ -43,3 +44,6 @@ $theme-colors: (
 @import "3-sections/compare-filters";
 @import "3-sections/compare-table";
 @import "3-sections/compare-progress";
+
+@import "3-sections/mps-map";
+@import "3-sections/mps-list";

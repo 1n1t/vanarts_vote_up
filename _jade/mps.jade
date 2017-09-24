@@ -1,17 +1,24 @@
 doctype html
 html(lang="en")
-  head
-    title I need a title
-    include partials/shared/head
+	head
+		title I need a title
+		include partials/shared/head
 
-  body
+	body
 
-    include partials/shared/header
+	include partials/shared/header
 
-    h1 MPs page
+	main.container
+		include partials/mps/map
+		include partials/mps/list
 
-    include partials/shared/footer
+	include partials/shared/footer
 
-    include partials/shared/footer-scripts
+	include partials/shared/footer-scripts
+
+	script(src="js/libraries/raphael.min.js")
+	script(src="js/mps-list.js")
+	script(src="js/map.js")
+	script(src="js/mps-run.js")
 
 

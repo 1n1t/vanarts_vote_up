@@ -1,0 +1,44 @@
+@keyframes tada {
+	from {
+		transform: scale3d(1, 1, 1);
+	}
+
+	10% {
+		transform: scale3d(.85, .85, .85) rotate3d(0, 0, 1, -3deg);
+	}
+
+	30%, 90% {
+		transform: scale3d(1.15, 1.15, 1.15) rotate3d(0, 0, 1, 3deg);
+	}
+
+	60% {
+		transform: scale3d(1.15, 1.15, 1.15) rotate3d(0, 0, 1, -3deg);
+	}
+
+	to {
+		transform: scale3d(1, 1, 1);
+	}
+}
+
+.tada {
+	animation: tada 0.3s;
+}
+
+
+@keyframes rotateInUpRight {
+	from {
+		transform-origin: right top;
+		transform: rotate3d(0, 0, 1, -90deg);
+		opacity: 0;
+	}
+
+	to {
+		transform-origin: right top;
+		transform: none;
+		opacity: 1;
+	}
+}
+
+.rotateInUpRight {
+	animation: rotateInUpRight 0.3s;
+}

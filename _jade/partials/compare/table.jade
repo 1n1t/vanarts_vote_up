@@ -4,10 +4,16 @@ mixin party-table-title(value, name)
 mixin party-table-policy-name(name)
 	.compare-table__row-header(data-policy="#{name}") #{name}
 
-mixin party-table-policy-body(party, policy, body)
+mixin party-table-policy-body(party, policy)
 	.compare-table__cell(data-party="#{party}" data-policy="#{policy}")
-		p #{body}
+		p
 		span.btn-vote Vote
+
+mixin party-table-content-row(policy)
+	+party-table-policy-name(policy)
+	each item in parties
+		+party-table-policy-body(item, policy)
+
 
 section.policies
 	div
@@ -16,26 +22,6 @@ section.policies
 	+party-table-title("New Democratic", "New Democratic Party")
 	+party-table-title("Green", "Green Party")
 
-	+party-table-policy-name("Economy")
-	+party-table-policy-body("Liberal", "Economy", "Mauris lobortis sapien quam, ac tincidunt libero vestibulum eu. Phasellus aliquam est at est tincidunt accumsan. Phasellus ornare in mi sed efficitur. Cras urna urna, molestie sed tortor nec, aliquet iaculis leo. Proin lacinia non eros nec laoreet. Nullam hendrerit sapien sed ex pellentesque, quis dapibus quam pellentesque.")
-	+party-table-policy-body("Conservative", "Economy", "Ut faucibus volutpat purus, id dapibus orci condimentum ac. Morbi molestie lacinia rhoncus. Pellentesque hendrerit consectetur sapien sit amet porttitor. Sed orci purus, consequat et erat id, posuere dictum risus. Suspendisse posuere velit sed sapien placerat, sed mollis nisl lobortis. Ut non arcu posuere risus ornare ultrices quis sed lectus. In at nisi et nisi tempor fringilla id eu est. Morbi volutpat vestibulum ligula ac scelerisque.")
-	+party-table-policy-body("New Democratic", "Economy", "Ut consectetur, turpis quis suscipit lacinia, diam mi convallis lectus, at vehicula felis elit sed purus. Ut diam libero, rhoncus id fermentum sed, interdum vel lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vitae felis lectus. Nulla ac ultrices erat.")
-	+party-table-policy-body("Green", "Economy", "Suspendisse elementum sapien a porta posuere. Quisque nibh magna, maximus nec nunc in, elementum tempus turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus ac nulla tincidunt, laoreet dui sed, faucibus sapien. In semper quam enim. Vestibulum vel commodo elit. Donec at lacus vitae nisi tempus commodo nec eu elit. Donec efficitur augue nec felis accumsan gravida.")
+	each item in policies
+		+party-table-content-row(item)
 
-	+party-table-policy-name("Foreign Affairs")
-	+party-table-policy-body("Liberal", "Foreign Affairs", "Mauris lobortis sapien quam, ac tincidunt libero vestibulum eu. Phasellus aliquam est at est tincidunt accumsan. Phasellus ornare in mi sed efficitur. Cras urna urna, molestie sed tortor nec, aliquet iaculis leo. Proin lacinia non eros nec laoreet. Nullam hendrerit sapien sed ex pellentesque, quis dapibus quam pellentesque.")
-	+party-table-policy-body("Conservative", "Foreign Affairs", "Ut faucibus volutpat purus, id dapibus orci condimentum ac. Morbi molestie lacinia rhoncus. Pellentesque hendrerit consectetur sapien sit amet porttitor. Sed orci purus, consequat et erat id, posuere dictum risus. Suspendisse posuere velit sed sapien placerat, sed mollis nisl lobortis. Ut non arcu posuere risus ornare ultrices quis sed lectus. In at nisi et nisi tempor fringilla id eu est. Morbi volutpat vestibulum ligula ac scelerisque.")
-	+party-table-policy-body("New Democratic", "Foreign Affairs", "Ut consectetur, turpis quis suscipit lacinia, diam mi convallis lectus, at vehicula felis elit sed purus. Ut diam libero, rhoncus id fermentum sed, interdum vel lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vitae felis lectus. Nulla ac ultrices erat.")
-	+party-table-policy-body("Green", "Foreign Affairs", "Suspendisse elementum sapien a porta posuere. Quisque nibh magna, maximus nec nunc in, elementum tempus turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus ac nulla tincidunt, laoreet dui sed, faucibus sapien. In semper quam enim. Vestibulum vel commodo elit. Donec at lacus vitae nisi tempus commodo nec eu elit. Donec efficitur augue nec felis accumsan gravida.")
-
-	+party-table-policy-name("Education")
-	+party-table-policy-body("Liberal", "Education", "Mauris lobortis sapien quam, ac tincidunt libero vestibulum eu. Phasellus aliquam est at est tincidunt accumsan. Phasellus ornare in mi sed efficitur. Cras urna urna, molestie sed tortor nec, aliquet iaculis leo. Proin lacinia non eros nec laoreet. Nullam hendrerit sapien sed ex pellentesque, quis dapibus quam pellentesque.")
-	+party-table-policy-body("Conservative", "Education", "Ut faucibus volutpat purus, id dapibus orci condimentum ac. Morbi molestie lacinia rhoncus. Pellentesque hendrerit consectetur sapien sit amet porttitor. Sed orci purus, consequat et erat id, posuere dictum risus. Suspendisse posuere velit sed sapien placerat, sed mollis nisl lobortis. Ut non arcu posuere risus ornare ultrices quis sed lectus. In at nisi et nisi tempor fringilla id eu est. Morbi volutpat vestibulum ligula ac scelerisque.")
-	+party-table-policy-body("New Democratic", "Education", "Ut consectetur, turpis quis suscipit lacinia, diam mi convallis lectus, at vehicula felis elit sed purus. Ut diam libero, rhoncus id fermentum sed, interdum vel lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vitae felis lectus. Nulla ac ultrices erat.")
-	+party-table-policy-body("Green", "Education", "Suspendisse elementum sapien a porta posuere. Quisque nibh magna, maximus nec nunc in, elementum tempus turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus ac nulla tincidunt, laoreet dui sed, faucibus sapien. In semper quam enim. Vestibulum vel commodo elit. Donec at lacus vitae nisi tempus commodo nec eu elit. Donec efficitur augue nec felis accumsan gravida.")
-
-	+party-table-policy-name("Environment")
-	+party-table-policy-body("Liberal", "Environment", "Mauris lobortis sapien quam, ac tincidunt libero vestibulum eu. Phasellus aliquam est at est tincidunt accumsan. Phasellus ornare in mi sed efficitur. Cras urna urna, molestie sed tortor nec, aliquet iaculis leo. Proin lacinia non eros nec laoreet. Nullam hendrerit sapien sed ex pellentesque, quis dapibus quam pellentesque.")
-	+party-table-policy-body("Conservative", "Environment", "Ut faucibus volutpat purus, id dapibus orci condimentum ac. Morbi molestie lacinia rhoncus. Pellentesque hendrerit consectetur sapien sit amet porttitor. Sed orci purus, consequat et erat id, posuere dictum risus. Suspendisse posuere velit sed sapien placerat, sed mollis nisl lobortis. Ut non arcu posuere risus ornare ultrices quis sed lectus. In at nisi et nisi tempor fringilla id eu est. Morbi volutpat vestibulum ligula ac scelerisque.")
-	+party-table-policy-body("New Democratic", "Environment", "Ut consectetur, turpis quis suscipit lacinia, diam mi convallis lectus, at vehicula felis elit sed purus. Ut diam libero, rhoncus id fermentum sed, interdum vel lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vitae felis lectus. Nulla ac ultrices erat.")
-	+party-table-policy-body("Green", "Environment", "Suspendisse elementum sapien a porta posuere. Quisque nibh magna, maximus nec nunc in, elementum tempus turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus ac nulla tincidunt, laoreet dui sed, faucibus sapien. In semper quam enim. Vestibulum vel commodo elit. Donec at lacus vitae nisi tempus commodo nec eu elit. Donec efficitur augue nec felis accumsan gravida.")
