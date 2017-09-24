@@ -3,6 +3,8 @@
 	width: 28px
 	right: calc(70px / 2 - 28px / 2)
 	top: calc(50% - 24px / 2)
+	cursor: pointer
+	z-index: 2
 
 .progress-box
 	width: 240px
@@ -18,3 +20,52 @@
 	img
 		width: 65%
 		margin-bottom: 20px
+
+	transform-origin: right top
+	transform: rotate3d(0, 0, 1, -90deg)
+	opacity: 0
+
+	&.show
+		animation: rotateInUpRight 0.7s forwards
+
+
+
+#modal
+	&.fade
+		background-color: white
+		&.show
+			background-color: rgba(255, 255, 255, 0.86)
+
+	.modal-content
+		text-align: center
+		padding: 20px 30px
+		border: $border-thin
+
+		.close
+			position: absolute
+			top: 15px
+			right: 15px
+			color: $primary-color
+			opacity: 1
+			cursor: pointer
+
+	.modal-header
+		display: block
+		border-bottom: none
+
+	.modal-body
+		.lead-paragraph
+			position: relative
+			padding-bottom: 30px
+			&::after
+				@include line-divider-sm
+
+		.chart
+			width: 400px
+			height: 400px
+			margin: 30px 0
+			padding-bottom: 30px
+			position: relative
+			&::after
+				@include line-divider-sm
+

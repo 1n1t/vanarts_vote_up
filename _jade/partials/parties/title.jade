@@ -1,5 +1,4 @@
-.row.title
-	.col-md-4.col-sm-6.col-xs-12.center
-		img(src="img/logo-liberals.png", alt="Party Logo").img-fluid.party-logo
-	.col-md-6.col-sm-6.col-xs-12
-		h1.text-center The Liberal Party
+mixin party-title(name)
+	.row.title
+		.col-md-6.col-sm-12.col-xs-12
+			h1.text-center.party-title #{name}

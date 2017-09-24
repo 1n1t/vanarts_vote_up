@@ -1,4 +1,39 @@
+/* Line dividing sections */
 .home-mps
+	width: 100%
 	position: relative
 	&::after
 		@include line-divider
+
+/*Use Flex box to put items in row*/
+.mp-container
+	display: flex
+	flex-direction: row
+	align-items: center
+	justify-content: space-evenly
+
+.mp-item
+	width: 350px
+
+/*Size of image*/
+.rounded
+	width: 450px
+	height: 350px
+	margin-top: 70px
+	margin-bottom: 70px
+	border: 5px solid $primary-color
+
+.para-mp
+	padding-top: 30px
+
+/*Call to Action button style*/
+.mp-button
+	margin-top: 30px
+
+/* Media Query */
+@media screen and (max-width: 800px)
+	.mp-container
+		display: flex
+		flex-direction: column
+		align-items: center
+		justify-content: center

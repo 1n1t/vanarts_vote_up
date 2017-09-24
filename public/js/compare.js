@@ -135,6 +135,11 @@ $(function () {
 			$this.text('Unvote');
 			//		add element to votes object
 			votes[voteData.party].push(voteData.policy);
+
+			//		animate leaf icon
+			$('.progress-icon').addClass('tada', setTimeout(function () {
+				$('.progress-icon').removeClass('tada');
+			}, 300));
 		} else {
 			//	if user unvote for the policy:
 			//		change button text
@@ -146,6 +151,9 @@ $(function () {
 
 		//	update cookie
 		createCookie('voting', JSON.stringify(votes), 14);
+		
+		//	update list of logos in progress box
+		showVotingProgress();
 	});
 
 
@@ -178,6 +186,83 @@ $(function () {
 
 	function createCookie(name, value, days) {
 		document.cookie = name + '=' + value + '; expires=' + makeDate(days);
+	}
+
+
+	// -------------------
+	//	*** PROGRESS ***
+	// -------------------
+
+	var partiesLogos = {
+		"Liberal": 'logo-liberals.png',
+		"Conservative": 'logo-conservatives.png',
+		"New Democratic": 'logo-ndp.png',
+		"Green": 'logo-green.png'
+	};
+
+	//	click event on the leaf icon
+	$('.progress-icon').click(function () {
+		var prBox = $('.progress-box');
+		
+		if (!prBox.hasClass('open')) {
+			prBox.toggleClass('open');
+			prBox.addClass('show');
+		} else {
+			prBox.toggleClass('open');
+			prBox.removeClass('show');
+		}
+	});
+	
+	showVotingProgress();
+	
+	function showVotingProgress() {
+		
+		//	calculated maximum amount of votes
+		var maxVotes = Math.max(
+			votes["Liberal"].length,
+			votes["Conservative"].length,
+			votes["New Democratic"].length,
+			votes["Green"].length
+		);
+
+		//	populate array with image paths of logos of most favourable parties
+		var maxImages = [];
+
+		for (var key in votes) {
+			if (votes[key].length === maxVotes) {
+				maxImages.push(partiesLogos[key]);
+			}
+		}
+
+		//	render the logos
+		renderPartiesLogos(maxImages);
+	}
+	
+	function renderPartiesLogos(maxImages) {
+		var box = $('.progress-box .logos');
+		
+		//	empty the logos container
+		box.empty();
+
+		//	add img tag for every element in logos array
+		for (var i = 0; i < maxImages.length; i++) {
+			var img = $('<img src="img/' + maxImages[i] + '" alt="' + maxImages[i] + '"></img>');
+			box.append(img);
+		}
+	}
+
+	// ----------------------------------
+	//	*** TABLE POLICIES POPULATING ***
+	// ----------------------------------
+	
+	var policies = parseJSON('/db/policies.json');
+	
+	for (var party in policies) {
+		for (var policy in policies[party]) {
+			$('.compare-table__cell[data-party="' + party + '"][data-policy="' + policy + '"]')
+				.children('p')
+				.text(policies[party][policy]);
+		}
 	}
 });
 

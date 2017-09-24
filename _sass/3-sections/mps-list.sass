@@ -1,0 +1,43 @@
+.mps-list
+	.province
+		h1
+			font-size: 2rem
+			padding-bottom: 40px
+			position: relative
+			&::after
+				@include line-divider
+				max-width: 100%
+				width: 100%
+				left: 0
+
+		&:not(:first-of-type)
+			margin-top: 100px
+
+	.party
+		& h3
+			color: $text-color
+			font-weight: 300
+			font-size: 1.5rem
+			padding: 30px 0
+			margin-bottom: 0
+
+		&:not(:first-of-type)
+			margin-top: 20px
+
+	.mp-container
+		display: flex
+		flex-wrap: wrap
+
+	.mp
+		margin-right: 30px
+		flex-basis: 200px
+		margin-bottom: 30px
+
+	.mp-name
+		font-size: 1.125rem
+		color: $primary-color
+		font-weight: 700
+		margin-bottom: 5px
+
+	.mp-district
+		margin-bottom: 0

@@ -14,9 +14,7 @@ section.filters
 	.filters__policies
 		p Filter policies
 		select#select-policies(multiple="multiple")
-			+party-option("Economy")
-			+party-option("Environment")
-			+party-option("Education")
-			+party-option("Foreign Affairs")
+			each policy in policies
+				+party-option(policy)
 
 
