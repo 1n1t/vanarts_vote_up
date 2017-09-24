@@ -10,6 +10,9 @@
 				width: 100%
 				left: 0
 
+		&:not(:first-of-type)
+			margin-top: 100px
+
 	.party
 		& h3
 			color: $text-color
@@ -18,11 +21,17 @@
 			padding: 30px 0
 			margin-bottom: 0
 
+		&:not(:first-of-type)
+			margin-top: 20px
+
 	.mp-container
 		display: flex
+		flex-wrap: wrap
 
 	.mp
-		margin-right: 40px
+		margin-right: 30px
+		flex-basis: 200px
+		margin-bottom: 30px
 
 	.mp-name
 		font-size: 1.125rem
