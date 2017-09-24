@@ -5,16 +5,9 @@
 	flex-direction: row
 	justify-content: center
 
-@media screen and (min-width: 800px)
-	.navbar-mobile-container
+	@media screen and (max-width: 800px)
 		display: none
 
-@media screen and (max-width: 800px)
-	.navbar-desktop-container
-		display: none
-	.navbar-mobile-container
-		flex-direction: column
-		text-align: center
 
 .nav-link
 	color: $text-color
@@ -34,11 +27,23 @@
 		margin-right: 100px
 
 .navbar-mobile-container
-	transform: translateY(-500px)
-	&.is-open
-		transform: translateY(0)
+	display: none
+	@media screen and (max-width: 800px)
+		display: flex
+		flex-direction: column
+		text-align: center
+		background-color: white
+		position: absolute
+		width: 100%
+		left: 0
+		top: -500px
+		transition: all 0.5s
+		z-index: 2
 
-	.nav-link
-		display: inline
+		&.is-open
+			top: 0
+
+		.nav-link
+			display: inline
 
 
