@@ -22,11 +22,12 @@
 .leader-container
 	display: flex
 	flex-direction: column
-	align-content: flex-start
+	align-items: center
+	padding-right: 0
 .deputy-container
 	display: flex
 	flex-direction: row
-	justify-content: space-around
+	justify-content: space-evenly
 .leader-img
 	border: $border-thick
 	max-width: 280px
@@ -55,14 +56,35 @@
 		@include line-divider
 	padding-bottom: $p-container
 
-//768 media query
-@media screen and (max-width: 768px)
+//950 media query
+@media screen and (max-width: 980px) and (min-width: 576px)
+	.col-sm-6
+		-webkit-box-flex: 0
+		-ms-flex: 0 0 50%
+		flex: 0 0 50%
+		max-width: 50%
+		position: relative
+		width: 100%
+		min-height: 1px
+		padding-right: 15px
+		padding-left: 15px
+	.col-sm-12
+		-webkit-box-flex: 0
+		-ms-flex: 0 0 100%
+		flex: 0 0 100%
+		max-width: 100%
+		position: relative
+		width: 100%
+		min-height: 1px
+		padding-right: 15px
+		padding-left: 15px
 	.deputy-container
 		.div
 			padding: 10px
 	.logo
-		width: 50%
+		width: 40%
 		margin: auto
+		margin-top: 40px
 		margin-bottom: 40px
 		display: flex
 		justify-content: center
@@ -70,7 +92,7 @@
 		margin-bottom: $parties-margin
 
 //mobile media queries
-@media screen and (max-width: 580px)
+@media screen and (max-width: 576px)
 	.deputy-container
 		display: flex
 		flex-direction: column

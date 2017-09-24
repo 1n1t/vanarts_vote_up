@@ -6700,8 +6700,10 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -ms-flex-line-pack: start;
-      align-content: flex-start; }
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-right: 0; }
 
 .deputy-container {
   display: -webkit-box;
@@ -6711,8 +6713,9 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -ms-flex-pack: distribute;
-      justify-content: space-around; }
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly; }
 
 .leader-img {
   border: #D0021B solid 5px;
@@ -6758,12 +6761,33 @@ img {
       .policies-row::after {
         left: calc(50% - 780px / 2); } }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 980px) and (min-width: 576px) {
+  .col-sm-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px; }
+  .col-sm-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px; }
   .deputy-container .div {
     padding: 10px; }
   .logo {
-    width: 50%;
+    width: 40%;
     margin: auto;
+    margin-top: 40px;
     margin-bottom: 40px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -6774,7 +6798,7 @@ img {
   .section {
     margin-bottom: 40px; } }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 576px) {
   .deputy-container {
     display: -webkit-box;
     display: -ms-flexbox;
