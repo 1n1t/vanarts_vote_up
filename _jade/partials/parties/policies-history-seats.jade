@@ -1,18 +1,19 @@
-.row
-	.col-md-4.col-sm-6.col-xs-12
-		h3 Our Policies
-		p.font-weight-bold Our approach to issues
-		p Investing in our communities is not just about creating good jobs and economic growth. It is also about building communities that we are proud to call home.
-		p With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
-		button.btn.btn-primary View Policies
-	.col-md-4.col-sm-6.col-xs-12
-		h3 Our History
-		p.font-weight-bold Since 1892...
-		p Investing in our communities is not just about creating good jobs and economic growth. It is also about building communities that we are proud to call home.
-		p With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
-		p.font-weight-bold.text-uppercase.red Read More
-	.col-md-4.col-sm-6.col-xs-12
-		h3 Our Representation
-		p.font-weight-bold Majority Representation
-		p We have 234 seats in the House of Representatives and 124 MPs in the House of Commons.
-		img(src="img/voting-results.png" alt="graph of representation").img-rounded.img-fluid.float-right
+mixin party-policies(numSenators, numMps, graphImg)
+	.row.policies-row
+		.col-md-4.col-sm-6.col-xs-12.section
+			h3 Our Policies
+			p.font-weight-bold.leadership-para Our approach to issues
+			p Investing in our communities is not just about creating good jobs and economic growth. It is also about building communities that we are proud to call home.
+			p.end-para With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
+			button.btn.btn-primary View Policies
+		.col-md-4.col-sm-6.col-xs-12.section
+			h3 Our History
+			p.font-weight-bold.leadership-para Since 1892...
+			p Investing in our communities is not just about creating good jobs and economic growth. It is also about building communities that we are proud to call home.
+			p.end-para With historic new investments in social infrastructure, we will achieve both. With historic new investments in social infrastructure, we will achieve both.
+			p.font-weight-bold.text-uppercase.red Read More
+		.col-md-4.col-sm-6.col-xs-12.section
+			h3 Our Representation
+			p.font-weight-bold.leadership-para Majority Representation
+			p We have #{numSenators} currently sitting Senators in the Senate and #{numMps} MPs in the House of Commons.
+			img(src="#{graphImg}" alt="graph of representation").img-rounded.img-fluid.float-right
