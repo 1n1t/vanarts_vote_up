@@ -6430,8 +6430,14 @@ img {
   .nav.navbar-desktop-container .nav-item:not(:last-child) {
     margin-right: 100px; }
 
-.navbar-mobile-container .nav-link {
-  display: inline; }
+.navbar-mobile-container {
+  -webkit-transform: translateY(-500px);
+          transform: translateY(-500px); }
+  .navbar-mobile-container.is-open {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  .navbar-mobile-container .nav-link {
+    display: inline; }
 
 .navbar-mobile-toggle {
   display: none;
