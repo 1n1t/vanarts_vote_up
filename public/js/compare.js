@@ -223,6 +223,11 @@ $(function () {
 		}
 	});
 	
+	$('.btn[data-toggle="modal"]').click(function () {
+		$('.progress-box').toggleClass('show');
+		$('.progress-box').toggleClass('open');
+	});
+	
 	showVotingProgress();
 	
 	function showVotingProgress() {
