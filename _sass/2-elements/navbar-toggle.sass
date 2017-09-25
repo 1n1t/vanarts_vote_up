@@ -1,0 +1,48 @@
+.navbar-mobile-toggle
+	display: none
+	@media screen and (max-width: 800px)
+		display: flex
+	width: 25px
+	height: 20px
+	align-items: center
+	cursor: pointer
+	z-index: 5
+	position: fixed
+	left: 6px
+	top: 25px
+	@media screen and (max-width: 420px)
+		left: -5px
+
+	span,
+	span:before,
+	span:after
+		content: ""
+		display: block
+		width: 100%
+		height: 3px
+		background-color: $primary-color
+		position: relative
+		transition: all 0.3s ease-in-out
+		left: 15px
+
+	span:before
+		top: 9px
+		left: 0
+
+	span:after
+		top: -12px
+		left: 0
+
+	&.is-open
+		span
+			background: transparent
+
+		span:before,
+		span:after
+			transform-origin: center
+			transform: rotate(45deg)
+			top: 0
+
+		span:after
+			transform: rotate(-45deg)
+			top: -3px

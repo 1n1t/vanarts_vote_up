@@ -2,16 +2,15 @@
 .vote-up-title
 	text-align: center
 	color: white
-	margin-top: -135px
 
 /* Hero Section */
 .center-hero
-	margin-top: 70px
+	//margin-top: 70px
 	text-align: left
 	font-size: 3rem
 	color: $primary-color
 	font-weight: bold
-	margin-bottom: 40px
+	//margin-bottom: 40px
 
 .center-hero-text
 	text-align: left
@@ -23,6 +22,9 @@
 .form-group
 	position: relative
 
+.btn-primary
+	margin-top: 20px
+
 .form-control
 	width: 300px
 	margin-top: 15px
@@ -32,6 +34,7 @@
 .icon-span
 	position: absolute
 	margin-bottom: 200px
+
 
 /* Leaf Image */
 .leaf
@@ -49,27 +52,35 @@
 	margin-top: 100px
 	margin-bottom: 100px
 	border: $border-thick
+	width: 500px
+
+@media screen and (max-width: 600px)
+	.hero-item, .hero-video
+		width: 100%
 
 .vote-matters-body
 	padding-top: 100px
 	margin-left: 90px
 
+
 /* Style user icon of form*/
 .input-icon-user
 	position: absolute
-	left: 25px
-	bottom: 275px
+	left: 9px
+	top: 9px
 	color: $primary-color
 
 /* Style email icon of form*/
 .input-icon-envelope
 	position: absolute
-	margin-left: 9px
-	bottom: 222px
+	left: 9px
+	top: 9px
 	color: $primary-color
 
 .input-wrapper
 	position: relative
+	.form-control
+		max-width: 100%
 
 /*Social media buttons at side*/
 .social
@@ -83,3 +94,18 @@
 	padding: 0
 	left: calc(35px - 8px)
 	top: calc(50% - 111px / 2)
+	@media screen and (max-width: 420px)
+		left: calc(20px - 8px)
+
+.hero-item
+	max-width: 100%
+
+.hero-flex-container
+	display: flex
+	justify-content: space-around
+	align-items: center
+
+@media screen and (max-width: 1200px)
+	.hero-flex-container
+		flex-direction: column
+		align-items: center

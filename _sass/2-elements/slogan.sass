@@ -1,0 +1,34 @@
+.slogan
+	background:
+		image: url("/img/header-slogan.jpg")
+		repeat: no-repeat
+		position-x: 150px
+		size: cover
+	z-index: 2
+
+	@media screen and (min-width: 980px)
+		background-size: contain
+
+	@media screen and (max-width: 600px)
+		background-position-x: 50px
+
+	position: relative
+	&::before
+		content: ""
+		width: 50vw
+		height: 72px
+		position: absolute
+		right: 0
+		top: 0
+		background-color: $primary-color
+		z-index: -1
+
+
+
+
+.vote-up-title
+	text-align: center
+	color: $text-color-white
+	font-size: 3rem
+	font-weight: 700
+	text-transform: uppercase
