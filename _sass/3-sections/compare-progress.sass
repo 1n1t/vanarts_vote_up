@@ -5,12 +5,16 @@
 	top: calc(50% - 24px / 2)
 	cursor: pointer
 	z-index: 2
+	@media screen and (max-width: 420px)
+		right: calc(40px / 2 - 28px / 2)
 
 .progress-box
 	width: 240px
 	position: fixed
 	right: 70px
 	top: 50%
+	@media screen and (max-width: 420px)
+		right: 40px
 
 	border: $border-thin
 	background-color: rgba(255, 255, 255, 0.9)

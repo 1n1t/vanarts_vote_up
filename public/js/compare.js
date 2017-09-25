@@ -1,10 +1,11 @@
 //	object with user's votes (global variable)
-var votes = {
-	"Liberal": [],
-	"Conservative": [],
-	"New Democratic": [],
-	"Green": []
-};
+var votes = {};
+
+var parties = ["Liberal", "Conservative", "New Democratic", "Green"];
+
+parties.forEach(function (party) {
+	votes[party] = [];
+});
 
 //	jQuery function
 $(function () {
@@ -24,20 +25,27 @@ $(function () {
 		
 		includeSelectAllOption: true,
 		
+		numberDisplayed: 0,
+		
 		//	on change event
 		onChange: function (option) {
 			var policy = $(option).val();
-			
+
+			//	refresh list of active policies
+			var activePoliciesLenghtPrev = activePolicies.length;
+			activePolicies = $('#select-policies').val();
+			var activePoliciesLenghtNew = activePolicies.length;
+
 			//	toggle the hidden class for policy row header
 			$('.compare-table__row-header[data-policy="' + policy + '"]').toggleClass('hidden');
 
 			//	toggle the hidden class for policy cell of currently filtered parties
 			for (var i = 0; i < activeParties.length; i++) {
 				$('.compare-table__cell[data-party="' + activeParties[i] + '"][data-policy="' + policy + '"]').toggleClass('hidden');
+				if (activePoliciesLenghtPrev === 0 || activePoliciesLenghtNew === 0) {
+					$('.compare-table__col-header[data-party="' + activeParties[i] + '"]').toggleClass('hidden');
+				}
 			}
-			
-			//	refresh list of active policies
-			activePolicies = $('#select-policies').val();
 		},
 		
 		//	on selectAll event
@@ -49,6 +57,7 @@ $(function () {
 			//	remove the hidden class for policy cell of currently filtered parties
 			for (var i = 0; i < activeParties.length; i++) {
 				$('.compare-table__cell[data-party="' + activeParties[i] + '"]').removeClass('hidden');
+				$('.compare-table__col-header[data-party="' + activeParties[i] + '"]').removeClass('hidden');
 			}
 
 			//	refresh list of active policies
@@ -63,6 +72,7 @@ $(function () {
 			//	add the hidden class for policy cell of currently filtered parties
 			for (var i = 0; i < activeParties.length; i++) {
 				$('.compare-table__cell[data-party="' + activeParties[i] + '"]').addClass('hidden');
+				$('.compare-table__col-header[data-party="' + activeParties[i] + '"]').addClass('hidden');
 			}
 
 			//	refresh list of active policies
@@ -262,6 +272,18 @@ $(function () {
 			$('.compare-table__cell[data-party="' + party + '"][data-policy="' + policy + '"]')
 				.children('p')
 				.text(policies[party][policy]);
+		}
+	}
+
+	// --------------------------------------
+	//	*** TABLE POLICIES RESPONSIVENESS ***
+	// --------------------------------------
+
+	var windowWidth = $(window).width();
+
+	if (windowWidth < 900) {
+		for (var i = 0; i < parties.length; i++) {
+			$('.policies [data-party="' + parties[i] + '"]').css('order', i);
 		}
 	}
 });
