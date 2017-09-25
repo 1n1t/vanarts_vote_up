@@ -9,8 +9,6 @@ $(function(){
 	//populate the p tag with leadership data
 	for(const party in parties){
 		for(const partyObjKey in parties[party]){
-			console.log(party ,':', partyObjKey, );
-			console.log(parties[party][partyObjKey]);
 			//1. append leadership info to leadership p tag
 			$('.leadership-para[data-party="' + party + '"][data-leadership="' + partyObjKey + '"]')
 				.text(parties[party][partyObjKey]);
