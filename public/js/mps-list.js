@@ -23,7 +23,7 @@ $(function () {
 	
 	provinces.forEach(function (province) {
 		//	creating HTML elements for parties and provinces
-		var provinceEl = $("<article class='province'></article>");
+		var provinceEl = $("<article class='province' data-province='" + province + "'></article>");
 		var provinceNameEl = $("<h1></h1>").text(province);
 
 		//	add province name element to the province section
@@ -60,7 +60,7 @@ $(function () {
 				partyEl.append(partyNameEl);
 
 				//	create container element for MP's boxes
-				var mpContainerEl = $("<div class='mp-container'></div>");
+				var mpContainerEl = $("<div class='mp-list-container'></div>");
 				
 				//	for each MP in the province and the party
 				mpsObj[party].forEach(function (mp) {
