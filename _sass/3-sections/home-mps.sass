@@ -5,6 +5,9 @@
 	&::after
 		@include line-divider
 
+.mp-title
+	font-size: 3rem
+
 /*Use Flex box to put items in row*/
 .mp-container
 	display: flex
@@ -12,16 +15,12 @@
 	align-items: center
 	justify-content: space-evenly
 
-.mp-item
-	width: 350px
-
 /*Size of image*/
 .rounded
-	width: 450px
-	height: 350px
 	margin-top: 70px
 	margin-bottom: 70px
 	border: 5px solid $primary-color
+	max-width: 100%
 
 .para-mp
 	padding-top: 30px
@@ -31,9 +30,13 @@
 	margin-top: 30px
 
 /* Media Query */
-@media screen and (max-width: 800px)
+@media screen and (max-width: 1200px)
 	.mp-container
 		display: flex
 		flex-direction: column
 		align-items: center
 		justify-content: center
+	.mp-item
+		align-self: center
+	.mp-title
+		margin-top: 50px
