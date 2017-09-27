@@ -273,14 +273,13 @@ $(function () {
 	//	*** MODAL POPULATING ***
 	// ----------------------------------
 	function renderWinningParty(maxVotes){
-		//populate modal with random fact about party
+		//get parties from parties.json so we have access to fact
 		var parties = parseJSON('/db/parties.json');
 		//calculate winning party
 		var winningParties = [];
 		for (var key in votes) {
 			if (votes[key].length === maxVotes) {
 				winningParties.push(key);
-				console.log('Winning Party is', winningParties);
 			}
 		}
 		//empty paras of previous party fact results
@@ -291,8 +290,6 @@ $(function () {
 
 		//populate the p tag using winningParties array and data from parties.json
 		for (var i = 0; i < winningParties.length; i++) {
-			console.log(winningParties[i]);
-			console.log(winningParties.length);
 			//append results to results para
 			var results = $('<p>You chose the ' + winningParties[i] + ' Party.</p>');
 			resultsPara.append(results);
@@ -301,8 +298,6 @@ $(function () {
 			factPara.append(para);
 		}
 	}
-
-
 });
 
 
