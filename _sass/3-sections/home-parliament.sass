@@ -1,34 +1,57 @@
+.parliament-flex-container
+	display: flex
+	flex-direction: row
+	justify-content: space-evenly
+
+.parliament-item
+	align-self: flex-start
+
+/*Edit Image*/
+.parliament-picture
+	width: 80%
+
 /* Title of section */
 .parliament-title
-	text-transform: uppercase
-	font-size: 1.8rem
-	margin-top: 100px
+	font-size: 3rem
+	margin-top: 50px
+	text-align: center
 
 /* Style of paragraphs */
 .first-para
-	margin-top: 8px
+	margin-top: 20px
 
 .facts-container
+	margin-top: 25px
 	background-color: $primary-color
-	width: 395px
-	height: 500px
+	width: 80%
+	height: 435px
+	margin-left: 15px
 
 /* Style Quick Facts title */
 .quick-facts-title
 	color: white
-	padding-top: 30px
+	padding-top: 25px
 	margin-left: 35px
 
 /* Style bullet points */
 .facts
 	color: $text-color-white
+	width: 90%
 	margin-bottom: 30px
 	margin-top: 30px
 
-/* Media Query */
-@media screen and (max-width: 960px)
-	.parliament-container
+/*Media query*/ 
+@media screen and (max-width: 1200px)
+	.parliament-flex-container
 		display: flex
 		flex-direction: column
-		align-items: center
 		justify-content: center
+	.parliament-item
+		align-self: center
+		margin-top: 30px
+		margin-bottom: 10px
+	.parliament-picture
+		width: 100%
+		margin-top: 30px
+	.facts-container
+		height: 100%

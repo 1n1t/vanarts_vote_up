@@ -6762,15 +6762,33 @@ img {
       -ms-flex-align: center;
           align-items: center; }
 
+/*Media query for responsiveness */
 @media screen and (max-width: 1200px) {
   .hero-flex-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center; } }
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 50px; }
+  .hero-item {
+    -ms-flex-item-align: center;
+        align-self: center; }
+  .hero-one {
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2; }
+  .hero-two {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1; }
+  .btn-primary {
+    margin-top: 20px; } }
 
 /* Containers */
 .parties-container {
@@ -6778,8 +6796,7 @@ img {
   margin: auto;
   width: 90%;
   position: relative;
-  margin-top: 50px;
-  margin-bottom: 50px; }
+  margin-top: 100px; }
 
 .parties-bottom-container {
   display: block;
@@ -6807,7 +6824,8 @@ img {
 
 /* Card Classes */
 .home-parties {
-  width: 20%; }
+  width: 20%;
+  margin-top: 30px; }
 
 .card {
   border: none; }
@@ -6900,7 +6918,12 @@ img {
 
 .card {
   background: white;
-  padding: 10px; }
+  padding: 10px;
+  margin-bottom: 70px; }
+
+.statistics-margin {
+  margin: 0px;
+  margin-top: 50px; }
 
 /* Line dividing sections */
 .home-mps {
@@ -6920,6 +6943,9 @@ img {
       .home-mps::after {
         left: calc(50% - 780px / 2); } }
 
+.mp-title {
+  font-size: 3rem; }
+
 /*Use Flex box to put items in row*/
 .mp-container {
   display: -webkit-box;
@@ -6936,16 +6962,12 @@ img {
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly; }
 
-.mp-item {
-  width: 350px; }
-
 /*Size of image*/
 .rounded {
-  width: 450px;
-  height: 350px;
   margin-top: 70px;
   margin-bottom: 70px;
-  border: 5px solid #D0021B; }
+  border: 5px solid #D0021B;
+  max-width: 100%; }
 
 .para-mp {
   padding-top: 30px; }
@@ -6955,7 +6977,7 @@ img {
   margin-top: 30px; }
 
 /* Media Query */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .mp-container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -6969,38 +6991,66 @@ img {
             align-items: center;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
-            justify-content: center; } }
+            justify-content: center; }
+  .mp-item {
+    -ms-flex-item-align: center;
+        align-self: center; }
+  .mp-title {
+    margin-top: 50px; } }
+
+.parliament-flex-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly; }
+
+.parliament-item {
+  -ms-flex-item-align: start;
+      align-self: flex-start; }
+
+/*Edit Image*/
+.parliament-picture {
+  width: 80%; }
 
 /* Title of section */
 .parliament-title {
-  text-transform: uppercase;
-  font-size: 1.8rem;
-  margin-top: 100px; }
+  font-size: 3rem;
+  margin-top: 50px;
+  text-align: center; }
 
 /* Style of paragraphs */
 .first-para {
-  margin-top: 8px; }
+  margin-top: 20px; }
 
 .facts-container {
+  margin-top: 25px;
   background-color: #D0021B;
-  width: 395px;
-  height: 500px; }
+  width: 80%;
+  height: 435px;
+  margin-left: 15px; }
 
 /* Style Quick Facts title */
 .quick-facts-title {
   color: white;
-  padding-top: 30px;
+  padding-top: 25px;
   margin-left: 35px; }
 
 /* Style bullet points */
 .facts {
   color: white;
+  width: 90%;
   margin-bottom: 30px;
   margin-top: 30px; }
 
-/* Media Query */
-@media screen and (max-width: 960px) {
-  .parliament-container {
+/*Media query*/
+@media screen and (max-width: 1200px) {
+  .parliament-flex-container {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -7008,12 +7058,19 @@ img {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
-            justify-content: center; } }
+            justify-content: center; }
+  .parliament-item {
+    -ms-flex-item-align: center;
+        align-self: center;
+    margin-top: 30px;
+    margin-bottom: 10px; }
+  .parliament-picture {
+    width: 100%;
+    margin-top: 30px; }
+  .facts-container {
+    height: 100%; } }
 
 .title {
   margin-top: 60px;
@@ -7104,7 +7161,7 @@ img {
   border-radius: 50%; }
 
 .logo {
-  width: 100%;
+  width: 80%;
   margin-bottom: 40px; }
 
 .red {
@@ -7119,8 +7176,7 @@ img {
 .policies-row {
   position: relative;
   margin-top: 70px;
-  margin-bottom: 70px;
-  padding-bottom: 70px; }
+  margin-bottom: 70px; }
   .policies-row::after {
     content: '';
     display: block;
@@ -7128,18 +7184,16 @@ img {
     height: 1px;
     bottom: 0;
     background-color: #D0021B;
-    width: 55%;
-    max-width: 780px;
-    left: calc(50% - 55% / 2); }
+    width: 20%;
+    max-width: 290px;
+    left: calc(50% - 20% / 2); }
     @media screen and (min-width: 1440px) {
       .policies-row::after {
-        left: calc(50% - 780px / 2); } }
+        left: calc(50% - 290px / 2); } }
 
 .chart {
-  width: 400px;
+  width: 300px;
   height: 400px;
-  margin: 30px 0;
-  padding-bottom: 30px;
   position: relative; }
 
 @media screen and (max-width: 980px) and (min-width: 576px) {
@@ -7194,9 +7248,15 @@ img {
   .section {
     margin-bottom: 40px; }
   .logo {
-    width: 100%;
+    width: 70%;
     margin-top: 15px;
-    margin-bottom: 30px; } }
+    margin-bottom: 30px; }
+  .chart {
+    width: 200px;
+    height: 300px;
+    position: relative; }
+  .party-title {
+    font-size: 2.3rem; } }
 
 .filters {
   display: -webkit-box;
