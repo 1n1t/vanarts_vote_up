@@ -251,6 +251,10 @@ $(function () {
 
 		//	render the logos
 		renderPartiesLogos(maxImages);
+		//render chart here so that the results in chart are recalculated when user revotes
+		renderDoughnut();
+		//calculate and render winning party
+		renderWinningParty(maxVotes);
 	}
 	
 	function renderPartiesLogos(maxImages) {
@@ -280,6 +284,36 @@ $(function () {
 		}
 	}
 
+	// ---------------------------------
+	//	*** MODAL POPULATING ***
+	// ----------------------------------
+	function renderWinningParty(maxVotes){
+		//get parties from parties.json so we have access to fact
+		var parties = parseJSON('/db/parties.json');
+		//calculate winning party
+		var winningParties = [];
+		for (var key in votes) {
+			if (votes[key].length === maxVotes) {
+				winningParties.push(key);
+			}
+		}
+		//empty paras of previous party fact results
+		var resultsPara = $('.results-para');
+		resultsPara.empty();
+		var factPara = $('.fact-para');
+		factPara.empty();
+
+		//populate the p tag using winningParties array and data from parties.json
+		for (var i = 0; i < winningParties.length; i++) {
+			//append results to results para
+			var results = $('<p>You chose the ' + winningParties[i] + ' Party.</p>');
+			resultsPara.append(results);
+			//append fact to p tag
+			var para = $('<p>' + parties[winningParties[i]]["fact"] + '</p>');
+			factPara.append(para);
+		}
+	}
+
 	// --------------------------------------
 	//	*** TABLE POLICIES RESPONSIVENESS ***
 	// --------------------------------------
@@ -292,7 +326,6 @@ $(function () {
 		}
 	}
 
-	
 });
 
 

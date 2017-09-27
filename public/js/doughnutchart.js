@@ -1,8 +1,7 @@
-
-$(function(){
+function renderDoughnut(){
 	//get parties from votes global object
 	const partiesArray = Object.keys(votes);
-    //get votes from votes global object
+	//get votes from votes global object
 	var votesArray = [];
 	for (var key in votes) {
 		if (votes.hasOwnProperty(key)) {
@@ -11,7 +10,7 @@ $(function(){
 		}
 	}
 
-//populate doughnut chart with data
+	//populate doughnut chart with data
 	var ctx = document.getElementById("myChart").getContext('2d');
 	var myChart = new Chart(ctx, {
 		type: 'doughnut',
@@ -21,16 +20,16 @@ $(function(){
 				label: "Number of Votes",
 				data: votesArray,
 				backgroundColor: [
-					"rgb(0, 102, 255)",
-					"#F7464A",
-					"#00BFA5",
-					"rgb(255, 102, 0)"
+					"#f50a0e",
+					"#003d99",
+					"#ff6600",
+					"#33cc33",
 				],
 				hoverBackgroundColor: [
-					"rgb(0, 102, 255)",
-					"#FF5A5E",
-					"#5AD3D1",
-					"rgb(255, 153, 51)"
+					"#F7464A",
+					"#0052cc",
+					"#ff8533",
+					"#5cd65c",
 				]
 			}]
 		},
@@ -41,4 +40,4 @@ $(function(){
 			}
 		}
 	});
-});
+};
