@@ -6,6 +6,7 @@ mixin party-table-policy-name(name)
 
 mixin party-table-policy-body(party, policy)
 	.compare-table__cell(data-party="#{party}" data-policy="#{policy}")
+		h4 #{policy}
 		p
 		span.btn-vote Vote
 

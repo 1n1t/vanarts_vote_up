@@ -1,1 +1,17 @@
-#map
+- var provinces = ["Alberta", "British Columbia", "Ontario", "Quebec", "Saskatchewan", "New Brunswick", "Manitoba", "Yukon", "Nova Scotia", "Prince Edward Island", "Newfoundland and Labrador", "Northwest Territories", "Nunavut"]
+
+h1.mps Members of Parliament
+
+i.fa.fa-arrow-circle-up.back-to-top.hidden
+
+.map
+	p Click on a province to display all MPs belong to it
+	#map
+
+.mp-filter
+	p Select your province to display all MPs belong to it
+
+	select.custom-select#mp-select
+		option(selected disabled) Select a province
+		each province in provinces
+			option(value="#{province}") #{province}

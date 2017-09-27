@@ -1,10 +1,18 @@
 .policies
-	margin-top: 100px
+	margin-top: 90px
+	@media screen and (max-width: 420px)
+		margin-top: 30px
 	display: grid
-	grid-template-columns: 120px repeat(4, 1fr)
+	grid-template-columns: 80px repeat(4, 1fr)
 	grid-template-rows: auto
 	grid-column-gap: 30px
 	grid-row-gap: 30px
+
+	@media screen and (max-width: 900px)
+		display: flex
+		flex-direction: column
+		.compare-table__row-header
+			display: none
 
 .compare-table__col-header
 	color: $primary-color
@@ -16,6 +24,16 @@
 
 .compare-table__cell
 	font-size: 0.875rem
+	@media screen and (max-width: 900px)
+		margin: 20px 0
+	h4
+		font-size: 1.25rem
+		color: $text-color
+		font-weight: 300
+		display: none
+		@media screen and (max-width: 900px)
+			display: block
+
 	p
 		margin-bottom: 20px
 
