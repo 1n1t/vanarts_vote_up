@@ -1,10 +1,10 @@
-mixin party-policies(party, policy, history, numSenators, numMps)
+mixin party-policies(party, policy, history, numSenators, numMps, id)
 	.row.policies-row
 		.col-lg-4.col-md-4.col-sm-6.col-xs-12.section
 			h3 Our Policies
 			p.font-weight-bold.leadership-para Our approach to issues
 			p.policies-para(data-party="#{party}" data-policy="#{policy}").end-para
-			button.btn.btn-primary View Policies
+			a.btn.btn-primary(href="compare.html") View Policies
 		.col-lg-4.col-md-4.col-sm-6.col-xs-12.section
 			h3 Our History
 			p.font-weight-bold.leadership-para The Party History
@@ -12,6 +12,7 @@ mixin party-policies(party, policy, history, numSenators, numMps)
 			p.font-weight-bold.text-uppercase.red Read More
 		.col-lg-4.col-md-4.col-sm-12.col-xs-12.section
 			h3 Our Representation
-			p.font-weight-bold.leadership-para Majority Representation
+			p.font-weight-bold.leadership-para Senators and MPs
 			p We have #{numSenators} currently sitting Senators in the Senate and #{numMps} MPs in the House of Commons.
-			canvas#seatsChart
+			.chart
+				canvas(id="#{id}")
