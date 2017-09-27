@@ -43,9 +43,8 @@ $(window).scroll(function () {
 	}
 });
 
-function smoothScrollToTarget(target) {
+function smoothScrollToTarget(target, adj = 0) {
 	let startY = $(window).scrollTop();
-	let adj = 0;
 	let stopY = target.offset().top - adj;
 	let distance = stopY > startY ? stopY - startY : startY - stopY;
 

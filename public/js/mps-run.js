@@ -41,14 +41,13 @@ group.click(function(){
 		})
 		.join(' ')
 		.trim();
-
-	console.log(this.attr('title'));
-	
 	// add some color
 	this.attr('fill', fill);
-
-	// do something useful
-	// document.getElementById('title').textContent = title;
+	
+	//get clicked on province
+	var clickedProvince = $('article.province[data-province="' + title + '"]');
+	//scroll to province
+	smoothScrollToTarget(clickedProvince, 30);
 });
 
 group.mouseover(function () {
