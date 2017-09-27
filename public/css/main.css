@@ -6634,7 +6634,8 @@ img {
   font-size: 1.5rem;
   position: fixed;
   right: 25px;
-  bottom: 40px; }
+  bottom: 40px;
+  cursor: pointer; }
   @media screen and (max-width: 420px) {
     .back-to-top.fa {
       right: 6px; } }
@@ -7395,6 +7396,35 @@ img {
       #modal .modal-body .chart::after {
         left: calc(50% - 290px / 2); } }
 
+h1.mps {
+  text-align: center;
+  margin: 30px 0; }
+  @media screen and (max-width: 420px) {
+    h1.mps {
+      margin-bottom: 60px; } }
+
+.map {
+  max-width: 800px;
+  margin: 20px auto 0 auto; }
+  .map svg {
+    height: 600px !important;
+    max-width: 800px !important; }
+  @media screen and (max-width: 940px) {
+    .map {
+      display: none; } }
+
+.mp-filter {
+  margin-bottom: 70px; }
+  @media screen and (min-width: 940px) {
+    .mp-filter {
+      display: none; } }
+  @media screen and (max-width: 420px) {
+    .mp-filter {
+      text-align: center; } }
+  .mp-filter .custom-select {
+    border: #D0021B solid 1px;
+    color: #D0021B; }
+
 .mps-list .province h1 {
   font-size: 2rem;
   padding-bottom: 40px;
@@ -7415,9 +7445,12 @@ img {
     @media screen and (min-width: 1440px) {
       .mps-list .province h1::after {
         left: calc(50% - 780px / 2); } }
+    @media screen and (min-width: 1440px) {
+      .mps-list .province h1::after {
+        left: 0; } }
 
-.mps-list .province:not(:first-of-type) {
-  margin-top: 100px; }
+.mps-list .province:not(:last-of-type) {
+  margin-bottom: 100px; }
 
 .mps-list .party h3 {
   color: #4A4A4A;
@@ -7429,7 +7462,7 @@ img {
 .mps-list .party:not(:first-of-type) {
   margin-top: 20px; }
 
-.mps-list .mp-container {
+.mps-list .mp-list-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -7437,10 +7470,13 @@ img {
       flex-wrap: wrap;
   -webkit-box-pack: start;
       -ms-flex-pack: start;
-          justify-content: flex-start; }
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start; }
 
 .mps-list .mp {
-  margin-right: 30px;
+  margin-right: 10px;
   -ms-flex-preferred-size: 200px;
       flex-basis: 200px;
   margin-bottom: 30px; }

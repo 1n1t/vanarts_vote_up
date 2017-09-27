@@ -1,11 +1,11 @@
 //	***************************
 //	MAP INITIALIZATION & EVENTS
 //	***************************
-var MAP_WIDTH  = 800;
-var MAP_HEIGHT = 600;
+// var MAP_WIDTH  = 800;
+// var MAP_HEIGHT = 600;
 
 var mapContainer = document.getElementById("map");
-var map = new Raphael(mapContainer, MAP_WIDTH, MAP_HEIGHT);
+var map = new Raphael(mapContainer);
 var group = map.set();
 
 var style = {
@@ -57,4 +57,20 @@ group.mouseover(function () {
 
 group.mouseout(function () {
 	this.animate(style, animationSpeed);
+});
+
+
+
+//	*****************************
+//	MOBILE VERSION WITH SELECTBOX
+//	*****************************
+
+$(function () {
+	$('#mp-select').change(function () {
+		$('article.province[data-province="' + $(this).val() + '"]').removeClass('hidden');
+		
+		$('article.province').not($('[data-province="' + $(this).val() + '"]')).each(function () {
+			$(this).addClass('hidden');
+		});
+	});
 });
