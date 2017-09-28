@@ -6,6 +6,14 @@ $(function () {
 	var mps = parseJSON('db/mps.json');
 	var provinces = [];
 	var parties = [];
+	var partiesLogos = {
+		"Liberal Party": 'logo-liberals.png',
+		"Conservative Party": 'logo-conservatives.png',
+		"New Democratic Party": 'logo-ndp.png',
+		"Green Party": 'logo-green.png',
+		"Independent Party": '',
+		"Bloc Québécois" : 'bloc-quebec.png',
+	};
 
 	//	get the list of all parties and provinces
 	mps["MemberOfParliament"].map(function (mp) {
@@ -56,7 +64,10 @@ $(function () {
 				//	create party sections with name of the party
 				var partyEl = $("<article class='party'></article>");
 				var partyNameEl = $("<h3></h3>").text(party);
-
+				//append logo to each party section
+				var partyLogo = $('<img class="party-logo" src="img/' + partiesLogos[party] + '" alt="' + partiesLogos[party] + '"></img>');
+				
+				partyEl.append(partyLogo);
 				partyEl.append(partyNameEl);
 
 				//	create container element for MP's boxes
