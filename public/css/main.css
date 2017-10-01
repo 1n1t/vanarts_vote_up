@@ -7533,6 +7533,11 @@ h1.mps {
 .mps-list .party:not(:first-of-type) {
   margin-top: 20px; }
 
+.mps-list .party-logo {
+  width: 15%;
+  position: relative;
+  margin-top: 20px; }
+
 .mps-list .mp-list-container {
   display: -webkit-box;
   display: -ms-flexbox;
