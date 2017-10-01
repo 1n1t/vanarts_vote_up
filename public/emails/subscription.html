@@ -7,15 +7,91 @@
 	<meta charset="UTF-8">
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,700">
+	<script src="https://use.fontawesome.com/ca674f794b.js"></script>
+	<title>Welcome to Vote Up!</title>
 	<!-- ### styles ###-->
 	<style>
 		body {
-			color: deeppink;
+			font-family: Lato, sans-serif;
 		}
+		.container {
+			max-width: 100%;
+			padding: 0 70px;
+			padding-bottom: 70px;
+			margin: 0;
+		}
+
+		h1 {
+			font-size: 1.8rem;
+			color: #D0021B;
+			font-weight: 700;
+			text-align:left;
+		}
+		h4 {
+			font-size: 1.6rem;
+			color: black;
+			font-weight: 700;
+		}
+
+		p {
+			font-size: 1rem;
+			color: black;
+			line-height: 1.4rem;
+			background-color: white;
+		}
+
+		hr {
+			border-top: solid 1px #D0021B;
+			margin-top: 70px;
+			margin-bottom: 70px;
+			width: 55%;
+			max-width: 780px;
+		}
+		.logo {
+      		margin: 14px 0;
+    	}
 	</style>
 </head>
-<body>
+<body style="background-color: #fafafa;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;width: 100% !important;">
+	<div class="logo" style="margin: 14px 0;">
+		<img src="https://www.vote-up.ohhhh.me/public/img/header-slogan.jpg" style="display: block;margin: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;">
+	</div>
+	<div class="container" style="background: #fff;color: #222;font-family: 'Lato';padding: 20px;margin: 0 auto;max-width: 550px;text-align: center;width: 100%;">
+	<!-- nav logo -->
 	<h1>Hello <?= $name ?? 'incognito' ?></h1>
+	<hr>
+	<h4> Welcome to the Vote Up Newsletter</h4>
+	<p style="text-align: center; font-weight:bold">Here is your first weekly fact:</p>
+	<p>The Liberal Party of Canada is the oldest federal political party in Canada. The party espouses the principles of liberalism
+	and generally sits at the centre of the Canadian political spectrum. The Liberal Party is traditionally positioned to the
+	left of the Conservative Party of Canada and to the right of the New Democratic Party (NDP).</p>
+	<hr>
+	<p>The Conservative Party of Canada, colloquially known as the Tories, is positioned on the right of the Canadian political
+	spectrum.The party's leader is Andrew Scheer, who serves as Leader of the Official Opposition. The Conservative Party is
+	the successor to multiple right-wing parties which have existed in Canada for over a century.</p>
+	<hr>
+	<p>The NDP was founded in 1961 out of the merger of the Co-operative Commonwealth Federation (CCF) with the Canadian Labour
+	Congress (CLC). The NDP has often been Canada's third largest party in Parliament, at times aligning itself with the Liberal
+	Party of Canada.</p>
+	<hr>
+	<p>The Greens have always had leftist and centrist factions that have been ascendant at different times in the party's history.
+	Many Greens also claim that this traditional left-right political spectrum analysis does not accurately capture the pragmatic
+	ecological orientation of an evolving Green Party.</p>
+	<p>Thanks,</p>
+	<p>The Vote Up Team</p>
+	<div><a href="mailto:hello@voteup.ca" style="color:#D0021B !important;">hello@voteup.ca</a></div>
+
+	<div id="footer-social-btns" style="display: inline-block;width: 100%;">
+		<a href="https://wwwvote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
+			<img src="http://fontawesome.io/icon/facebook/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
+		</a>
+		<a href="https://wwvote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
+			<img src="http://fontawesome.io/icon/twitter/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
+		</a>
+		<a href="https://www.vote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
+			<img src="http://fontawesome.io/icon/instagram/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
+		</a>
+	</div>
 </body>
 </html>
