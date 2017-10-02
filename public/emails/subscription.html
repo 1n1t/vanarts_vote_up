@@ -7,7 +7,6 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,700">
-	<script src="https://use.fontawesome.com/ca674f794b.js"></script>
 	<!-- ### styles ###-->
 	<style>
 		body {
@@ -24,12 +23,13 @@
 			font-size: 1.8rem;
 			color: #D0021B;
 			font-weight: 700;
-			text-align:left;
+			text-align:center;
 		}
 		h4 {
 			font-size: 1.6rem;
-			color: black;
+			color: #D0021B;
 			font-weight: 700;
+			text-align: center;
 		}
 
 		p {
@@ -46,33 +46,15 @@
 			width: 55%;
 			max-width: 780px;
 		}
-		.logo {
-      		margin: 14px 0;
-		}
-		    
-		#footer-social-btns {
-			display: inline-block; width: 100%;
-		}
-		#footer-social-btns > a {
-			text-decoration: none;
-		}
-		#footer-social-btns > a > img {
-			display: inline-block; 
-			width: 10%; 
-			margin: 0px;
-		}
 	</style>
 </head>
 <body style="background-color: #fafafa;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;width: 100% !important;">
-	<div class="logo" style="margin: 14px 0;">
-		<img src="https://www.vote-up.ohhhh.me/public/img/header-slogan.jpg" style="display: block;margin: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;">
-	</div>
-	<div class="container" style="background: #fff;color: #222;font-family: 'Lato';padding: 20px;margin: 0 auto;max-width: 550px;text-align: center;width: 100%;">
+	<div class="container" style="background: #fff;color: #222;font-family: 'Lato';padding: 20px;margin: 0 auto;max-width: 550px; width: 100%;">
 	<!-- nav logo -->
 	<h1>Hello <?= $name ?? 'incognito' ?></h1>
 	<hr>
 	<h4> Welcome to the Vote Up Newsletter</h4>
-	<p style="text-align: center; font-weight:bold">Here is your first weekly fact:</p>
+	<p style="text-align:center;font-weight:bold">Here is your first weekly fact:</p>
 	<p>The Liberal Party of Canada is the oldest federal political party in Canada. The party espouses the principles of liberalism
 	and generally sits at the centre of the Canadian political spectrum. The Liberal Party is traditionally positioned to the
 	left of the Conservative Party of Canada and to the right of the New Democratic Party (NDP).</p>
@@ -91,17 +73,5 @@
 	<p>Thanks,</p>
 	<p>The Vote Up Team</p>
 	<div><a href="mailto:hello@voteup.ca" style="color:#D0021B !important;">hello@voteup.ca</a></div>
-
-	<div id="footer-social-btns" style="display: inline-block;width: 100%;">
-		<a href="https://wwwvote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
-			<img src="http://fontawesome.io/icon/facebook/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
-		</a>
-		<a href="https://wwvote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
-			<img src="http://fontawesome.io/icon/twitter/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
-		</a>
-		<a href="https://www.vote-up.ohhhh.me" style="text-decoration: none;color: #D0021B !important;">
-			<img src="http://fontawesome.io/icon/instagram/" style="display: inline-block;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;width: 10%;">
-		</a>
-	</div>
 </body>
 </html>
