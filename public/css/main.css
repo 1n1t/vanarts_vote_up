@@ -6487,8 +6487,6 @@ img {
   background-size: 145px 85px;
   z-index: 2;
   height: 80px; }
-  .navbar-alt .nav-item {
-    margin-left: 150px; }
 
 .nav-link {
   color: #4A4A4A;
@@ -6652,6 +6650,16 @@ img {
       right: 6px; } }
   .back-to-top.fa.hidden {
     display: none; }
+
+.flash-message {
+  position: fixed;
+  width: 200px;
+  top: 30px;
+  right: 30px;
+  background-color: white;
+  border: #D0021B solid 1px;
+  z-index: 10;
+  padding: 5px 10px; }
 
 /* Style Webpage title */
 .vote-up-title {

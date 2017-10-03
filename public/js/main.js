@@ -19,7 +19,12 @@ $(function(){
 		//This code is called when navbar-mobile-toggle is clicked
 		$(this).toggleClass("is-open");
 		$(".navbar-mobile-container").toggleClass("is-open");
+		console.log($(this));
 	});
+	
+	//	highlight the active class
+	var page = document.location.href.split('/').slice(-1)[0];
+	$('[href="/' + page + '"]').addClass('active');
 });
 
 
