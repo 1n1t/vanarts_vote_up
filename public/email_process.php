@@ -2,6 +2,7 @@
 
 if (count($_POST) > 0) {
 	sendEmail();
+	setcookie('msg', 'Thank you for subscribing to our email newsletters', time() + 3600);
 }
 
 header("Location: /");
